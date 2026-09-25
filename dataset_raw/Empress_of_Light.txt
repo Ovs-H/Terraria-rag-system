@@ -1,0 +1,1780 @@
+Source URL: https://terraria.wiki.gg/wiki/Empress_of_Light
+Title: Empress_of_Light
+
+Desktop
+/
+Console
+/
+Mobile
+-Only Content
+: This  information applies 
+only
+ to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+Empress of Light
+First Form
+Hardmode exclusive
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ The Hallow 
+AI Type
+Empress of Light AI
+Damage
+80
+110
+248
+ 
+(contact)
+[
+1
+]
+120
+165
+372
+ 
+(dash)
+[
+2
+]
+90
+120
+180
+ 
+(
+Prismatic Bolt
+ 1)
+[
+3
+]
+100
+140
+210
+ 
+(
+Sun Dance
+)
+[
+4
+]
+90
+120
+180
+ 
+(
+Everlasting Rainbow
+)
+[
+5
+]
+100
+120
+180
+ 
+(
+Ethereal Lance
+ 1)
+[
+6
+]
+Max Life
+70000
+/
+98000
+/
+124950
+Defense
+50
+KB
+ Resist
+100%
+Immune to
+Projectiles created
+Projectiles created
+Projectiles created
+Death Aurora
+(Spawning light effect)
+Prismatic Bolt
+Sun Dance
+Everlasting Rainbow
+Ethereal Lance
+Sounds
+Hurt
+Killed
+Spawn
+Prismatic Bolt
+ 1
+Prismatic Bolt
+ 2
+Sun Dance
+Everlasting Rainbow
+Ethereal Lance
+ 1/2/3
+Dash
+Internal 
+NPC ID
+: 
+636
+Internal 
+Projectile ID
+: 
+874
+, 
+873
+, 
+923
+, 
+872
+, 
+919
+Empress of Light
+Second Form
+Hardmode exclusive
+Nighttime Form
+Daytime (Enraged) Form
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ The Hallow 
+AI Type
+Empress of Light AI
+Damage
+80
+110
+248
+ 
+(contact)
+[
+1
+]
+120
+165
+372
+ 
+(dash)
+[
+2
+]
+100
+140
+210
+ 
+(
+Prismatic Bolt
+ 1/2)
+[
+3
+]
+120
+160
+240
+ 
+(
+Sun Dance
+)
+[
+4
+]
+100
+140
+210
+ 
+(
+Everlasting Rainbow
+)
+[
+5
+]
+120
+140
+210
+ 
+(
+Ethereal Lance
+ 1/3)
+[
+6
+]
+130
+120
+180
+ 
+(
+Ethereal Lance
+ 2)
+[
+6
+]
+Max Life
+35000/70000
+49000/98000
+62475/124950
+Defense
+60
+KB
+ Resist
+100%
+Immune to
+Drops
+Coins
+25
+ Gold
+(Dropped by Treasure Bag
+[
+7
+]
+)
+Item 
+(Quantity)
+Rate
+One of the following 4 items will always be dropped 
+[
+8
+]
+Nightglow
+25%
+Starlight
+25%
+Kaleidoscope
+25%
+Eventide
+25%
+Empress Wings
+6.67%
+Prismatic Dye
+ 
+(3)
+25%
+Stellar Tune
+2%
+Rainbow Cursor
+5%
+Terraprisma
+(if 100% of damage is dealt at daytime)
+100%
+Greater Healing Potion
+ 
+(5–15)
+100%
+Empress of Light Mask
+14.29%
+Empress of Light Trophy
+10%
+Treasure Bag
+(Empress of Light)
+100%
+One of the following 4 items will always be dropped
+Nightglow
+25%
+Starlight
+25%
+Kaleidoscope
+25%
+Eventide
+25%
+Soaring Insignia
+100%
+Empress of Light Mask
+14.29%
+Empress Wings
+10%
+Stellar Tune
+5%
+Rainbow Cursor
+5%
+Prismatic Dye
+ 
+(3)
+25%
+Coins
+ (
+62
+ Gold 
+50
+ Silver
+)
+100%
+Jewel of Light
+25%
+Empress of Light Relic
+100%
+Projectiles created
+Projectiles created
+Projectiles created
+Prismatic Bolt
+Sun Dance
+Everlasting Rainbow
+Ethereal Lance
+Sounds
+Hurt
+Killed
+Spawn
+Prismatic Bolt
+ 1
+Prismatic Bolt
+ 2
+Sun Dance
+Everlasting Rainbow
+Ethereal Lance
+ 1/2/3
+Dash
+Internal 
+NPC ID
+: 
+636
+Internal 
+Projectile ID
+: 
+873
+, 
+923
+, 
+872
+, 
+919
+ 
+“Responsible for all those flashy lights and glitter.”
+ 
+The 
+Empress of Light
+ is a 
+Hardmode
+, post-
+Plantera
+ 
+boss
+. She is generally fought at 
+night
+, and becomes "
+enraged
+" with greatly increased damage during the day. Fighting the Empress of Light is not required for game progression, but her defeat rewards the player with powerful weapons and equipment.
+While she can be summoned as soon as Plantera is defeated, her difficulty is on par with that of a post-
+Golem
+ boss, making her a serious threat to unprepared players. Taking her on early poses a significant challenge that typically requires practicing to dodge her telegraphed attacks.
+While the Empress of Light is alive, her exclusive music 
+Empress of Light
+ will play. When 
+Otherworldly music
+ is enabled, the track 
+Boss 2 (Otherworldly)
+ will play instead.
+Summoning
+[
+edit
+]
+The Empress of Light is summoned by killing a 
+Prismatic Lacewing
+, at any time.
+Prismatic Lacewings spawn in 
+The Hallow
+ on the Surface between dusk (7:30 PM) and midnight (12:00 AM) once 
+Plantera
+ has been defeated. They can be caught with a 
+Bug Net
+ (or its upgrades), then released elsewhere and killed by the player. If released outside of the Hallow, a Prismatic Lacewing will disappear almost immediately.
+The Empress of Light herself does not require any bosses to be defeated prior, meaning she can be summoned earlier than her intended stage of progression, and that Prismatic Lacewings brought to a new world can be used to summon her.
+Behavior
+[
+edit
+]
+Attacks
+[
+edit
+]
+The Empress of Light performs a multitude of complex, projectile-focused attacks. Each attack lasts for a specific amount of time, which consists of time for performing the attack and a "wait time" after an attack. The wait time after an attack will be shortened by 0.25 seconds during her second phase, and another 0.08 seconds in Expert Mode.
+[
+9
+]
+ There is also an interval between each attack, see 
+attack pattern
+ for details.
+Prismatic Bolts 1
+The Empress of Light summons 20 / 
+30
+ 
+Prismatic Bolts
+ over the course of 1 second
+[
+3
+]
+ at her current position in random directions. The Prismatic Bolts will gradually slow down, maintaining their initial direction when first summoned, before accelerating and homing in on the player after a short delay. These bolts do not have perfect tracking, and will miss if the player makes a sharp turn as they approach.
+In Expert Mode, during the second phase, the Prismatic Bolts are shot out farther from the Empress of Light.
+In 
+multiplayer
+, several extra Prismatic Bolts can be shot at players that are no more than 150 tiles away from the Empress of Light.
+The wait time after this attack is 1.5 seconds.
+Prismatic Bolts 2
+The Empress of Light summons 8 / 
+12
+ Prismatic Bolts over the course of 0.83 seconds
+[
+3
+]
+ in a clockwise spiral. These Prismatic Bolts behave identically to those used in the first variant of the attack.
+In 
+multiplayer
+, several extra Prismatic Bolts can be shot at players that are no more than 150 tiles away from the Empress of Light.
+The wait time after this attack is 1.5 seconds.
+Dash
+The Empress of Light positions herself to the left or right of the player before charging horizontally in their direction over the course of 1.5 seconds.
+[
+2
+]
+ This attack is additionally preceded by a sound effect and several multicolored afterimages of the Empress spinning around her right before she dashes. She briefly becomes invincible before the dash.
+The wait time after this attack is 0.33 seconds.
+Sun Dance
+The Empress of Light hovers above and slightly to the left of the player before emitting 6 / 
+8
+ large, persistent 
+Sun Dance
+ projectiles that slowly rotate clockwise around her. Three sets of projectiles are created per attack, with each lasting 3 seconds and positioned slightly farther clockwise than the last.
+[
+4
+]
+The wait time after this attack is 2 seconds.
+Everlasting Rainbow
+The Empress of Light releases a randomly rotated ring of 13 
+Everlasting Rainbows
+ over the course of 0.7 seconds
+[
+5
+]
+ that slowly spiral out clockwise from her original position, then spiral back inward in the same direction. The Everlasting Rainbow lingers for a total of 11 seconds
+[
+10
+]
+, and also leave behind a trail of light that deals the same amount of damage to the player.
+The wait time after this attack is 0.5 seconds.
+Ethereal Lance 1
+The Empress of Light summons 20 / 
+25
+ 
+Ethereal Lances
+ over the course of 1.67 seconds
+[
+6
+]
+ that launch in the direction the player was headed when they were summoned, telegraphed by colored beams. Ethereal Lances are summoned from four predetermined points behind the player's current movement direction, each point is offset to form an arc surrounding the player from that direction. If the player is not moving, then the Lances will default to appearing from above the player.
+In Expert Mode a fifth point is added directly behind the player. Ethereal Lances also have higher 
+velocity
+.
+Ethereal Lances do no damage until launched.
+In 
+multiplayer
+, several extra Ethereal Lances can be summoned, targeting players that are no more than 150 tiles away from the Empress of Light.
+The wait time after this attack is 0.33 seconds.
+Ethereal Lance 2
+The Empress of Light summons 4 waves of evenly spaced Ethereal Lances over the course of 4 seconds.
+[
+6
+]
+ These Ethereal Lances will travel across the screen, telegraphed by colored beams. The first wave travels from the left side of the screen to the right, the second from right to left, the third wave from top-left to bottom-right, and the fourth wave from top-right to bottom-left.
+In Expert Mode, this attack summons 6 waves of Ethereal Lances over the course of 4 seconds.
+[
+6
+]
+ These Ethereal Lances will target specific points around the player, telegraphed by colored beams. The first wave travels from the left side of the screen to the right of the player, the second wave from the right side to the left of the player, the third wave from the top side to the bottom-right of the player, the fourth wave from the top side to bottom-left of the player, the fifth wave from the bottom side to top-right of the player, and the sixth wave from the bottom side to the top left of the player.
+Ethereal Lances do no damage until launched.
+The wait time after this attack is 0.33 seconds / 
+0.67 seconds
+.
+Ethereal Lance 3
+The Empress of Light summons 16 Ethereal Lances over the course of 1.67 seconds.
+[
+6
+]
+ These Ethereal Lances precisely target the player's location, telegraphed by colored beams. They are always summoned behind the player.
+Ethereal Lances do no damage until launched.
+In 
+multiplayer
+, several extra Ethereal Lances can be summoned, targeting players that are no more than 150 tiles from the Empress of Light.
+The wait time after this attack is 0.33 seconds.
+Attack pattern
+[
+edit
+]
+The Empress of Light uses her attacks in a set pattern. There will be a fixed interval between each attack, which is shorter in her second phase, and is further shortened in a 
+For the Worthy
+ or 
+Zenith
+ world.
+First phase
+[
+edit
+]
+When spawned, the Empress of Light will hover in place for 3 seconds
+[
+11
+]
+ before executing the following attacks in order:
+Prismatic Bolts 1
+Dash
+Sun Dance
+Dash
+Everlasting Rainbow
+Prismatic Bolts 1
+Dash
+Ethereal Lance 1
+Dash
+Everlasting Rainbow
+The interval between attacks is 0.75 seconds (0.38 seconds in a For the worthy or Get fixed boi world).
+[
+12
+]
+ This sequence of attacks repeats indefinitely until the second phase starts.
+Second phase
+[
+edit
+]
+When the Empress of Light is below half of her max health (35,000 / 
+49,000
+ / 
+62,475
+), she will disappear and reappear above the next estimated location of the player and enters her second phase, gaining four tendrils on her back and a brighter purple coloration (or bright pink when enraged). This transition takes a total of 3 seconds.
+[
+13
+]
+During the second phase, the Empress of Light's 
+defense
+ is increased to 60, and she will perform a new pattern of attacks, with slightly shorter attack intervals and higher damage:
+Ethereal Lance 2
+Prismatic Bolts 1
+Dash
+Ethereal Lance 3
+Everlasting Rainbow
+Prismatic Bolts 1
+Sun Dance
+Ethereal Lance 1
+Dash
+Prismatic Bolts 2
+The interval between attacks is 0.33 seconds (0.17 seconds in a 
+For the Worthy
+ or 
+Zenith
+ world).
+[
+12
+]
+ This sequence of attacks repeats indefinitely until the Empress of Light is defeated.
+Enraged state
+[
+edit
+]
+The Empress of Light can be fought at any time, but she becomes "enraged" during 
+daytime
+, indicated by the color of attacks turning from rainbow-colored to bright yellow.
+In 
+Remix
+ and 
+Zenith
+ worlds, instead of becoming enraged during daytime, the Empress of Light will become enraged at any time when she is above surface layer. She will not be enraged when below surface layer, even if during daytime.
+[
+14
+]
+While enraged, all of her attacks deal ludicrously high damage
+[
+15
+]
+ and will always kill the player in one hit under normal gameplay conditions. On Classic Mode, all of her attacks will also follow the Expert Mode behavior, except for Prismatic Bolts 1 in her second phase, which retain their Classic Mode behavior.
+Dodge
+ effects are ignored under certain conditions:
+[
+16
+]
+For contact and dash damage, dodge effects are ignored during the daytime.
+[
+17
+]
+For projectiles, dodge effects are ignored when the projectiles have at least 9999 base damage.
+If all of the player's damage to the Empress of Light was dealt during daytime, she drops the 
+Terraprisma
+ upon being defeated.
+Notes
+[
+edit
+]
+If the Empress of Light was not damaged during the night (i.e. outside of her enraged state), she will despawn when the time reaches 7:19 PM or later
+[
+18
+]
+; otherwise, she will instead revert to her non-enraged state upon nightfall. This means that players aiming to obtain the 
+Terraprisma
+ will only have between 4:30 AM and 7:19 PM the same day to defeat her.
+This also means that if the Empress of Light is summoned between 7:19 PM and 7:30 PM, she will immediately despawn.
+In 
+Remix
+ and 
+Zenith
+ worlds, this also means that the Empress of Light will immediately despawn when summoned above surface during night.
+All damage inflicted by the Empress of Light's attacks will bypass other 
+invincibility frames
+.
+[
+19
+]
+Despite being a Hardmode boss, the Empress of Light can be summoned in a 
+pre-Hardmode
+ world (for example, if the player brings over a Prismatic Lacewing obtained in a different world).
+Ethereal Lance is the only move the Empress of Light can use to attack the player regardless of distance since the Ethereal Lances appear near the player's position instead of traveling from the Empress of Light to the player.
+When the Empress of Light switches between her normal and enraged attack sets while in her second phase, she may perform a move twice in a row or jump to a different point in the other attack sequence. This is due to the addition of a variant of Ethereal Lance for her enraged attacks.
+Defeating the Empress of Light is not required for the 
+Slayer of Worlds
+ achievement.
+Achievements
+[
+edit
+]
+ 
+Fae Flayer
+ • 
+“Defeat the Empress of Light, responsible for all those flashy lights and glitter.”
+Defeat the 
+Empress of Light
+ for the first time.
+Category: 
+ Slayer
+Tips
+[
+edit
+]
+For more elaborate strategies on defeating Empress of Light, including 
+weapon
+ and 
+arena
+ recommendations, see 
+Guide:Empress of Light strategies
+.
+The 
+Guide to Critter Companionship
+ can be used to avoid accidentally summoning the boss, as it prevents the player from damaging 
+critters
+, including the 
+Prismatic Lacewing
+.
+Capturing Prismatic Lacewings with a 
+Bug Net
+ rather than killing them immediately allows the player to fight the Empress of Light at a proper time and place once prepared.
+Although the Prismatic Lacewing can only spawn at night, the Empress of Light can be spawned at any time of day using captured Prismatic Lacewings.
+If the Prismatic Lacewing is released outside of the Hallow, it will disappear very quickly. To ensure that it gets killed, the player can place the critter directly into a stationary area-of-effect projectile, such as a 
+Clinger Staff
+'s flame pillar or a 
+Rainbow Gun
+'s rainbow.
+A 
+Rod of Discord
+ will help the player evade some of the Empress of Light's attacks.
+If attempting to fight the Empress of Light during the day to obtain the 
+Terraprisma
+, defense and damage resistance should be completely disregarded in favor of damage and mobility, as any damage taken will be beyond lethal regardless.
+The dash ability from the 
+Shield of Cthulhu
+, 
+Master Ninja Gear
+, or 
+Solar Flare armor
+ can increase mobility.
+Wings with hover or fast acceleration capabilities, such as 
+Fishron
+ or 
+Betsy's Wings
+ or the 
+Jetpack
+, can be quite effective for dodging.
+Dodges
+ from 
+Holy Protection
+, the 
+Black Belt
+ and its upgrades, and the 
+Brain of Confusion
+ will not protect the player from death, so it is recommended to replace them with armor and accessories that increase damage output.
+If using the Rod of Discord during her daytime fight, the Chaos State debuff can be disregarded entirely unless the damage from it would also kill the player. Losing a fraction of health to Chaos State is far better than losing all of it to one of the Empress of Light's attacks.
+A riskier strategy would see the use of flying 
+mounts
+ instead of wings or boots, which would free up accessory slots for increased damage output.
+Arenas do not require structures that boost defense or health regeneration, like 
+Campfires
+, 
+Heart Lanterns
+, or 
+Bast Statues
+, as taking any damage instantly kills the player.
+Use weapons that are capable of dealing damage reliably from long range or have homing, such as the 
+Blizzard Staff
+, 
+Possessed Hatchet
+, 
+Scourge of the Corruptor
+, 
+Tsunami
+, 
+Aerial Bane
+, 
+Snowman Cannon
+, 
+Chain Gun
+, or 
+Tactical Shotgun
+ with 
+Chlorophyte Bullets
+.
+A large arena constructed of 
+Asphalt Blocks
+ and layers of platforms is highly recommended, especially with the demand for mobility while fighting the Empress of Light during the day.
+She is not immune to 
+any
+ practical 
+debuffs
+. This can be a good extra source of damage, especially with the use of 
+Ichor
+, 
+Betsy's Curse
+, or 
+Daybroken
+.
+It is best to stay at an average level or below the Empress of Light as she zips above the player's position after every attack she does, making it more likely for the player to be killed by contact damage during the day or take unnecessary hits during the night.
+Trivia
+[
+edit
+]
+The enraged Empress of Light's projectiles deal 
+59,994
+ damage in 
+Master Mode
+, being the single highest source of damage in the game.
+Due to how the Empress of Light's contact and dash damage is scaled, if the difficulty slider is adjusted after she was summoned in 
+Journey Mode
+, her contact and dash damage will abnormally increase or decrease.
+[
+20
+]
+ For example, spawning her in Expert (2×) / Master (3×) and decreasing difficulty to Classic (1×) will increase her contact damage to 368 / 828 and dash damage to 552 / 1242, respectively. Spawning her in Journey (0.5×) and increasing difficulty to Expert (2×) or Master (3×) will decrease her contact and dash damage to just 6 and 9, respectively.
+During development, 
+Cenx
+ described her as "a beautiful bullet hell".
+[
+21
+]
+Crowno
+ has confirmed that the Empress of Light is inspired by the Japanese video game series 
+Touhou Project
+ and other 
+bullet hell
+ games.
+[
+22
+]
+Because the 
+Compass
+ and 
+Depth Meter
+ reveal each tile to be 2 feet in length, counting her wingspan, the Empress of Light would be about 23′ 6″ (8.57 m) tall and 46′ (16.77 m) wide.
+She is the only boss that enrages during the day and reverts to not being enraged at nightfall.
+Several sound effects used by the Empress of Light appear to be samples of the 
+"Whale Probe's" communications
+ from the 1986 American science fiction movie 
+Star Trek IV: The Voyage Home
+.
+The internal name for the Empress of Light is 
+HallowBoss
+.
+Her light effect during spawn is internally named 
+DeathAurora
+.
+Crowno has stated that the pointed line beneath the Empress of Light's eyes, which can be mistaken for a mouth (because it seems to be a smile), is actually her nose.
+[
+23
+]
+The Empress of Light is one of the two bosses that consists of a single destructible entity, the other being 
+Deerclops
+.
+All other boss fights are composed of either multiple bosses, multiple segments, or summoned minions.
+When killed, the 
+gore
+ shows that the Empress of Light has blue blood, similar to Duke Fishron. 
+Blue blood
+ is an idiom for noble birth or descent, befitting the boss's title of 
+Empress
+.
+Empress of Light shares several similarities with 
+Duke Fishron
+.
+Both are optional bosses intended to be fought post-
+Golem
+, but may be summoned early.
+Their summoning item is a 
+critter
+ that cannot be used directly from the inventory to summon the boss.
+They both drop a set of 
+wings
+ themed after themselves.
+Their gore sprites have blue blood in reference to the title of nobility in their names.
+ The 
+Bestiary
+ entry for the Empress of Light: 
+"
+Beneath the Hallow's cleansing blanket lies a vengeful fae goddess bent on scrubbing the land of any and all impurity.
+"
+This suggests that the Empress of Light sees the player as impure after they have killed the 
+Prismatic Lacewing
+; this is supported by the Prismatic Lacewing's Bestiary entry.
+She might also be angry at the player for killing the guardian of the world, the 
+Wall of Flesh
+.
+This may mean that the Empress of Light is the Ancient Spirit of Light mentioned in the 
+lore pages
+.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.7
+: Everlasting Rainbow can no longer hit players on most faded out sections, reducing the hurting area significantly.
+Desktop 1.4.5.0
+: 
+Prismatic Dye
+ now drops from the Empress of Light in a stack of 3, up from 1.
+Desktop 1.4.4
+: 
+Fixed an issue where Empress of Light would sometimes teleport directly on top of the player after an attack.
+Now takes up many more enemy slots, reducing or outright eliminating enemy spawns during her fight.
+"Instant kill" attacks will no longer be avoided by dodge procs such as 
+Holy Protection
+ or 
+Master Ninja Gear
+.
+Desktop 1.4.1
+: 
+Now drops the 
+Rainbow Cursor
+.
+Now grants an achievement upon defeat.
+Desktop 1.4.0.1
+: Introduced.
+ Console version
+Console 1.4.0.5.4.1
+: Introduced.
+ Nintendo Switch version
+Switch 1.4.0.5.5
+: Introduced.
+ Mobile version
+Mobile 1.4.0.5.0
+: Introduced.
+References
+[
+edit
+]
+↑ 
+1.0
+ 
+1.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, methods 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+, 
+ScaleStats_ApplyMultiplayerStats()
+ in 
+Terraria.NPC.cs
+, and 
+GetAttackDamage_ScaledByStrength()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+2.0
+ 
+2.1
+ 
+2.2
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+switch(this.ai[0]){ case 9: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+3.0
+ 
+3.1
+ 
+3.2
+ 
+3.3
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. Relevant code blocks for attacks: 
+Prismatic Bolt
+ 1: 
+switch(this.ai[0]){ case 2: }
+; 
+Prismatic Bolt
+ 2: 
+switch(this.ai[0]){ case 16: }
+ There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+4.0
+ 
+4.1
+ 
+4.2
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. Relevant part for attack is the 
+switch(this.ai[0]){ case 6: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+5.0
+ 
+5.1
+ 
+5.2
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. Relevant part for attack is the 
+switch(this.ai[0]){ case 5: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+6.0
+ 
+6.1
+ 
+6.2
+ 
+6.3
+ 
+6.4
+ 
+6.5
+ 
+6.6
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. Relevant code blocks for attacks: 
+Ethereal Lance
+ 1: 
+switch(this.ai[0]){ case 4: }
+; 
+Ethereal Lance
+ 2: 
+switch(this.ai[0]){ case 7: }
+; 
+Ethereal Lance
+ 3: 
+switch(this.ai[0]){ case 11: }
+ There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+DropLocalPerClientAndResetsNPCMoneyTo0
+ in 
+Terraria.GameContent.ItemDropRules.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+RegisterBoss_HallowBoss()
+ in 
+Terraria.GameContent.ItemDropRules.ItemDropDatabase.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+SetDefaults()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+switch(this.ai[0]){ case 0: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+12.0
+ 
+12.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+switch(this.ai[0]){ case 1: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+switch(this.ai[0]){ case 10: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+ShouldEmpressBeEnraged()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Contact and dash: 9,999 base damage; 
+Projectiles: 19,998 / 
+39,996
+ / 
+59,994
+ base damage
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, methods 
+IsDamageDodgeable()
+ in 
+Terraria.NPC.cs
+ and 
+IsDamageDodgable()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+In 
+Remix
+ and 
+Zenith
+ worlds, this can make contact damage undodgeable even if the Empress of Light is not enraged.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+switch(this.ai[0]){ case 13: }
+ code block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+Update_NPCCollision()
+ in 
+Terraria.Player.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_120_HallowBoss()
+ in 
+Terraria.NPC.cs
+ and field 
+strengthMultiplier
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Cenx' message
+ on the 
+official Terraria Discord server
+ 
+Jul 16, 2019
+↑
+ 
+Crowno on Twitter
+ 
+May 30, 2020
+↑
+ 
+Crowno on Twitter
+ 
+May 30, 2020
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

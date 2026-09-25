@@ -1,0 +1,1030 @@
+Source URL: https://terraria.wiki.gg/wiki/Terra_Blade
+Title: Terra_Blade
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Terra Blade
+.
+Terra Blade
+Statistics
+Type
+Weapon
+Crafting material
+Damage
+85 
+(Melee)
+Knockback
+6.5 
+(Strong)
+Critical chance
+4%
+Use time
+18 
+(Very fast)
+Velocity
+12
+Rarity
+Sell
+20
+ Gold
+Research
+1 required
+Projectiles created
+Terra Blade
+Terra Beam
+Sounds
+Use
+Internal 
+Item ID
+: 
+757
+ 
+Internal 
+Projectile ID
+: 
+984, 985
+For an extensive guide to crafting this item, see 
+Guide:Crafting a Zenith § Terra Blade
+. 
+ 
+“Forged from the finest blades of light and darkness.”
+ 
+The 
+Terra Blade
+ is a 
+Hardmode
+, post-
+Plantera
+ 
+broadsword
+. When swung, a green aura follows the swing, reaching farther than the sword itself. The aura can hit up to three 
+enemies
+. The sword will also fire a green slash projectile that pierces infinitely, dealing the weapon's damage but reducing its damage by 25% of its current damage for each target it pierces.
+[
+1
+]
+ The projectile will dissipate after 1.5 seconds,
+[
+2
+]
+ upon contact with 
+blocks
+, or when its damage falls to 0 after piercing.
+[
+3
+]
+Its best 
+modifier
+ is 
+Legendary
+.
+ 
+The Terra Blade attacking 
+Target Dummies
+. Note how the swing aura can hit a maximum of 3 targets, and how the slash projectile disappears early when its damage is reduced to 0.
+Crafting
+[
+edit
+]
+Recipes
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Terra Blade
+True Night's Edge
+True Excalibur
+Broken Hero Sword
+Mythril Anvil
+or
+Orichalcum Anvil
+Crafting tree
+[
+edit
+]
+ 
+ 
+Obsidian
+ × 20
+( 
+ + 
+ )
+Hellstone
+ × 60
+( 
+Underworld
+ )
+Demonite Ore
+ × 30
+ ( 
+ 
+ )
+Crimtane Ore
+ × 30
+ ( 
+ 
+ )
+Stinger
+ × 12
+( 
+ 
+ )
+Jungle Spores
+ × 15
+( 
+Underground Jungle
+ 
+ )
+ 
+ 
+ 
+ 
+Hallowed Bar
+ × 12
+( 
+ 
+ )
+Chlorophyte Ore
+ × 120
+( 
+Underground Jungle
+ in 
+Hardmode
+ )
+ 
+( 
+ )
+Hellstone Bar
+ × 20
+Demonite Bar
+ × 10
+Crimtane Bar
+ × 10
+Vine
+ × 3
+( 
+ )
+ 
+ 
+ 
+ / 
+ / 
+ / 
+ / 
+ / 
+ / 
+ 
+Excalibur
+Chlorophyte Bar
+ × 24
+Muramasa
+Volcano
+Light's Bane
+or
+Blood Butcherer
+Blade of Grass
+ 
+ 
+ 
+ 
+ / 
+ 
+Night's Edge
+Soul of Sight
+ × 20 
+ ( 
+ 
+ )
+Soul of Might
+ × 20 
+ ( 
+ )
+Soul of Fright
+ × 20 
+ ( 
+ )
+ 
+ 
+ 
+ 
+ / 
+ / 
+ 
+True Excalibur
+Broken Hero Sword
+( 
+ 
+(25% / 
+43.75%
+)
+ )
+True Night's Edge
+ 
+ 
+ 
+ 
+ / 
+ 
+Terra Blade
+Used in
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Zenith
+(Desktop, Console and Mobile versions)
+Terra Blade
+Meowmere
+(Desktop, Console and Mobile versions)
+Star Wrath
+(Desktop, Console and Mobile versions)
+Influx Waver
+(Desktop, Console and Mobile versions)
+The Horseman's Blade
+Seedler
+(Desktop, Console and Mobile versions)
+Starfury
+Bee Keeper
+Enchanted Sword
+Copper Shortsword
+Mythril Anvil
+or
+Orichalcum Anvil
+Notes
+[
+edit
+]
+The Terra Blade only receives 75% of any 
+melee speed
+ bonus.
+The Terra Blade will always 
+knock enemies away
+ from the player, regardless of the direction it is swung.
+Size bonuses from the 
+Titan Glove
+ (and its upgrades) and from 
+modifiers
+ increase not only the weapon's swing reach, but also the size of the slash projectile.
+[
+4
+]
+The Terra Blade is fully bright in the dark. Its aura, projectile, and slashes that they create are also fully bright in the dark. The aura, projectile, and slashes also leave behind light-emitting particles which are also fully bright in the dark.
+Achievements
+[
+edit
+]
+ 
+Sword of the Hero
+ • 
+“Obtain a Terra Blade, forged from the finest blades of light and darkness.”
+Obtain a 
+Terra Blade
+.
+Category: 
+ Collector
+Tips
+[
+edit
+]
+Due to the fast speed and high damage of the projectiles, it is very effective to use the Terra Blade even at long distances. However, using the close ranged swing is important to maximize the damage output.
+Because the Terra Blade shoots a projectile that can penetrate through enemies, it is highly effective when fighting against hordes of enemies or for events such as the 
+Old One's Army
+ and 
+Martian Madness
+.
+When seeking to craft the Terra Blade, the player should gradually get all the materials needed as they progress through the game.
+Unlike other projectile-firing melee weapons, the Terra Blade's projectile fire rate scales with the main sword's attack speed. Due to this, it gets a large boost from melee speed buffs.
+Trivia
+[
+edit
+]
+Crafting the Terra Blade requires obtaining a total of eight different usable swords.
+The Terra Blade's functionality is a combination of both of its ingredient weapons: the piercing projectiles of the 
+True Night's Edge
+ and the extended melee slash attacks of the 
+True Excalibur
+.
+The Terra Blade resembles the 
+Night's Edge
+, featuring a curved blade with holes in its side.
+The Terra Blade appears in two video games as part of a crossover: 
+Dungeon Defenders 2
+ and 
+Palworld
+.
+See also
+[
+edit
+]
+Terra Blade
+ at the Dungeon Defenders 2 Wiki
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.4.8
+: Reduced the benefits from melee speed stat bonuses by 25%.
+Desktop 1.4.4
+: 
+Damage reduced from 115 to 85.
+Use time increased from 14 to 18.
+Terra Blade now has an area of damaging energy around the blade, dealing damage in a larger, wider area of effect, including better coverage behind the player.
+Melee swing now only hits up to 3 targets per swing.
+Instead of a projectile sword beam fired on a cooldown, Terra Blade now fires a medium-long range, rapidly moving slash of green energy with every swing.
+Desktop 1.4.1
+: 
+Damage increased from 95 to 115.
+Use time decreased from 16 to 14.
+Projectile damage increased from 1.25× to 1.5× of the base damage.
+Projectile now applies local invincibility frames.
+Once again requires a 
+Broken Hero Sword
+ to craft.
+Desktop 1.4.0.1
+: Now used to craft the 
+Zenith
+.
+Desktop 1.3.0.1
+: 
+Now makes a new sound when swung.
+No longer directly requires a Broken Hero Sword to craft.
+Damage increased from 88 to 95.
+Desktop 1.2.4
+: Now autoswings.
+Desktop 1.2.3
+: 
+Damage increased from 80 to 88.
+Increased projectile fire rate.
+Removed mana sound when swung.
+Desktop 1.2
+: Introduced.
+ Console version
+Console 1.02
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.2.6508
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.4
+ source code, method 
+Damage()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.4
+ source code, method 
+SetDefaults()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.4
+ source code, method 
+AI_191_TrueNightsEdge()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+ItemCheck_Shoot()
+ in 
+Terraria.Player.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Projectile Melee Weapons
+Broadsword Projectiles
+Enchanted Sword
+Ice Blade
+Starfury
+Light's Bane
+Blade of Grass
+Phaseblades
+Bee Keeper
+Muramasa
+Night's Edge
+Beam Sword
+Bladetongue
+Frostbrand
+Ice Sickle
+Phasesabers
+Excalibur
+Death Sickle
+Chlorophyte Claymore
+True Excalibur
+True Night's Edge
+Seedler
+Christmas Tree Sword
+The Horseman's Blade
+Terra Blade
+Flying Dragon
+Influx Waver
+Star Wrath
+Meowmere
+Waffle's Iron
+Other Projectiles
+Storm Spear
+Hive-Five
+Cascade
+Chik
+Drippler Crippler
+Obsidian Swordfish
+Hammush
+Ghastly Glaive
+Mushroom Spear
+Chlorophyte Partisan
+Flower Pow
+The Eye of Cthulhu
+North Pole
+Flairon
+Kraken
+Sky Dragon's Fury
+Terrarian
+Projectile Only
+Terragrim
+Arkhalis
+Shadowflame Knife
+Chlorophyte Saber
+Vampire Knives
+Scourge of the Corruptor
+Starlight
+Daybreak
+Solar Eruption
+Zenith
+True Copper Shortsword
+View or edit this template
+Weapons
+ 
+(List)
+:
+Melee weapons
+Ranged weapons
+Magic weapons
+Summon weapons
+Melee Weapons
+Ore
+ 
+Swords
+Shortswords
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+Broadswords
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+Light's Bane
+Blood Butcherer
+Volcano
+Hardmode
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Saber
+Claymore
+Pre-Hardmode
+Wooden Sword
+Boreal
+Palm
+Mahogany
+Ebonwood
+Shadewood
+Ash
+Cactus Sword
+Zombie Arm
+Gladius
+Breathing Reed
+Ruler
+Umbrella
+Tragic Umbrella
+Tentacle Spike
+Mandible Blade
+Bladed Glove
+Stylish Scissors
+Candy Cane Sword
+Bat Bat
+Bone Sword
+Flymeal
+Katana
+Ice Blade
+Muramasa
+Exotic Scimitar
+Phaseblade
+Starfury
+Purple Clubberfish
+Enchanted Sword
+Bee Keeper
+Blade of Grass
+Falcon Blade
+Night's Edge
+Hardmode
+Pearlwood Sword
+Classy Cane
+Waffle's Iron
+Ham Bat
+Slap Hand
+Breaker Blade
+Phasesaber
+Ice Sickle
+Cutlass
+Frostbrand
+Excalibur
+Seedler
+Beam Sword
+Bladetongue
+Brand of the Inferno
+Death Sickle
+Fetid Baghnakhs
+Keybrand
+Psycho Knife
+Paladin's Hammer
+Flying Dragon
+The Horseman's Blade
+Christmas Tree Sword
+True Excalibur
+True Night's Edge
+Terra Blade
+Influx Waver
+Starlight
+Star Wrath
+Meowmere
+Other Melee Weapons
+Spears
+Ore
+Cobalt Naginata
+Palladium Pike
+Mythril Halberd
+Orichalcum Halberd
+Adamantite Glaive
+Titanium Trident
+Gungnir
+Chlorophyte Partisan
+Other
+Spear
+Trident
+Slime Spear
+Storm Spear
+The Rotted Fork
+Swordfish
+Dark Lance
+Mushroom Spear
+Ghastly Glaive
+Obsidian Swordfish
+North Pole
+Boomerangs
+Wooden
+Enchanted
+Ice
+Shroomerang
+Trimarang
+Fruitcake Chakram
+Bloody Machete
+Thorn Chakram
+Combat Wrench
+Flamarang
+Light Disc
+Bananarang
+Sergeant United Shield
+Possessed Hatchet
+Axearang
+Flails
+Chain Knife
+Mace
+Flaming Mace
+Ball O' Hurt
+The Meatball
+Blue Moon
+Anchor
+Sunfury
+KO Cannon
+Chain Guillotines
+Dao of Pow
+Drippler Crippler
+Flower Pow
+Golem Fist
+Flairon
+Yoyos
+Wooden Yoyo
+Rally
+Malaise
+Artery
+Amazon
+Hive-Five
+Code 1
+Valor
+Cascade
+Format:C
+Chik
+Hel-Fire
+Amarok
+Code 2
+Gradient
+Yelets
+Red's Throw
+Valkyrie Yoyo
+Kraken
+The Eye of Cthulhu
+Terrarian
+Other
+Terragrim
+Ale Tosser
+Arkhalis
+Flying Knife
+Shadowflame Knife
+Flint
+Jousting Lance
+Hallowed
+Shadow
+Sleepy Octopod
+Scourge of the Corruptor
+Vampire Knives
+Sky Dragon's Fury
+Daybreak
+Solar Eruption
+Zenith
+True Copper Shortsword
+Removed
+ Weapons
+Scythe
+Soul Scythe
+Icemourne
+Ranged Weapons
+Arrow
+ consuming
+Bows
+Wooden
+Boreal
+Palm
+Rich Mahogany
+Ebonwood
+Shadewood
+Ash
+Pearlwood
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+Blood Rain
+Demon
+Tendon
+Hellwing
+The Bee's Knees
+Molten Fury
+Marrow
+Phantom Phoenix
+Daedalus Stormbow
+Ice
+Shadowflame
+Aerial Bane
+Tsunami
+Pulse
+Eventide
+Phantasm
+Sharanga
+Repeaters
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Hallowed
+Chlorophyte Shotbow
+Bullet
+ consuming
+Manual
+ Guns
+Flintlock Pistol
+Boomstick
+Musket
+The Undertaker
+Revolver
+Quad-Barrel Shotgun
+Handgun
+Phoenix Blaster
+Shotgun
+Onyx Blaster
+Sniper Rifle
+Automatic
+ Guns
+Minishark
+Red Ryder
+Pew-matic Horn
+Clockwork Assault Rifle
+Gatligator
+Uzi
+Megashark
+Tactical Shotgun
+Venus Magnum
+Chain Gun
+Xenopopper
+Vortex Beater
+S.D.M.G.
+Rocket
+ consuming
+Proximity Mine Launcher
+Rocket Launcher
+Grenade Launcher
+Snowman Cannon
+Electrosphere Launcher
+Celebration
+Celebration Mk2
+Other Ranged Weapons
+Alternate
+ Ammo
+Arrows
+Stake Launcher
+Bullets
+Candy Corn Rifle
+Rockets
+Stynger
+Jack 'O Lantern Launcher
+Nail Gun
+Special
+ Ammo
+Darts
+Blowpipe
+Blowgun
+Dart Pistol
+Dart Rifle
+Gel
+Flamethrower
+Elf Melter
+Fallen Star
+Star Cannon
+Super Star Shooter
+Other
+Sandgun
+Snowball Cannon
+Coin Gun
+Unlimited
+ Ammo
+Paintball Gun
+Harpoon
+Barrel Launcher
+Toxikarp
+Piranha Gun
+Consumable
+Paper Airplanes
+Snowball
+Mud Ball
+Rotten Egg
+Shuriken
+Throwing Knife
+Bone
+Poisoned
+Star Anise
+Spiky Ball
+Frost Daggerfish
+Javelin
+Bone
+Bone
+Molotov Cocktail
+Beenade
+Grenade
+Sticky
+Bouncy
+Happy
+Magic Weapons
+Direct
+Gem Staves
+Amethyst Staff
+Topaz Staff
+Sapphire Staff
+Emerald Staff
+Amber Staff
+Ruby Staff
+Diamond Staff
+Other
+Wand of Sparking
+Wand of Frosting
+Daybloom Staff
+Gray Zapinator
+Aqua Scepter
+Thunder Zapper
+Glacier Fang
+Space Gun
+Ice Rod
+Killing Deck
+Golden Shower
+Demon Scythe
+Laser Rifle
+Magic Dagger
+Orange Zapinator
+Sky Fracture
+Shadowflame Hex Doll
+Crystal Serpent
+Lightning Strike
+Leaf Blower
+Frost Staff
+Poison Staff
+Razorpine
+Heat Ray
+Venom Staff
+Unholy Trident
+Bubble Gun
+Laser Machinegun
+Arc Surge
+Charged Blaster Cannon
+Last Prism
+Betsy's Wrath
+Area Effect
+Vilethorn
+Nettle Burst
+Crimson Rod
+Nimbus Rod
+Clinger Staff
+Crystal Vile Shard
+Blood Thorn
+Magnet Sphere
+Rainbow Gun
+Inferno Fork
+Toxic Flask
+Tome of Infinite Wisdom
+Resonance Scepter
+Homing
+Bee Gun
+Mystic Bloom
+Book of Skulls
+Weather Pain
+Medusa Head
+Spirit Flame
+Wasp Gun
+Bat Scepter
+Razorblade Typhoon
+Nightglow
+Stellar Tune
+Spectre Staff
+Nebula Blaze
+Nebula Arcanum
+Bouncing
+Water Bolt
+Flower of Fire
+Crystal Storm
+Cursed Flames
+Flower of Frost
+Magical Harp
+Staff of Earth
+Shadowbeam Staff
+Controlled
+Magic Missile
+Flamelash
+Meteor Staff
+Rainbow Rod
+Life Drain
+Blizzard Staff
+Lunar Flare
+Summon Weapons
+Minions
+Finch Staff
+Clay Bud Staff
+Slime Staff
+Flinx Staff
+Abigail's Flower
+Mushroom Staff
+Cattiva
+Foxparks
+Hornet Staff
+Vampire Frog Staff
+Imp Staff
+Spider Staff
+Blade Staff
+Sanguine Staff
+Optic Staff
+Pirate Staff
+Pygmy Staff
+Raven Staff
+Desert Tiger Staff
+Tempest Staff
+Deadly Sphere Staff
+Terraprisma
+Xeno Staff
+Stardust Cell Staff
+Stardust Dragon Staff
+Sentries
+Houndius Shootius
+Barnacle Staff
+Queen Spider Staff
+Staff of the Frost Hydra
+Rainbow Crystal Staff
+Lunar Portal Staff
+Ballista Cane/Rod/Staff
+Explosive Trap Cane/Rod/Staff
+Flameburst Cane/Rod/Staff
+Lightning Aura Cane/Rod/Staff
+Whips
+Cobwhip
+Slime Whip
+Leather Whip
+Soulscourge
+Vasculash
+Snapthorn
+Starcrash
+Spinal Tap
+Firecracker
+Cool Whip
+Durendal
+Vulgar Display of Flower
+Morning Star
+Dark Harvest
+Electric Eel
+Kaleidoscope
+Constellation
+Possession
+Other Weapons
+Explosive
+Bomb
+Sticky
+Bouncy
+Scarab
+Power
+Sticky Power
+Dynamite
+Sticky
+Bouncy
+Bomb Fish
+Placeable
+Snowball Launcher
+Cannon
+Bunny Cannon
+Land Mine
+(
+Traps
+)
+(
+Lava
+)
+Thrown
+Holy Water
+Unholy
+Blood
+Pretty Mirror
+Tool Weapon
+Acorn Slingshot
+Flare Gun

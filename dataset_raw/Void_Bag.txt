@@ -1,0 +1,696 @@
+Source URL: https://terraria.wiki.gg/wiki/Void_Bag
+Title: Void_Bag
+
+Desktop
+/
+Console
+/
+Mobile
+-Only Content
+: This  information applies 
+only
+ to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+Void Bag
+Statistics
+Type
+Item summon
+Storage
+Use time
+28 
+(Average)
+Velocity
+4
+Tooltip
+Summons the Void Vault
+Can be used to store your items
+Stored items can only be accessed by you
+Stored coins can be used in shops
+Functions as an extended inventory when open
+May pick up overflowing items when open
+Right click to close
+'This pocket dimension is out of this world!'
+Rarity
+Sell
+2
+ Gold
+Research
+1 required
+Projectile created
+Void Bag
+Sounds
+Use
+Internal 
+Item ID
+: 
+4131
+ 
+Internal 
+Projectile ID
+: 
+734
+Closed Void Bag
+Statistics
+Type
+Item summon
+Storage
+Use time
+28 
+(Average)
+Velocity
+4
+Tooltip
+Summons the Void Vault
+Can be used to store your items
+Stored items can only be accessed by you
+Stored coins can be used in shops
+Functions as an extended inventory when open
+May pick up overflowing items when open
+Right click to open
+'This pocket dimension is out of this world!'
+Rarity
+Sell
+2
+ Gold
+Research
+1 required
+Projectile created
+Void Bag
+Sounds
+Use
+Internal 
+Item ID
+: 
+5325
+ 
+Internal 
+Projectile ID
+: 
+734
+ 
+The Void Bag spawning the portal. Notice the purple light emitted from the portal.
+The 
+Void Bag
+ is a 
+portable storage
+ item that grants the player access to the 
+Void Vault
+ anywhere. When used, it will summon a temporary portal which lasts for 3 minutes, and pressing 
+⚷
+ Open / Activate
+ on the portal opens the player's Void Vault inventory. The Void Bag is never consumed and can be used limitlessly.
+Pressing 
+⚷
+ Open / Activate
+ on the Void Bag item in the inventory turns it into the 
+Closed Void Bag
+. Pressing the button again opens the Void Bag again.
+When opened, the Void Vault storage will effectively act as the player's secondary inventory, which automatically stores items collected after the player's main inventory is full, indicated by a purple mask on the pickup text. Additionally, it also allows the player to interact with the items inside it as if they were in the main inventory without opening the Void Vault storage interface.
+When closed, the Void Bag functions similarly to the 
+Money Trough
+ / 
+Eye Bone
+, only acting as a regular 
+portable storage
+ item. This will prevent it from picking up items when the player has a full inventory, and it loses the function of the secondary inventory.
+Crafting
+[
+edit
+]
+Recipes
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Void Bag
+(Desktop, Console and Mobile versions)
+Bone
+30
+Jungle Spores
+15
+Shadow Scale
+30
+Demon Altar
+or
+Crimson Altar
+Bone
+30
+Jungle Spores
+15
+Tissue Sample
+30
+Notes
+[
+edit
+]
+The color for the mask on the pickup text is 
+ 
+#320866
+.
+[
+1
+]
+An opened Void Bag will act effectively as the player's secondary inventory, which inherits the following functions:
+Consuming 
+food
+ and 
+potions
+ in it with 
+Quick Heal
+, 
+Quick Mana
+, and 
+Quick Buff
+.
+Crafting with its contents.
+Quick Stack to Nearby Chests
+.
+When looting all items from a 
+storage item
+ with a full main inventory, the items will be sent to the Void Vault.
+Favoriting items (to prevent quick stacking).
+Items that have a function in the player's inventory will work as normal, including the 
+Lucky Clover
+, 
+informational accessories
+, 
+Guide to Critter Companionship
+, 
+Guide to Environmental Preservation
+, etc.
+However, placing the 
+Encumbering Stone
+ inside the Void Vault will not prevent the player or an opened Void Bag from picking up items.
+Coins
+ placed inside of the Void Bag can be used to purchase items, but will not drop upon death.
+The Void Bag is only obtainable after defeating 
+Skeletron
+, as its crafting recipe requires 
+Bones
+, which drop from enemies in the 
+Dungeon
+.
+However, defeating the 
+Eater of Worlds
+/
+Brain of Cthulhu
+ is not necessary: While summoning the boss at least once is required, 
+Shadow Scales
+ or 
+Tissue Samples
+ can be obtained by merely destroying a few segments of the Eater of Worlds or a few 
+Creepers
+, respectively; the boss does not have to be defeated.
+In a 
+drunk world
+, it is obtainable before defeating Skeletron, as Dungeon enemies can spawn prior to defeating the boss.
+The Void Bag will not pick up 
+quest fish
+ if the player's inventory is full or contains another quest fish of the same type. However, the fish can still be placed inside the Void Vault manually, and any quest fish already within the Void Vault will not prevent the player from picking up another in their inventory.
+When using items that consume 
+ammunition
+, the Void Bag will not let the player use any ammo stored within the Void Bag, including ammo used by 
+tools
+ (e.g. 
+Wire
+).
+Despite coins being able to purchase items when placed inside the Void Bag, the 
+Coin Gun
+ cannot use the coins inside as ammo.
+The Void Bag will not pick up 
+Etherian Mana
+, but it can be placed into the Void Vault manually or via 
+Quick Stack
+.
+The evil crafting material dropped from decrafting the Void Bag into 
+Shimmer
+ is dependent on the 
+world evil
+; it will drop 
+Shadow Scales
+ in 
+Corruption
+ worlds and 
+Tissue Samples
+ in 
+Crimson
+ worlds.
+In 
+Drunk
+ worlds, the two world evils switch every in-game day, meaning the Void Bag will alternate between both materials each day.
+The Void Bag always defaults to the open variant in the 
+Journey Mode
+ menu when 
+researched
+, regardless of which variant is used to research it.
+Trivia
+[
+edit
+]
+ 
+The earlier version of the Void Bag's portal.
+Earlier versions of the Void Bag during development had a dark purple portal, more resembling the portals from the 
+Potion of Return
+ in the current game.
+The Void Bag's portal is known internally as 
+VoidLens
+.
+See also
+[
+edit
+]
+Introducing the Void Vault and Void Bag
+, the 
+forums
+ thread by 
+Re-Logic
+ that initially revealed the Void Vault and Void Bag.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.4.9
+: 
+Fixed a bug where switching the Void Bag between its open and closed variants could result in sound effect spam playing rapidly for other players in 
+Multiplayer
+.
+Fixed an issue where info accessories stored in open Void Bags did not apply their info benefit to nearby players in Multiplayer.
+Desktop 1.4.4
+: 
+Can now be closed.
+When opened, items inside can now be used as if they are in the player's main inventory.
+Desktop 1.4.0.1
+: Introduced.
+ Console version
+Console 1.4.0.5.4.1
+: Introduced.
+ Mobile version
+Mobile 1.4.0.5.0
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+DrawItemTextPopups()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Tools:
+Usual Tools
+Grappling Hooks
+Summoning Tools
+Other Tools
+Usual Tools
+Digging Tools
+Pickaxes
+Copper
+Tin
+Cactus
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Candy Cane
+Platinum
+Fossil
+Reaver Shark
+Bone
+Nightmare
+Deathbringer
+Molten
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Spectre
+Luminite
+Drills
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Laser Drill
+Luminite
+Other
+Gravedigger's Shovel
+Cutting Tools
+Axes
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+War Axe of the Night
+Blood Lust Cluster
+Axe of Regrowth
+Lucy the Axe
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Chainsaws
+Sawtooth Shark
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Butcher's
+Other
+Axearang
+Hammers
+Wooden
+Boreal
+Palm
+Rich Mahogany
+Ebonwood
+Shadewood
+Ash Wood
+Pearlwood
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+The Breaker
+Flesh Grinder
+Rockfish
+Pwnhammer
+Hammush
+Chlorophyte
+Warhammer
+Jackhammer
+Multi-use Tools
+Pickaxe and Axe
+Pickaxe Axe
+Drax
+Shroomite Digging Claw
+Picksaw
+Hammer and Axe
+Meteor
+Molten
+Haemorrhaxe
+Spectre
+Luminite
+The Axe
+Grappling Hooks
+Single Hooks
+Grappling
+Squirrel
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Candy Cane
+Bat
+Dissonance
+Multi Hooks
+Web Slinger
+Slime
+Skeletron Hand
+Fish
+Ivy Whip
+Dual
+Thorn
+Illuminant
+Worm
+Tendon
+Anti-Gravity
+Spooky
+Christmas
+Lunar
+Static
+Summoning Tools
+Pets
+Amber Mosquito
+Baby Grinch's Mischief Whistle
+Ball O' Fuse Wire
+Bamboo Leaf
+Bedazzled Nectar
+Beguiling Lyre
+Bernie's Button
+Betsy's Egg
+Birdie Rattle
+Blue Chicken Egg
+Bone Key
+Bone Rattle
+Brain in a Jar
+Carrot
+ 
+(Desktop and Mobile versions)
+Celestial Wand
+Companion Cube
+Cosmic Skateboard
+Cursed Sapling
+Deactivated Probe
+Deerclops Eyeball
+Digtoise
+Dog Whistle
+Dragon Egg
+Eater's Bone
+Eucalyptus Sap
+Exotic Chew Toy
+Eye Bone
+Eye Spring
+Faecorn
+Fish
+Friendly Boulder
+Friendly Rainbow Boulder
+Frozen Crown
+Full Moon Squeaky Toy
+Gato Egg
+Glommer's Flower
+Glow Tulip
+Lightning Carrot
+Lizard Egg
+Magical Pumpkin Seed
+Monster Meat
+Mud Bud
+Nectar
+Ogre's Club
+Ornate Shadow Key
+Pair of Eyeballs
+Parrot Cracker
+Piece of Moon Squid
+Plantera Seedling
+Pork of the Sea
+Possessed Skull
+Puffer Shrimp
+Regal Delicacy
+Resplendent Dessert
+Robotic Skull
+Royal Delight
+Seaweed
+Seedling
+Shark Bait
+Shrub Star
+Slice of Hell Cake
+Sparkling Honey
+Spider Egg
+Spiffo Plush
+Stardrop
+Strange Glowing Mushroom
+Suspicious Grinning Eye
+Swarm Grenade
+Tablet Fragment
+The Dirtiest Block
+Tiki Totem
+Toy Sled
+Unlucky Yarn
+Writhing Remains
+Zephyr Fish
+Mounts
+Amulet of the Night
+Ancient Horn
+Black Studded Saddle
+Blessed Apple
+Brain Scrambler
+Chillet
+Cosmic Car Key
+Cursed Piper Flute
+Dark Mage's Tome
+Drill Containment Unit
+Dusty Rawhide Saddle
+Enchanted Pixie Dust
+Fuzzy Carrot
+Gelatinous Pillion
+Goat Skull
+Golf Cart Keys
+Hardy Saddle
+Hexxed Branch
+Honeyed Goggles
+Lilith's Necklace
+Mollusk Whistle
+Pogo Stick
+Reindeer Bells
+Roller Skates
+Royal Gilded Saddle
+Scaly Truffle
+Shrimpy Truffle
+Slasher's Mysterious Skull
+Slimy Saddle
+Superheated Blood
+The Black Spot
+Toy Tank
+Witch's Broom
+Minecarts
+Wooden
+Minecart
+Mechanical
+Desert
+Minecarp
+Bee
+Ladybug
+Pigron
+Sunflower
+Demonic Hellcart
+Shroom
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Amber
+Beetle
+Meowmere
+Party Wagon
+The Dutchman
+Steampunk
+Coffin
+Digging Molecart
+Fart Kart
+Terra Fart Kart
+Light Pets
+Shadow Orb
+Crimson Heart
+Magic Lantern
+Fairy Bell
+Creeper Egg
+Guardian Golem
+Jewel of Light
+Pumpkin Scented Candle
+Wisp in a Bottle
+Suspicious Looking Tentacle
+Portable storage
+Money Trough
+Void Bag
+Other Tools
+Exploration
+Binoculars
+Breathing Reed
+Magic Mirror
+Ice Mirror
+Cell Phone
+Shellphone
+Trident
+Portal Gun
+Rod of Discord
+Rod of Harmony
+Umbrella
+Tragic Umbrella
+Magic Conch
+Demon Conch
+Terrain affecting
+Block-placing wands
+Dirt Rod
+Sandcastle Bucket
+Staff of Regrowth
+Axe of Regrowth
+Clentaminator
+Terraformer
+Lawn Mower
+Rubblemaker
+Mitey-Titey
+Portable Kiln
+Wiring
+Wrench
+Blue
+Green
+Yellow
+Multicolor
+Wire Cutter
+The Grand Design
+Actuation Rod
+Painting
+(Desktop, Console, Old-gen console and Mobile versions)
+Paintbrush
+Spectre
+Paint Roller
+Spectre
+Paint Scraper
+Spectre
+Other
+Bucket
+Bottomless Buckets
+Sponges
+Dirt Bomb
+Sticky
+Dry Bomb
+Honey
+Lava
+Wet
+Freeze Bomb
+Bug Net
+Lavaproof
+Golden
+Sickle
+Fishing poles
+Golf Clubs
+Golf Whistle
+Snake Charmer's Flute
+Water Gun
+Slime Gun
+Shimmer Gun
+Scrying Orb
+Encumbering Stone
+Inactive
+Lucky Clover
+Wilted Clover
+Raven Feather
+Guide to Critter Companionship
+Inactive
+Guide to Environmental Preservation
+Inactive
+Guide to Peaceful Coexistence
+Inactive
+Guide to Old World Parkour
+Inactive

@@ -1,0 +1,2039 @@
+Source URL: https://terraria.wiki.gg/wiki/Dryad
+Title: Dryad
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Dryad
+.
+Dryad
+Map icon
+Dialogue portrait
+Statistics
+Type
+NPC
+Environment
+ Valid house 
+AI Type
+Passive AI
+Damage
+0 
+[
+1
+]
+Max Life
+250
+Defense
+15
+KB
+ Resist
+50%
+Grants 
+ buffs 
+Grants 
+ buffs 
+Grants 
+ buffs 
+Buff
+Dryad's Blessing
+Buff tooltip
+The power of nature protects you
+Duration
+Infinite in Dryad's Ward
+Buff
+Dryad's Bane
+Buff tooltip
+The power of nature compells you
+Duration
+Infinite in Dryad's Ward
+Projectiles created
+Dryad's ward
+Jumino Stardrop Animation
+(Purifying 
+Joja Cola
+)
+Sounds
+Hurt
+Killed
+Internal 
+NPC ID
+: 
+20
+Internal 
+Buff ID
+: 
+165
+, 
+186
+Internal 
+Projectile ID
+: 
+586
+, 
+995
+ 
+The Dryad casting Dryad's Ward.
+ 
+A larger view of Dryad's Ward.
+“
+Be safe; Terraria needs you!
+— 
+ The 
+Dryad
+The 
+Dryad
+ is an 
+NPC
+ vendor who sells various nature-themed items, including 
+seeds
+, 
+powders
+, and 
+Planter Boxes
+. She will move in once the following criteria have been met:
+There is an available vacant 
+house
+.
+The 
+Eye of Cthulhu
+, 
+Eater of Worlds
+, 
+Brain of Cthulhu
+, or 
+Skeletron
+ has been defeated.
+In addition to selling items, the Dryad can also report the percentages of 
+Corruption
+/
+Crimson
+ and 
+Hallow
+ that exist in the current world, which is based on the total number of 
+blocks
+ of each corresponding biome.
+The Dryad will defend herself against nearby 
+enemies
+ by casting the Dryad's Ward, which summons two rotating circles of leaves around her, with the outer circle indicating the range of the attack. The attack lasts 10 seconds in total
+[
+2
+]
+, however, if the Dryad takes damage when casting, the attack immediately ends. Counting from when the circles of leaves are summoned (and assuming the Dryad is uninterrupted), within the first 1.67 seconds, the radius of the Dryad's Ward is 18.75 tiles (300 pixels). The radius then generally increases to 37.5 tiles (600 pixels) over the course of 3.33 seconds, remains unchanged for another 3.33 seconds, after which the radius generally increases to 75 tiles (1200 pixels) over the course of 1.17 seconds before finally dissipating. 0.5 seconds after the circles of leaves are summoned
+[
+3
+]
+, the 
+Dryad's Blessing
+ 
+buff
+ is granted to players and other town NPCs within its radius, while 
+Dryad's Bane
+ is inflicted on enemies with a clear line of sight inside its radius. Dryad's Blessing provides 
+defense
+, 
+health regeneration
+, and a thorns effect (similar to the 
+Thorns Potion
+), while Dryad's Bane deals damage over time. See 
+Dryad's Blessing
+ page for details about the buff and debuff.
+Items sold
+[
+edit
+]
+Note:
+ All item prices can be decreased by equipping a 
+Discount Card
+ or 
+Greedy Ring
+. Prices can also be higher or lower based on the NPC's 
+happiness level
+.
+Inventory
+Item
+Cost
+Availability
+Purification Powder
+75
+ Copper
+Outside of a 
+Blood Moon
+.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+World is infected
+, as well as worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Vile Powder
+1
+ Silver
+During a 
+Blood Moon
+ in a 
+Corrupt
+ world.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Vicious Powder
+1
+ Silver
+During a 
+Blood Moon
+ in a 
+Crimson
+ world.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Grass Seeds
+20
+ Copper
+Outside of a 
+Blood Moon
+.
+Ash Grass Seeds
+1
+ Silver 
+50
+ Copper
+In the 
+Underworld
+.
+Corrupt Seeds
+5
+ Silver
+During a 
+Blood Moon
+ in a 
+Corrupt
+ world,
+or while in a 
+Graveyard
+ in a 
+Hardmode
+ 
+Crimson
+ world.
+Crimson Seeds
+5
+ Silver
+During a 
+Blood Moon
+ in a 
+Crimson
+ world,
+or while in a 
+Graveyard
+ in a 
+Hardmode
+ 
+Corrupt
+ world.
+Sunflower
+50
+ Silver
+Outside of a 
+Blood Moon
+.
+Acorn
+10
+ Copper
+Always available.
+Dirt Rod
+5
+ Gold
+Always available.
+Pumpkin Seed
+2
+ Silver 
+50
+ Copper
+Always available.
+Grass Wall
+10
+ Copper
+Outside of a 
+Blood Moon
+.
+Corrupt Grass Wall
+2
+ Silver 
+50
+ Copper
+During a 
+Blood Moon
+ in a 
+Corrupt
+ world.
+Crimson Grass Wall
+2
+ Silver 
+50
+ Copper
+During a 
+Blood Moon
+ in a 
+Crimson
+ world.
+Flower Wall
+10
+ Copper
+Always available.
+Jungle Wall
+10
+ Copper
+In 
+Hardmode
+.
+Hallowed Seeds
+20
+ Silver
+In 
+Hardmode
+.
+Hallowed Grass Wall
+2
+ Silver 
+50
+ Copper
+In 
+Hardmode
+.
+Mushroom Grass Seeds
+1
+ Silver 
+50
+ Copper
+In a 
+Glowing Mushroom biome
+.
+Dryad Coverings
+3
+ Gold
+During 
+Halloween
+.
+Dryad Loincloth
+3
+ Gold
+During 
+Halloween
+.
+Daybloom Planter Box
+1
+ Silver
+Always available.
+Moonglow Planter Box
+1
+ Silver
+Always available.
+Blinkroot Planter Box
+1
+ Silver
+Always available.
+Deathweed Planter Box
+1
+ Silver
+In a 
+Corrupt
+ world.
+Deathweed Planter Box
+1
+ Silver
+In a 
+Crimson
+ world.
+Waterleaf Planter Box
+1
+ Silver
+Always available.
+Shiverthorn Planter Box
+1
+ Silver
+Always available.
+Fireblossom Planter Box
+1
+ Silver
+Always available.
+Guide to Environmental Preservation
+5
+ Gold
+Always available.
+White Flower Seeds
+5
+ Silver
+Always available.
+Yellow Flower Seeds
+5
+ Silver
+Always available.
+Red Flower Seeds
+5
+ Silver
+Always available.
+Pink Flower Seeds
+5
+ Silver
+Always available.
+Magenta Flower Seeds
+5
+ Silver
+Always available.
+Violet Flower Seeds
+5
+ Silver
+Always available.
+Blue Flower Seeds
+5
+ Silver
+Always available.
+Wild Flower Seeds
+5
+ Silver
+Always available.
+Tall Grass Seeds
+5
+ Silver
+Always available.
+Potted Forest Cedar
+3
+ Gold
+During a 
+full moon
+ or a waning gibbous: 
+ 
+Potted Jungle Cedar
+3
+ Gold
+During a 
+full moon
+ or a waning gibbous: 
+ 
+Potted Hallow Cedar
+3
+ Gold
+In 
+Hardmode
+, during a 
+full moon
+ or a waning gibbous: 
+ 
+Potted Forest Tree
+3
+ Gold
+During a 
+third quarter
+ or a waning crescent: 
+ 
+Potted Jungle Tree
+3
+ Gold
+During a 
+third quarter
+ or a waning crescent: 
+ 
+Potted Hallow Tree
+3
+ Gold
+In 
+Hardmode
+, during a 
+third quarter
+ or a waning crescent: 
+ 
+Potted Forest Palm
+3
+ Gold
+During a 
+new moon
+ or a waxing crescent: 
+ 
+Potted Jungle Palm
+3
+ Gold
+During a 
+new moon
+ or a waxing crescent: 
+ 
+Potted Hallow Palm
+3
+ Gold
+In 
+Hardmode
+, during a 
+new moon
+ or a waxing crescent: 
+ 
+Potted Forest Bamboo
+3
+ Gold
+During a 
+first quarter
+ or a waxing gibbous: 
+ 
+Potted Jungle Bamboo
+3
+ Gold
+During a 
+first quarter
+ or a waxing gibbous: 
+ 
+Potted Hallow Bamboo
+3
+ Gold
+In 
+Hardmode
+, during a 
+first quarter
+ or a waxing gibbous: 
+ 
+Torch
+50
+ Copper
+During 
+pre-Hardmode
+ in worlds with both 
+Vampirism
+ and 
+World is infected
+.
+Corrupt Torch
+60
+ Copper
+During 
+pre-Hardmode
+ in 
+Corrupt
+ worlds with both 
+Vampirism
+ and 
+World is infected
+.
+Crimson Torch
+60
+ Copper
+During 
+pre-Hardmode
+ in 
+Crimson
+ worlds with both 
+Vampirism
+ and 
+World is infected
+.
+Any Pylon
+10
+ Gold
+When in a specific 
+biome
+ and near another NPC.
+World status
+[
+edit
+]
+The Dryad will report the current percentage of 
+Corruption
+/
+Crimson
+/
+Hallow
+ coverage in the world with the “
+Status
+” option. The Dryad makes the distinction between Corruption and Crimson if they are present in the same world, and will list their percentages separately, though they both contribute to the overall total evil tile percentage in her final report.
+[
+4
+]
+The percentages of the respective biome is calculated by related tile count, with the following formulas:
+Corruption = Corruption tiles ÷ Solid tiles × 100%
+Crimson = Crimson tiles ÷ Solid tiles × 100%
+Hallow = Hallow tiles ÷ Solid tiles × 100%
+See 
+below
+ for a list of counted tiles.
+If the world has no Corruption, Crimson, or Hallow, the 
+And Good Riddance!
+ 
+achievement
+ will be granted upon choosing the option.
+Quote
+Condition
+[
+5
+]
+Effective world condition
+“
+[Name of World] is completely pure. You have done an amazing job!
+”
+Hallow, Corruption, and Crimson = 0
+The world has no Corruption, Crimson, or Hallow.
+“
+The world is in balance.
+”
+Hallow × 0.8 < (Corruption + Crimson) < Hallow × 1.2
+Corruption/Crimson and Hallow percentages are similar.
+“
+We are living in a fairy tale.
+”
+Hallow ≥ (Corruption + Crimson)
+Corruption/Crimson and Hallow percentages are not similar, and the world has more Hallow than Corruption/Crimson.
+“
+Things are grim indeed...
+”
+Hallow +20% < (Corruption + Crimson)
+Corruption/Crimson and Hallow percentages are not similar, and the world has far more Corruption/Crimson than Hallow.
+“
+You are so close!
+”
+(Corruption + Crimson) ≤ 5%
+Corruption/Crimson and Hallow percentages are not similar, and the world has more Corruption/Crimson than Hallow, and there is very little Corruption/Crimson in the world.
+“
+You have a lot of work to do.
+”
+(Corruption + Crimson) > 5%
+Corruption/Crimson and Hallow percentages are not similar, and the world has more Corruption/Crimson than Hallow, and there is more Corruption/Crimson in the world.
+Counting tiles
+[
+edit
+]
+The following tiles will count towards the total tile count.
+[
+6
+]
+Corruption
+[
+edit
+]
+Corrupt grass
+Corrupt Jungle grass
+Corrupt vines
+Corruption thorny bushes
+Wild Corrupt plants
+Vile Mushroom
+Ebonstone Block
+Ebonsand Block
+Hardened Ebonsand Block
+Ebonsandstone Block
+Purple Ice Block
+Crimson
+[
+edit
+]
+Crimson grass
+Crimson Jungle grass
+Crimson vines
+Crimson thorny bushes
+Wild Crimson plants
+Vicious Mushroom
+Crimstone Block
+Crimsand Block
+Hardened Crimsand Block
+Crimsandstone Block
+Red Ice Block
+Hallow
+[
+edit
+]
+Hallowed grass
+Mowed Hallowed grass
+Hallowed vines
+Pearlstone Block
+Pearlsand Block
+Hardened Pearlsand Block
+Pearlsandstone Block
+Pink Ice Block
+Solid
+[
+edit
+]
+Stone Block
+Grass
+Corrupt grass
+Ebonstone Block
+Jungle grass
+Hallowed grass
+Ebonsand Block
+Pearlsand Block
+Pearlstone Block
+Ice Block
+Purple Ice Block
+Pink Ice Block
+Crimson grass
+Red Ice Block
+Crimstone Block
+Crimsand Block
+Mowed grass
+Mowed Hallowed grass
+Corrupt Jungle grass
+Crimson Jungle grass
+Joja Cola
+[
+edit
+]
+ 
+The Dryad's "purifying" animation.
+When the player has a 
+Joja Cola
+ in their 
+inventory
+, the Dryad will have special quotes hinting to the player to hold the Joja Cola. When the player is holding a Joja Cola, the “
+Status
+” option will be replaced with “
+Purify
+”. After choosing the option, the Joja Cola will be consumed as an animation of a Junimo jumping out of a star-shaped portal plays out. The Junimo then pulls out a 
+Stardrop
+ that the player can collect before disappearing.
+Quote
+Appears when
+“
+What's that you have... Joja Cola? Please hold it out, show me!
+”
+The player has a Joja Cola in their inventory, but is not holding it.
+“
+This unnatural beverage you hold has a connection to another world... I can try to purify it if you like.
+”
+The player has selected a Joja Cola in their 
+hotbar
+.
+“
+I'm sensing a pure spirit through the connection, it wants to thank you for disposing of the Joja Cola!
+”
+The Joja Cola is "purified".
+Living preferences
+[
+edit
+]
+Biome
+Neighbor
+Loves
+n/a
+n/a
+Likes
+Jungle
+Princess
+Witch Doctor
+Truffle
+Dislikes
+Desert
+Angler
+Hates
+n/a
+Golfer
+For more information, see 
+NPC happiness
+.
+Shimmered form
+[
+edit
+]
+Shimmered Dryad
+Map icon
+Portrait
+When submerged in 
+Shimmer
+ or sprayed with the 
+Shimmer Gun
+, the Dryad will transform into her Shimmered form. This has no impact on gameplay or dialogue and is only a visual change. She can be returned to her classic look by submerging her in Shimmer again or spraying her with the Shimmer Gun again.
+Achievements
+[
+edit
+]
+ 
+And Good Riddance!
+ • 
+“Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!”
+Check the 
+world status
+ from the 
+Dryad
+ when there are no 
+Corruption
+, 
+Crimson
+, and 
+Hallow
+ tiles in the world.
+Category: 
+ Challenger
+ 
+Interdimensional Recycling
+ • 
+“Give the Dryad a can of Joja Cola.”
+Purify a 
+Joja Cola
+ by talking to the 
+Dryad
+.
+Category: 
+ Challenger
+Tips
+[
+edit
+]
+For players creating housing for the 
+Truffle
+, it would be beneficial to temporarily house the Dryad in or near a 
+Glowing Mushroom biome
+ where she will sell 
+Mushroom Seeds
+.
+It is not necessary to build a house, as a 
+Queen Statue
+ can be used to teleport her to a Glowing Mushroom biome.
+Players can obtain items from both evils without using a different world by buying 
+Corrupt
+ or 
+Crimson Seeds
+ (Available while in the 
+Graveyard
+ minibiome) and making an artificial biome.
+Names
+[
+edit
+]
+The Dryad may have any of the following names:
+Alalia
+Alura
+Ariella
+Caelia
+Calista
+Celestia
+Chryseis
+Elysia
+Emerenta
+Evvie
+Faye
+Felicitae
+Isis
+Lunette
+Nata
+Nissa
+Rosalva
+Shea
+Tania
+Tatiana
+Xylia
+A world with both 
+Celebration Mk 10
+ and 
+Purify this
+ enabled will spawn a shimmered Dryad named Lilith at game start. This is not a possible name for the Dryad under any other circumstances.
+Quotes
+[
+edit
+]
+Interaction quotes
+[
+edit
+]
+“
+Be safe; Terraria needs you!
+”
+“
+The sands of time are flowing. And well, you are not aging very gracefully.
+”
+“
+What's this about me having more 'bark' than bite?
+”
+“
+So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!
+”
+After defeating 
+Old One's Army
+:
+Tier 1:
+“
+When I was in Etheria, I felt so disconnected from <Name of World>. It's good to be back.
+”[
+sic
+]
+Tier 2:
+“
+The Corruption tried to take me over when I went to Etheria, but instead, I used its power against the Old One's Army!
+”
+When 
+Merchant
+ is present:
+“
+Why does <Name of Merchant> keep trying to sell me angel statues? Everyone knows that they don't do anything.
+”
+When 
+Arms Dealer
+ is present:
+“
+I wish <Name of Arms Dealer> would stop flirting with me. Doesn't he realize I'm 500 years old?
+”
+When 
+Truffle
+ is present:
+“
+I feel like <Name of Truffle> is a bit misunderstood, he really is a fun guy.
+”
+Before 
+Skeletron
+ is defeated:
+“
+Have you seen the old man walking around the dungeon? He doesn't look well at all...
+”
+In a 
+Corrupt
+ world:
+“
+You must cleanse the world of this corruption.
+”
+Before defeating the 
+Eater of Worlds
+“
+Have you tried using purification powder on the ebonstone of the corruption?
+”
+In a 
+Crimson
+ world:
+“
+You must cleanse the world of this crimson.
+”
+Before defeating the 
+Brain of Cthulhu
+:
+“
+Have you tried using purification powder on the crimstone of the crimson?
+”
+Only during a 
+Blood Moon
+:
+“
+I sell what I want! If you don't like it, too bad.
+”
+“
+Dude, is it just me or is there like a million zombies out tonight?
+”
+“
+I don't want you to buy my stuff. I want you to want to buy my stuff, ok?
+”
+“
+Why do you have to be so confrontational during a time like this?
+”
+When asked for the world status:
+“
+<Name of world> is <hallow percentage>% hallow, <corruption percentage>% corrupt, and <crimson percentage>% crimson.
+”
+“
+<Name of world> is <hallow percentage>% hallow and <corruption percentage>% corrupt.
+”
+“
+<Name of world> is <hallow percentage>% hallow and <crimson percentage>% crimson.
+”
+“
+<Name of world> is <corruption percentage>% corrupt and <crimson percentage>% crimson.
+”
+“
+<Name of world> is <corruption percentage>% corrupt.
+”
+“
+<Name of world> is <crimson percentage>% crimson.
+”
+“
+<Name of world> is <hallow percentage>% hallow.
+”
+(She will say Crimson or Corruption depending on which one there is, however, if both are present through an artificial biome, she will list both Crimson and Corruption percentages. She will add in the Hallow's percentage in 
+Hardmode
+.)
+During a 
+Party
+:
+“
+I thought I would throw a party to celebrate our victories in the past and those yet to come.
+”
+During a 
+Windy Day
+:
+“
+The wind... it is nature's way of sweeping the dust from the land.
+”
+“
+Nature's fury strips the leaves from the trees this day.
+”
+During 
+Rain
+:
+“
+The water from the sky is a way for nature to wash away the mud in our streams.
+”[
+sic
+]
+“
+When it rains, many kinds of fish acquire mystical properties.
+”
+During a 
+Thunderstorm
+:
+“
+Our mother is angry, and wishes to burn away the filth by raining destructive power on our treetops.
+”
+“
+It is unwise to traverse openly beneath the flashing dangers from above.
+”
+When in a 
+Graveyard
+:
+“
+I can handle the corruption, but the vile air of death in this location wilts the flower in my hair.
+”
+“
+This place... I can hear the cry of nature at those who've fallen here.
+”
+Happiness quotes
+[
+edit
+]
+When homeless:
+“
+All of nature may be my home, but a house would treat me well.
+”
+When far from home:
+“
+A flower doesn't grow very well so far away from its roots!
+”
+When in a sparse area:
+“
+Solitude is sometimes good - there's room to grow and to breathe.
+”
+When overcrowded:
+“
+Is this area becoming rather dense, or is it just me? I dislike the feeling...
+”
+“
+So many others crammed into one spot? The grass is doomed, I hate it!
+”
+When in the 
+Jungle
+:
+“
+I kissed a tree in the Jungle and I liked it.
+”
+When in the 
+Desert
+:
+“
+I rather dislike how the Desert is so devoid of life.
+”
+When in an 
+Evil Biome
+ or the 
+Dungeon
+:
+“
+I am severely offended by my surroundings - the Corruption/Crimson/Dungeon is my mortal enemy!
+”
+When near the 
+Princess
+:
+“
+<Name of Princess> brings order and peace to everyone who lives in this world.
+”
+When near the 
+Witch Doctor
+:
+“
+I like that <Name of Witch Doctor> resonates with every fiber of my being!
+”
+When near the 
+Truffle
+:
+“
+I like that <Name of Truffle> resonates with every fiber of my being!
+”
+When near the 
+Angler
+:
+“
+I don't like that <Name of Angler> has no respect for other beings.
+”
+When near the 
+Golfer
+:
+“
+I hate <Name of Golfer>'s destructive habits towards nature!
+”
+When neutral:
+“
+All is peaceful, don't mess it up.
+”
+Trivia
+[
+edit
+]
+A 
+dryad
+ is a nature spirit from Greek mythology, generally depicted as a beautiful young woman. Fittingly, many of the Dryad's possible names take inspiration from either classical literature (e.g. 
+Caelia
+, 
+Elysia
+, 
+Fae
+, 
+Titania
+) or female celebrities.
+This might be the reason that the Arms Dealer appears to flirt with her as shown in one of his quotes, but she states in one of her quotes that she wishes the Arms Dealer would stop pestering her. In the same quote she reveals that she is 500 years old.
+According to Greek mythology, a dryad is a type of 
+Nymph
+. This may be why Nymphs and the Dryad have a similar appearance.
+The Dryad is depicted in a 
+painting
+ called 
+Dryadisque
+, which itself is a parody of the 1814 real-world oil painting 
+Grande Odalisque
+ by 
+Jean-Auguste-Dominique Ingres
+.
+Her quote calling the 
+Truffle
+ a "fun guy" plays on the 
+homophone
+ “
+fungi
+”.
+ 
+The 
+credits
+ cutscene in which the Dryad becomes a 
+tree
+ in a 
+Forest
+.
+The quote “
+What's this about me having more 'bark' than bite?
+” is a pun on 
+bark
+ (the outermost layer on woody plants) and a possible joke about the fact that the Dryad is or was a 
+tree
+.
+This fact is shown in a 
+credits
+ cutscene.
+This could also be a reference to her not cleansing the world evil herself despite claiming that she fought the 
+Old One's Army
+.
+One of the Dryad's quotes about the player's safety says "
+Terraria
+ needs you", instead of "<Name of World> needs you". This is an oddity among the other quotes.
+Her quote “
+I kissed a tree in the Jungle and I liked it.
+” is a reference to the 
+Katy Perry
+ song “
+I Kissed a Girl
+”.
+Calista the Dryad is featured in the 
+Terraria Comic Book from DC Comics
+.
+The Dryad appears in the video game 
+Dungeon Defenders 2
+ as a playable character. Her defenses include summoning World Trees, 
+Moss Hornets
+, 
+Harpies
+, 
+Slimes
+, and 
+Angry Nimbuses
+.
+The Dryad's quote referencing her time in Etheria and her use of the Corruption against the Old One's Army is a reference to her ability in 
+Dungeon Defenders 2
+ where she can become a corrupted version of herself. In her corrupt form, her abilities and defenses gain additional effects and/or deal more damage.
+The Dryad's Shimmered form resembles her corrupted form from 
+Dungeon Defenders 2
+.
+ – According to the 
+Terraria
+ lore pages
+, an ancient race of Dryads once waged a large war with 
+Cthulhu
+. Unable to defeat the beast, they managed to cripple it by ripping out its eyes, spine, and chunks of its brain. All but one of the Dryads were killed and the survivor (being the NPC encountered in-game) remains concealed for some time.
+Despite this, like all NPCs, if she is killed and the spawn requirements are met, she will respawn. 
+Re-Logic
+ artist 
+Jimmarn
+ has speculated that she might be reincarnated.
+[
+7
+]
+The 
+Guide
+'s tip "You should prove yourself by defeating a strong monster. That will get the attention of 
+a
+ dryad." may or may not imply that there are still multiple concealed Dryads.
+The name Celestia is a reference to the television series 
+My Little Pony: Friendship is Magic
+, which features a princess of the same name.
+The Princess has the chance to share the name Faye with the Dryad. In a world with both Celebration Mk 10 and Purify this enabled, the Zoologist has the chance to share the name Lilith with the Dryad.
+The name Nissa comes from the planeswalker 
+Nissa Revane
+ from the collectible card game 
+Magic: The Gathering
+.
+According to 
+Redigit
+, the Dryad "isn't actually wearing anything" and "the vines are a part of her body".
+[
+8
+]
+The Dryad is more likely to use the Stylist emote (
+) than other emotes. It is unknown why this is the case.
+In addition, the Stylist is also more likely to use the Dryad emote (
+) than other emotes.
+The internal name for the Junimo animation projectile is misspelled as "Jumino".
+[
+9
+]
+ The 
+Bestiary
+ entry for the Dryad: 
+"
+The Dryad is the last of her kind. She is connected with nature and can analyze its purity worldwide. She sells seeds, too!
+"
+See also
+[
+edit
+]
+Dryad
+ at the Dungeon Defenders 2 Wiki
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.0
+: 
+Dryad's Blessing
+ defense bonus to other villagers increased from 6 to 10 in Classic difficulty, 10 to 15 in Expert and 14 to 20 in Master.
+Defeating Queen Slime, Duke Fishron and Empress of Light now boost the damage of 
+Dryad's Bane
+ by 15% each (same as other Hardmode bosses).
+Now sells all 
+Planter Boxes
+ regardless of game progression. Previously, the Dryad would only sell the Daybloom Planter Box after 
+King Slime
+ was defeated, the Blinkroot Planter Box after the 
+Eye of Cthulhu
+ was defeated, the Deathweed Planter Box after the 
+Eater of Worlds
+/
+Brain of Cthulhu
+ was defeated, the Moonglow Planter Box after 
+Queen Bee
+ was defeated, the Waterleaf and Shiverthorn Planter Boxes after 
+Skeletron
+ was defeated, and the Fireblossom Planter Box after the 
+Wall of Flesh
+ was defeated.
+Now also sells the Potted Forest/Jungle Cedar, Tree, Palm, and Bamboo in pre-Hardmode. These items were previously exclusively sold in Hardmode.
+Now sells regular 
+Torches
+ during pre-Hardmode in worlds with both 
+Vampirism
+ and 
+World is infected
+, as well as 
+Corrupt
+ or 
+Crimson Torches
+, corresponding to the world's evil biome.
+Desktop 1.4.4
+: 
+Now sells 
+Guide to Environmental Preservation
+.
+Can now purify 
+Joja Cola
+.
+Desktop 1.4.0.1
+: Now sells 
+Corrupt
+ and 
+Crimson Grass Walls
+, 
+Flower Seeds
+, and 
+Potted Trees
+. Also sells 
+Crimson Seeds
+ in 
+Corruption
+ worlds as well as 
+Corrupt Seeds
+ in 
+Crimson
+ worlds while in a 
+Graveyard
+ biome.
+Desktop 1.3.0.6
+: Now sells 
+Vicious Powder
+ during a 
+Blood Moon
+ on Crimson worlds.
+Desktop 1.3.0.5
+: Now properly increases the 
+defense
+ of other 
+NPCs
+ instead of decreasing it.
+Desktop 1.3.0.1
+: 
+Added 
+Planter Boxes
+.
+Added 
+Dryad's Blessing
+ 
+buff
+.
+Sprite updated. Old sprite was: 
+.
+Desktop 1.2.3
+: 
+Now sells Crimson Seeds during Blood Moon if in a Crimson world.
+Now has Crimson specific dialogue for worlds with Crimson in them.
+Improved Dryad's world status dialog.
+Can now arrive following the defeat of the 
+Brain of Cthulhu
+.
+Fixed bug where Dryad would mention 
+The Corruption
+ in 
+Purification Powder
+ suggestion while in Crimson world.
+Desktop 1.2.1
+: Now sells 
+Pumpkin seeds
+ along with her own 
+clothes
+.
+Desktop 1.2
+: Now sells 
+Grass Walls
+ and 
+Flower Walls
+. Also sells 
+Mushroom Grass Seeds
+ when in a 
+Glowing Mushroom biome
+.
+Desktop 1.1.1
+: Now Corruption and 
+Hallow
+ status numbers are correct.
+Desktop 1.1
+: 
+Now has random name given to her on spawn. Her deaths will be reported with this name. Also other NPCs will use it in their quotes.
+The Dryad will now tell the player the percentage of Corruption and Hallow in the game world.
+Desktop 1.0.5
+: 
+Vile Powder
+ and Corrupt Seeds were added to inventory.
+Choice of goods became time of the day and 
+event
+ dependent.
+Desktop-Release
+: Introduced.
+ Console version
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile-Release
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, field 
+Sets.AttackTime
+ in 
+Terraria.ID.NPCID.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_111_DryadsWard()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+GetDryadWorldStatusDialog()
+ in 
+Terraria.Lang.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Directly use the percentages for calculations
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AddUpAlignmentCounts()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Terraria's 10th Anniversary: We are Re-Logic, Ask Us Anything!
+ 
+May 17, 2021
+↑
+ 
+Redigit's message in #journeys-end-chat on the 
+official Terraria Discord server
+ (
+link to message
+)
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, constant 
+JuminoStardropAnimation
+ in 
+Terraria.ID.ProjectileID.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

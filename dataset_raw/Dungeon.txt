@@ -1,0 +1,964 @@
+Source URL: https://terraria.wiki.gg/wiki/Dungeon
+Title: Dungeon
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Dungeon
+.
+For tips on navigating the Dungeon, see 
+Guide:Surviving in the Dungeon
+. 
+ 
+Map view of a Dungeon, layout and area may vary.
+ 
+A variant of the Dungeon entrance.
+The 
+Dungeon
+ is a vast underground labyrinth made up of 
+Dungeon Bricks
+ that is generated on world creation, being located on either the far right or left of the map, and contains unique, mostly skeletal 
+enemies
+ whose spawn rates increase the deeper a player travels. It begins at an above-ground entrance structure resembling a castle, and extends down to near-
+Underworld
+ depths. One Dungeon is generated in each world. Accessing the Dungeon requires first defeating 
+Skeletron
+ 
+(see 
+Access
+ below)
+. The bound 
+Mechanic
+ is also found in the depths, and is freed when spoken to. The Dungeon can appear in one of three Dungeon Brick colors, and with one or more 
+Dungeon Brick Wall
+ patterns, which is randomly generated at world creation. Additionally, the Dungeon's entrance itself also can vary from world to world, coming in three different 
+variants
+, each containing different details.
+Some passages are blocked off by 
+Cracked Dungeon Bricks
+. These blocks look almost identical to regular Dungeon Brick, but appear slightly crumbled, and drop no blocks when destroyed. Breaking one block may break adjacent false blocks in a chain similar to the behavior of 
+Desert Fossil
+. False blocks may also break spontaneously when the player walks on them, uses a 
+hook
+, or hits them with projectiles. Using a 
+Dangersense Potion
+ will highlight these blocks. Cracked Dungeon Bricks also conceal large, rectangular rooms lined with spikes and occasionally filled with water, so caution is advised.
+After 
+Plantera
+ is defeated, the Dungeon spawns new, more powerful enemies, which offer access to new items. Not all enemies spawn in all Dungeons: the particular background wall type generated for a particular Dungeon determine which post-Plantera enemies spawn there (
+see 
+below
+).
+After a player defeats 
+Golem
+ and Skeletron in a world, a group of 4 
+Cultists
+ will spawn at the entrance of the Dungeon. Killing them will summon the 
+Lunatic Cultist
+, and killing the Lunatic Cultist will initiate the 
+Lunar Events
+, an end-game 
+event
+.
+Access
+[
+edit
+]
+To gain unrestricted access to the Dungeon, 
+Skeletron
+ must first be defeated. Skeletron is summoned by speaking to the 
+Old Man
+, who guards the Dungeon entrance. At 
+night
+, a “
+Curse
+” option will be displayed, which will turn the Old Man into Skeletron when chosen. Speaking to the Old Man during the 
+day
+ will not allow the player to fight Skeletron. By defeating Skeletron, the 
+Clothier
+ 
+NPC
+ becomes available, and will spawn when a suitable vacant 
+house
+ is available.
+The Dungeon can be entered but not fully explored before Skeletron is defeated. Traveling to −3 
+depth
+ in the Dungeon before it has been defeated will summon 
+Dungeon Guardians
+ which will generally kill most players with a single hit. The Dungeon Guardians are almost invincible, and killing them will 
+not
+ grant access to the Dungeon — the only item gained from defeating a Dungeon Guardian is the 
+Bone Key
+.
+The player can tell if the requirements to spawn Dungeon Guardians are met if the music changes to the Dungeon track, or if they have a 
+Depth Meter
+ equipped that reads “
+Level
+” or "
+X'
+ 
+Underground
+". Dungeon entrances are located at varying heights, but are always some distance above zero depths, making their entrance structures and 1–2 screens of depth generally safe from Dungeon Guardians.
+Contents
+[
+edit
+]
+ 
+Placed 
+Water Bolt
+.
+ 
+Placed 
+Lesser Healing
+ and 
+Lesser Mana Potion
+.
+The Dungeon contains a dense assortment of unique 
+furniture
+ and 
+mechanisms
+ that can be retrieved by the player for later use. Several 
+Dart Traps
+ are 
+wired
+ to 
+Pressure Plates
+, providing an extra hazard to players. Traps like these can also sometimes be found above-ground at the Dungeon's entrance. 
+Chain Lanterns
+ are wired to 
+Switches
+, which the player can toggle on and off.
+There are many shelves in the Dungeon, on which are 
+Books
+, 
+Lesser Healing Potions
+, 
+Lesser Mana Potions
+, and occasionally 
+Water Bolts
+, which appear as a blue book with a yellow stripe in placed form. 
+Life Crystals
+ cannot spawn in the Dungeon.
+There are several 
+Locked Gold Chests
+ containing both loot unique to the Dungeon and standard 
+Underground
+ loot. A 
+Golden Key
+ is required to open each of these, and will be consumed upon unlocking a chest. Locked 
+Biome Chests
+ are also present, but they can only be opened after 
+Plantera
+ is defeated and the player has obtained a respective 
+Biome Key
+.
+Characters
+Pre-Hardmode
+:
+Skeletron
+(boss)
+Old Man
+Bound Mechanic
+Angry Bones
+Dark Caster
+Cursed Skull
+Librarian Skeleton
+Water Bolt Mimic
+Spike Ball
+Blazing Wheel
+Dungeon Slime
+(uncommon)
+Dungeon Guardian
+(Only accessible before defeating 
+Skeletron
+)
+Hardmode
+ post-
+Plantera
+:
+Blue Armored Bones
+Rusty Armored Bones
+Hell Armored Bones
+Paladin
+Necromancer
+Ragged Caster
+Diabolist
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Giant Cursed Skull
+Bone Lee
+Dungeon Spirit
+Hardmode
+ post-
+Golem
+:
+Lunatic Devotee
+Blue Cultist Archer
+Lunatic Cultist
+(boss)
+Unique Treasures
+From 
+Locked Gold Chests
+:
+Handgun
+Aqua Scepter
+Magic Missile
+Blue Moon
+Cobalt Shield
+Muramasa
+Shadow Key
+Valor
+Ram Rune
+Silver Bracer
+Bone Welder
+Hardmode
+ post-
+Plantera
+ from 
+Biome Chests
+:
+Piranha Gun
+Scourge of the Corruptor
+Vampire Knives
+Rainbow Gun
+Staff of the Frost Hydra
+Desert Tiger Staff
+Remnants of Devotion
+Unique Drops
+Golden Key
+Bone
+Bone Wand
+Clothier Voodoo Doll
+Ancient Necro Helmet
+Nazar
+Tally Counter
+Bone Key
+(Only obtainable before defeating 
+Skeletron
+)
+Water Bolt
+Dark Forebodings
+Cream Soda
+Hardmode
+ post-
+Plantera
+:
+Bone Feather
+Keybrand
+Wisp in a Bottle
+Magnet Sphere
+Paladin's Shield
+Paladin's Hammer
+Armor Polish
+Adhesive Bandage
+Shadowbeam Staff
+Spectre Staff
+Inferno Fork
+Rocket Launcher
+Rifle Scope
+Sniper Rifle
+SWAT Helmet
+Tactical Shotgun
+Black Belt
+Tabi
+Ectoplasm
+Morning Star
+Shadow Jousting Lance
+BBQ Ribs
+Coffee
+Through plundering:
+Campfire
+Wrought Iron Fence
+Dungeon Brick
+Stained Glass
+Water Bolt
+Book
+Bowl
+Lesser Healing Potion
+Lesser Mana Potion
+Dungeon Brick Wall
+Spike
+Water Candle
+Alchemy Table
+Bewitching Table
+Dungeon furniture
+Gothic furniture
+Dungeon Paintings
+Hardmode
+ Post-
+Plantera
+ plundering:
+Jungle Chest
+(Needs 
+Jungle Key
+)
+Ice Chest
+(Needs 
+Frozen Key
+)
+Hallowed Chest
+(Needs 
+Hallowed Key
+)
+Corruption Chest
+(Needs 
+Corruption Key
+)
+ 
+or
+ 
+Crimson Chest
+(Needs 
+Crimson Key
+)
+Desert Chest
+(Needs 
+Desert Key
+)
+From 
+Fishing
+:
+Dungeon Crate
+(
+Pre-Hardmode
+ only)
+Stockade Crate
+(
+Hardmode
+ only)
+Alchemy Table
+Bewitching Table
+Music
+Dungeon
+Dungeon (Otherworldly)
+Hardmode post-Plantera Dungeon
+[
+edit
+]
+When 
+Plantera
+ is defeated for the first time in a world, the 
+status message
+ 
+“
+Screams are echoing from the dungeon...
+”
+ appears, meaning that new 
+enemies
+ will now appear in the Dungeon. They are generally much more difficult than ordinary Dungeon enemies, and drop new powerful items. It also becomes possible to open the 
+Biome Chests
+ present in the Dungeon.
+The particular post-Plantera enemies that 
+spawn
+ in the Dungeon area are based off of the 
+background walls
+, present, which also correspond to the 
+Faction Flags
+ found naturally placed in the area. A single Dungeon can contain multiple background wall types in different sections, or just one type. Whether a Dungeon contains different types can only be determined by exploring the Dungeon. Each wall type has "usual" enemies to spawn, but there is always a small chance of other Dungeon enemies spawning, and this chance is increased if a 
+lucky
+ player is present. For example, Skeleton Snipers can still rarely spawn in areas with Dungeon Brick Walls, even if no Slab Walls are nearby.
+ 
+Comparison of the different 
+Dungeon Wall
+ types' appearances.
+This content is transcluded from 
+Dungeon Brick Walls
+.
+Brick walls
+[
+edit
+]
+Wall type
+Blue Brick Wall
+Green Brick Wall
+Pink Brick Wall
+Faction flags
+Marching Bones Banner
+Necromantic Sign
+Matching enemies
+Rare drops
+Cursed Skull
+Nazar
+Blue
+Armored
+Bones
+Bone Feather
+Keybrand
+Wisp in a Bottle
+Magnet Sphere
+Morning Star
+Armor Polish
+Necromancer
+Shadowbeam Staff
+Skeleton
+Commando
+Rocket Launcher
+Paladin
+Paladin's Hammer
+Paladin's Shield
+Bone Lee
+Tabi
+Black Belt
+Slab walls
+[
+edit
+]
+Wall type
+Blue Slab Wall
+Green Slab Wall
+Pink Slab Wall
+Faction flags
+Rusted Company Standard
+Ragged Brotherhood Sigil
+Matching enemies
+Rare drops
+Spike Ball
+n/a
+Rusty
+Armored
+Bones
+Bone Feather
+Keybrand
+Wisp in a Bottle
+Magnet Sphere
+Morning Star
+Adhesive Bandage
+Ragged
+Caster
+Spectre Staff
+Skeleton
+Sniper
+Rifle Scope
+Sniper Rifle
+Giant
+Cursed Skull
+Shadow Jousting Lance
+Nazar
+Bone Lee
+Tabi
+Black Belt
+Tiled walls
+[
+edit
+]
+Wall type
+Blue Tiled Wall
+Green Tiled Wall
+Pink Tiled Wall
+Faction flags
+Molten Legion Flag
+Diabolic Sigil
+Matching enemies
+Rare drops
+Blazing Wheel
+n/a
+Hell
+Armored
+Bones
+Bone Feather
+Keybrand
+Wisp in a Bottle
+Magnet Sphere
+Morning Star
+Diabolist
+Inferno Fork
+Tactical
+Skeleton
+SWAT Helmet
+Tactical Shotgun
+Giant
+Cursed Skull
+Shadow Jousting Lance
+Nazar
+Bone Lee
+Tabi
+Black Belt
+Entrance Variants
+[
+edit
+]
+The entrance to the Dungeon can come in several different variants, each with different designs and details.
+[
+1
+]
+Classic variant.
+Tower variant, with regular windows.
+Tower variant, with windows resembling the 
+Skeletron
+.
+Tower variant, with windows resembling 
+Moon Lord
+'s eyes.
+Dome variant, with regular windows
+Dome variant, with windows resembling the 
+Skeletron
+.
+Dome variant, with windows resembling 
+Moon Lord
+'s eyes and the 
+Celestial Pillars
+.
+Notes
+[
+edit
+]
+ 
+A Chest high enough to be looted prior to defeating Skeletron.
+Internally, one tile at the Dungeon entrance ("Dungeon point") is chosen as the spawning tile of the 
+Old Man
+ and the 
+Mysterious Tablet
+ (as well as the 
+Cultists
+). This tile is the left of the two blocks on which the Old Man stands during the night.
+Relative to the world's horizontal center, the Dungeon will always be on the side opposite to the 
+Jungle
+ and on the same side as the 
+Snow biome
+ except in worlds where 
+Drunk
+ is present.
+[
+2
+]
+A player is considered to be in the Dungeon if they are at or below the depth of −3 feet (1.5 tiles below surface), standing in front of any 
+unsafe
+ 
+Dungeon Brick Walls
+, and there are at least 250 
+Dungeon Bricks
+ within the 
+biome existence requirement
+ area.
+[
+3
+]
+ This knowledge can be useful if one wants to lure out a Dungeon Guardian, or to avoid encountering one.
+Most Dungeons, regardless of their visible background walls, have Brick walls behind their foreground blocks. If these blocks are mined out and Plantera has been defeated, enemies associated with Brick walls can potentially spawn.
+The unique loot of the first few chests of the Dungeon (starting from the entrance) can be easily guessed without unlocking. If the first chest is located above the depth of −100 feet, it will be wooden and contain a 
+Golden Key
+, otherwise it will contain a 
+Muramasa
+. The following chest will contain a 
+Cobalt Shield
+, and so on.
+This is because of the way Dungeon chest loot is generated; the unique item of each chest follows a predetermined order. In practice, this becomes impossible to follow because of how the Dungeon splits off into multiple branching paths; however, the entrance is predictable because it is a single linear path. The order is as follows: Muramasa, Cobalt Shield, 
+Aqua Scepter
+, 
+Blue Moon
+, 
+Magic Missile
+, 
+Valor
+, Golden Key, 
+Handgun
+.
+[
+4
+]
+Note that the 
+Shadow Key
+ and the 
+Ram Rune
+ will generate 
+alongside
+ another unique Dungeon treasure, instead of on its own, hence it being excluded from the loot order.
+However, this does not mean the first Gold Chest encountered in the Dungeon will always contain the Muramasa, it is dependent on world generation.
+It is possible, though highly unlikely, for a 
+Dungeon Guardian
+ to spawn if the player is below −3 depth and 
+outside
+ of the Dungeon. This will only happen if the player is extremely close to the Dungeon, by touching or standing on the outside wall.
+It is possible that one or more 
+Chests
+ spawn above the surface, allowing to be looted without triggering the spawn of Dungeon Guardians. However, these do not contain the unique, valuable Dungeon-specific items.
+If Skeletron was already defeated, the Old Man will no longer appear at the Dungeon. The Skeletron will only be able to be summoned by a 
+Clothier Voodoo Doll
+, making it and the Dungeon Guardian the only non-permanent enemies in the Dungeon. The Old Man and the Dungeon Guardian are the only creatures that will never be able to spawn again in the world once a boss is beaten.
+It is possible for an 
+altar
+ to spawn in the Dungeon, even when there is no 
+Crimson
+/
+Corruption
+ nearby.
+Dungeon enemies can occasionally spawn outside the Dungeon while the player is in it.
+This happens because Dungeon enemies can spawn on any Dungeon Brick that has a 
+background wall
+ directly above it, even if it is not a Dungeon wall, which allows them to sometimes spawn above ceiling of Dungeon rooms in the neighboring caves.
+While entering the Dungeon before defeating Skeletron is possible, 
+fishing
+ inside it will not yield any Dungeon fishing loot.
+This is unchanged in a 
+Drunk
+ world, despite the Dungeon being more accessible than usual.
+Achievements
+[
+edit
+]
+ 
+Dungeon Heist
+ • 
+“Steal a key from the dungeon's undead denizens, and unlock one of their precious golden chests.”
+Unlock your first 
+Gold Chest
+ within the 
+Dungeon
+. 
+(Desktop, Console and Mobile versions)
+Category: 
+ Explorer
+ 
+Big Booty
+ • 
+“Unlock one of the dungeon's large, mysterious chests with a special key.”
+Open your first 
+Biome Chest
+. 
+(Desktop, Console and Mobile versions)
+Category: 
+ Explorer
+ 
+Robbing the Grave
+ • 
+“Obtain a rare treasure from a difficult monster in the dungeon.”
+Obtain a rare item from an enemy in the post-
+Plantera
+ 
+Dungeon
+. 
+(Desktop, Console and Mobile versions)
+Category: 
+ Explorer
+Tips
+[
+edit
+]
+For tips on navigating the Dungeon, see 
+Guide:Surviving in the Dungeon
+. 
+Farming for 
+Bones
+ is harder in a post-Plantera Dungeon, as the weaker enemies will be overridden by the spawn rates of post-Plantera enemies, which do not drop Bones. However, Bones will be of little use by the time the player has gotten this far, other than decorative items.
+If the player wants to navigate the Dungeon in a post-
+Golem
+ world, ignore the 
+Cultists
+ when entering. Defeating all four of them by accident will spawn the 
+Lunatic Cultist
+, so be cautious.
+Spike-covered pits that are filled with water are very suitable for Dungeon 
+fishing
+.
+Trivia
+[
+edit
+]
+ – According to the 
+Terraria
+ lore pages
+, the Dungeon was once a thriving city until an unknown curse brought everyone in the dungeon to live past death, their bodies rotting away and turning into mindless beasts.
+It is possible to obtain 
+Locked Gold Chest
+ loots prior to defeating Skeletron if the player is able to outrun the Dungeon Guardians, as 
+Golden Keys
+ can be obtained from regular chests and 
+pots
+ in the Dungeon.
+The decorative banners placed in front of the various walls hint as towards the enemies — e.g. the 
+Diabolic Sigil
+ is found in tiled wall areas, where the 
+Diabolist
+ spawns.
+It is possible (though unlikely) for a 
+Boulder trap
+ to spawn with a Dungeon tunnel passing between the 
+Boulder
+ and 
+Pressure Plate
+. The Dungeon Bricks between the trap will be removed, leading to a functional Boulder trap, and an entrance into the Dungeon.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.7
+: 
+Locked Gold Chests in the Dungeon now have a chance to contain the 
+Silver Bracer
+.
+Kraken
+ no longer drops from the enemies post-
+Plantera
+.
+Fixed 
+Gothic Doors
+ and 
+Chandeliers
+ not generating in the Dungeon.
+Desktop 1.4.5.0
+: 
+Added two new enemies: 
+Librarian Skeleton
+ and 
+Water Bolt Mimic
+.
+Added alternate entrance variants.
+Locked Gold Chests in the Dungeon now have a chance to contain the 
+Ram Rune
+.
+Desktop 1.4.1.1
+: Fixed an issue in Dungeon code that was causing the same 
+seed
+ to create different worlds each time.
+Desktop 1.4.0.5
+: 
+Dungeon 
+fishing
+ now prioritizes Dungeon loot over overlapping 
+biomes
+.
+Fixed an issue where Dungeon 
+pits
+ would generate at 
+surface
+.
+Desktop 1.4.0.4
+: Fixed some Hardmode Dungeon enemies drawing into the floor slightly in their animation.
+Desktop 1.4.0.1
+: 
+Added a new Desert 
+Biome Chest
+ that contains the 
+Desert Tiger Staff
+.
+Added 
+Cracked Dungeon Bricks
+ to the Dungeon, these may block certain paths in the Dungeon or reveal 
+pit traps
+ that are lined with 
+Spikes
+ and occasionally filled with 
+water
+.
+Spikes are one block longer.
+Shadow Keys
+ now generate alongside other unique loot in Golden Chests.
+Updated the sprites of most Dungeon enemies.
+Added alternative music track, 
+Dungeon (Otherworldly)
+.
+Desktop 1.3.5
+: Newly-generated Dungeons now contain new 
+furniture
+.
+Desktop 1.3.0.1
+: 
+Hardmode
+ 
+enemies
+ can now have a chance to drop the 
+Kraken
+.
+Cultists will now spawn at the entrance of the Dungeon when Golem has been defeated.
+Bewitching Tables
+ and 
+Alchemy Tables
+ now generate within the Dungeon.
+Valor
+ now can be found in a locked 
+Gold Chest
+.
+There is a 
+1/7 (14.29%)
+ chance that a Hardmode Dungeon enemy will spawn on any type of Dungeon background wall.
+Desktop 1.2.4.1
+: Fixed bug where Hardmode Dungeon 
+casters
+ would shoot more than 1 projectile in multiplayer.
+Desktop 1.2.4
+: The Dungeon (as well as the 
+Underworld
+) has more new furniture generated at world creation.
+Desktop 1.2.3
+: 
+Life Crystals
+ no longer spawn in the Dungeon.
+Desktop 1.2.0.3
+: Now only generates Hardmode enemies after 
+Plantera
+ is defeated.
+Desktop 1.2
+: 
+Dungeons now always have the same color bricks and background wall.
+Now generates with locked Biome Chests and 
+Faction Flags
+ that denote what will spawn there in Hardmode.
+Changed music track from 
+Eerie
+ to a new track exclusive to the biome, 
+Dungeon
+.
+The Dungeon now has 3 unique textures/colors and furniture.
+Desktop 1.1
+: Now generated with 
+traps
+ and 
+light sources
+ wired to 
+Switches
+.
+Desktop 1.0.6
+: 
+Dungeons should no longer spawn in the 
+Ocean
+.
+Dungeons now spawn with more Spikes and less 
+lighting
+.
+Some items no longer spawn in Dungeon as these were meant for non-Dungeon areas.
+Chests are now locked and must be opened with a 
+Golden Key
+.
+New enemies:
+Blazing Wheel
+Dungeon Slime
+Spike Ball
+Desktop 1.0.5
+: 
+Entering the Dungeon before defeating 
+Skeletron
+ now spawns 
+Dungeon Guardian
+ instead of Skeletron's head.
+Common 
+Chests
+ are now replaced with Gold Chests.
+Desktop-Release
+: Introduced.
+ Console version
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile-Release
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+Entrances
+ in 
+Terraria.GameContent.Generation.Dungeon.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+Reset()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+CalculateZones()
+ in 
+Terraria.SceneMetrics.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+GetDungeonLootAndChestStyle()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Biomes
+ and Structures
+Surface Layers
+Pure biomes
+Forest
+Space
+Desert
+Ocean
+Snow
+Jungle
+Glowing Mushroom
+Evil biome
+The Corruption
+The Crimson
+The Hallow
+Underground Layers
+Pure biomes
+Underground
+Cavern
+Dungeon
+Ice
+Underground Desert
+Underground Jungle
+Underground Mushroom
+Underground Corruption
+Underground Crimson
+Underground Hallow
+The Underworld
+Mini-Biomes
+The Aether
+Bee Hive
+Granite Cave
+Graveyard
+Jungle Temple
+Marble Cave
+Meteorite
+Oasis
+Spider Nest
+Structures and 
+Other Biomes
+Chasm
+Enchanted Sword Shrine
+Floating Island
+Jungle Shrine
+Living Tree
+Living Mahogany Tree
+Pyramid
+Ruined House
+Underground Cabin

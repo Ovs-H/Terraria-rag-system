@@ -1,0 +1,1653 @@
+Source URL: https://terraria.wiki.gg/wiki/The_Twins
+Title: The_Twins
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:The Twins
+.
+The Twins
+Hardmode exclusive
+ 
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+Max Life
+43000
+64500
+82238
+ 
+(total)
+Defense
+10
+KB
+ Resist
+100%
+Immune to
+Drops
+Coins
+12
+ Gold
+(Dropped by Treasure Bag
+[
+1
+]
+)
+Item 
+(Quantity)
+Rate
+Soul of Sight
+ 
+(25–40)
+100%
+Hallowed Bar
+ 
+(15–30)
+100%
+Greater Healing Potion
+ 
+(5–15)
+100%
+Twins Mask
+14.29%
+Treasure Bag
+(The Twins)
+100%
+Mechanical Wheel Piece
+100%
+Twins Mask
+14.29%
+Soul of Sight
+ 
+(25–40)
+100%
+Hallowed Bar
+ 
+(20–35)
+100%
+Coins
+ (
+30
+ Gold
+)
+100%
+Pair of Eyeballs
+25%
+Twins Relic
+100%
+Sounds
+Hurt
+Killed
+Spawn
+Hurt 
+(mechanical)
+ 
+“
+This is going to be a terrible night...
+”
+ 
+The Twins
+  are a 
+Hardmode
+ 
+mechanical boss
+ which are essentially a more difficult version of the 
+Eye of Cthulhu
+. The Twins are two separate flying entities, 
+Retinazer
+ and 
+Spazmatism
+, connected by a tendril, each with its own attack pattern and health. Both must be killed in order to defeat the boss.
+While The Twins are alive, their exclusive music 
+The Twins
+ will play. When 
+Otherworldly music
+ is enabled, the track 
+Boss 2 (Otherworldly)
+ will play instead.
+Summoning and spawning
+[
+edit
+]
+Manual
+[
+edit
+]
+The Twins can be summoned manually using a 
+Mechanical Eye
+ at 
+night
+ (from 7:30 PM to 4:30 AM).
+Random
+[
+edit
+]
+The Twins can also spawn naturally at the start of the night, as long as they have not yet been defeated at least once in the current world. Their arrival when spawning naturally is announced by the 
+status message
+ 
+"
+This is going to be a terrible night...
+"
+.
+In order for the boss to spawn naturally, the following conditions must be fulfilled at dusk (7:30 PM):
+[
+2
+]
+The world is in 
+Hardmode
+ and at least one 
+Demon or Crimson Altar
+ has been destroyed.
+In worlds where the 
+Skyblock
+ 
+special world seed
+ is active and the 
+tile threshold
+ is not exceeded, The Twins can spawn even if no altars have been destroyed.
+No boss is already alive, and the 
+Eye of Cthulhu
+ is not already spawning naturally.
+None of the following 
+events
+ are active: 
+Lantern Night
+, 
+Old One's Army
+, 
+Pumpkin Moon
+, or 
+Frost Moon
+.
+Time is not being accelerated by the 
+Enchanted Sundial
+ or 
+Enchanted Moondial
+.
+If the conditions are met, there is a 
+1/10 (10%)
+ chance for a random mechanical boss to spawn that has not yet been defeated in the world. This gives The Twins initially a spawn chance of 
+1/30 (3.33%)
+ per night. If another mechanical boss is defeated first, the chance for The Twins to spawn increases to 
+1/20 (5%)
+, and should both of the other mechanical bosses be defeated first, then The Twins have the full remaining 
+1/10 (10%)
+ spawn chance per night.
+Once The Twins have been selected to spawn, the status message appears and a hidden countdown of 1 minute 21 seconds begins. The Twins spawn at the end of the countdown, at 8:51 PM. Another check is performed at that time, with all of the following conditions needing to be fulfilled in order for the boss to spawn:
+[
+3
+]
+At least one player is in the 
+surface
+ or 
+Space
+ layer.
+Consequently, the natural spawning of The Twins can easily be prevented by being in a layer lower than the surface at 8:51 PM. Returning to the surface afterward will not cause The Twins to spawn either (unlike with the Eye of Cthulhu).
+This restriction is lifted in worlds where the 
+world spawn point
+ is below the surface, such as worlds with the 
+special world seed
+ 
+Remix
+ active or the 
+secret world seed
+ 
+Mole people
+. The Twins can spawn naturally in those worlds regardless of the player's position, whether they are above or below the surface.
+No boss is already alive.
+The 
+Lunar Events
+ are not active and the countdown for the spawning of the 
+Moon Lord
+ has not begun, either due to manual summoning or defeating the fourth 
+Celestial Pillar
+.
+Time is not being accelerated by the Enchanted Sundial or Enchanted Moondial.
+In singleplayer, exiting the world during the countdown also prevents The Twins from spawning naturally.
+In worlds where the 
+special seeds
+ 
+For the Worthy
+ and 
+The Constant
+ are present but 
+Celebration Mk 10
+ is not, The Twins will still be able to randomly spawn, even if they have been defeated before.
+For the Worthy and Remix
+[
+edit
+]
+The Twins cannot be summoned in worlds where both the 
+For the Worthy
+ and Remix special world seeds are active, since the boss is part of 
+Mechdusa
+ instead.
+Eyes
+[
+edit
+]
+There are two eyes: Retinazer and Spazmatism. Retinazer is a laser-shooting eye with a red iris, while Spazmatism is an eye with a green iris that shoots Cursed Flames.
+Retinazer
+First Form
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+AI Type
+Retinazer AI
+Damage
+45
+/
+76
+/
+115
+ 
+(contact)
+40
+76
+114
+ 
+(
+Eye Laser
+)
+ 
+[
+6
+]
+Max Life
+20000
+/
+30000
+/
+38250
+Defense
+10
+KB
+ Resist
+100%
+Immune to
+Drops
+Coins
+12
+ Gold
+30
+ Gold
+Projectile created
+Projectile created
+Projectile created
+Eye Laser
+Sounds
+Hurt
+Killed
+Eye Laser
+Entering second phase
+Internal 
+NPC ID
+: 
+125
+Internal 
+Projectile ID
+: 
+83
+Spazmatism
+First Form
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+AI Type
+Spazmatism AI
+Damage
+50
+/
+85
+/
+128
+ 
+(contact)
+50
+88
+132
+ 
+(
+Cursed Flame
+)
+ 
+[
+4
+]
+Max Life
+23000
+/
+34500
+/
+43988
+Defense
+10
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Debuff
+Cursed Inferno
+Debuff tooltip
+Losing life
+Chance
+68.75% 
+[
+5
+]
+Duration
+2–3 seconds 
+[
+5
+]
+4–6 seconds
+ 
+[
+5
+]
+5–7.5 seconds
+ 
+[
+5
+]
+Drops
+Coins
+12
+ Gold
+30
+ Gold
+Projectile created
+Projectile created
+Projectile created
+Cursed Flame (hostile)
+Sounds
+Hurt
+Killed
+Cursed Flame
+Entering second phase
+Internal 
+NPC ID
+: 
+126
+Internal 
+Buff ID
+: 
+39
+Internal 
+Projectile ID
+: 
+96
+Retinazer
+Second Form
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+AI Type
+Retinazer AI
+Damage
+67
+114
+172
+ 
+(contact)
+50
+92
+138
+ 
+(
+Death Laser
+)
+36
+68
+102
+ 
+(
+Death Laser
+ rapid fire)
+ 
+[
+6
+]
+Max Life
+8000/20000
+12000/30000
+15300/38250
+ 
+[
+6
+]
+Defense
+20 
+[
+6
+]
+KB
+ Resist
+100%
+Immune to
+Drops
+Coins
+12
+ Gold
+30
+ Gold
+Item 
+(Quantity)
+Rate
+Retinazer Trophy
+10%
+Projectile created
+Projectile created
+Projectile created
+Death Laser
+Sounds
+Hurt
+Killed
+Death Laser
+Internal 
+NPC ID
+: 
+125
+Internal 
+Projectile ID
+: 
+100
+Spazmatism
+Second Form
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+AI Type
+Spazmatism AI
+Damage
+75
+127
+192
+ 
+(contact)
+60
+108
+162
+ 
+(
+Eye Fire
+)
+ 
+[
+4
+]
+Max Life
+9200/23000
+13800/34500
+17595/43988
+ 
+[
+4
+]
+Defense
+28 
+[
+4
+]
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Debuff
+Cursed Inferno
+Debuff tooltip
+Losing life
+Chance
+68.75% 
+[
+5
+]
+Duration
+2–3 seconds 
+[
+5
+]
+4–6 seconds
+ 
+[
+5
+]
+5–7.5 seconds
+ 
+[
+5
+]
+Drops
+Coins
+12
+ Gold
+30
+ Gold
+Item 
+(Quantity)
+Rate
+Spazmatism Trophy
+10%
+Projectile created
+Projectile created
+Projectile created
+Eye Fire
+Sounds
+Hurt
+Killed
+Eye Fire
+Charge
+Internal 
+NPC ID
+: 
+126
+Internal 
+Buff ID
+: 
+39
+Internal 
+Projectile ID
+: 
+101
+Behavior
+[
+edit
+]
+First phase
+[
+edit
+]
+The eyeball with the red iris, Retinazer, fires purple, high-velocity Eye Lasers at low accuracy when close enough to the player. It will usually attempt to remain diagonally above the player, but moves slower compared to Spazmatism.
+The eyeball with the green iris, Spazmatism, fires green balls of Cursed Flames, which have a 
+11/16 (68.75%)
+ chance of inflicting the 
+Cursed Inferno
+ 
+debuff
+ for 2–3 / 
+4–6
+ / 
+5–7.5
+ seconds. It will usually attempt to remain horizontally in line with the player.
+Both eyes alternate between their signature ranged attacks and charging attacks, much like the 
+Eye of Cthulhu
+. Retinazer charges four times while traveling much greater distances than Spazmatism at the expense of longer periods in between charges, while Spazmatism charges ten times within quick, high-velocity bursts that cover shorter distances.
+Second phase
+[
+edit
+]
+When one of the eyes' health dips below 40%, it spins before transitioning into its second form, casting off its retina to reveal its true mechanical appearance before beginning to attack the player after a few seconds. Retinazer transforms at 8,000 / 
+12,000
+ / 
+15,300
+ health while Spazmatism transforms at 9,200 / 
+13,800
+ / 
+17,595
+ health. During their second phase, the defense of each eye is also increased to 20 and 28 for Retinazer and Spazmatism respectively.
+Retinazer becomes a mechanical eye with a laser cannon in its pupil and now only fires red Death Lasers, ceasing its attempts to ram the player (or align with the player diagonally). It fires at a higher rate, with more damage, and at pinpoint accuracy, periodically switching to a quick barrage with considerably less damage. Both normal and burst lasers are fired more quickly as its health is depleted, leading to a near-constant stream of them near the end.
+Retinazer 
+will
+, however, align horizontally with the player when firing barrages, though not as tightly as first-phase Spazmatism does. When not barraging, Retinazer will usually align itself vertically with the player from above.
+Spazmatism becomes a mechanical mouth (similar to the Eye of Cthulhu's second phase) that continuously pursues the player. It alternates between charging at the player six times with increased speed and range, and spewing Eye Fire from its mouth in the form of a continuous stream of Cursed Flames while slowly approaching the player for approximately seven seconds, in a manner similar to the 
+Flamethrower
+. The stream of Cursed Flames also has a 
+11/16 (68.75%)
+ chance of inflicting the 
+Cursed Inferno
+ 
+debuff
+ for 2–3 / 
+4–6
+ / 
+5–7.5
+ seconds. Spazmatism no longer attempts to align itself horizontally with the player.
+In 
+Expert Mode
+, both eyes fire faster and charge greater distances in their first phases as their health is depleted, and their Cursed Flame and Eye Laser projectiles have a 16.67% higher velocity. In their second phases, Retinazer's barrages scale much more aggressively with health and its slower Death Laser barrages have a 17.65% higher velocity, and Spazmatism has a much shorter delay between individual charges.
+The Twins will flee and despawn if they are not defeated by dawn (4:30 AM), if all players die, or if they go too far off-screen.
+Notes
+[
+edit
+]
+Killing both eyes is required for the boss to collectively drop all of its loot, including dropped 
+Hearts
+. Thus, killing one of the eyes will not drop any Hearts.
+Both eyes can drop their respective 
+trophy
+ when killed, regardless of which is killed first. It is also possible (
+1/100 (1%)
+ chance) for both trophies to drop in one battle.
+ 
+Two pairs of The Twins that spawned.
+In single player The Twins can only despawn if both of their despawn timers reach 0 at the same time, which causes them to despawn together. In multiplayer, however, it is possible for them to despawn separately.
+This can be exploited by timing 2 players' deaths such that one twin despawns, then a player respawns, allowing for an easier battle with only one twin.
+Achievements
+[
+edit
+]
+ 
+Buckets of Bolts
+ • 
+“Defeat the three nocturnal mechanical menaces: the Twins, the Destroyer, and Skeletron Prime.”
+Defeat all three 
+mechanical bosses
+.
+Category: 
+ Slayer
+ 
+Mecha Mayhem
+ • 
+“Do battle against the Twins, the Destroyer, and Skeletron Prime simultaneously and emerge victorious.”
+Summon all three 
+mechanical bosses
+ simultaneously and defeat all of them.
+Category: 
+ Challenger
+ 
+Slayer of Worlds
+ • 
+“Defeat every boss in Terraria.”
+Defeat every 
+boss
+ in the game.
+Category: 
+ Challenger
+Tips
+[
+edit
+]
+For more elaborate strategies on defeating The Twins, including 
+weapon
+ and 
+arena
+ recommendations, see 
+Guide:The Twins strategies
+.
+Focus on defeating one eye completely first without inflicting too much damage on the other one. Battling The Twins while both are in their second form makes the battle much more difficult, especially in 
+Expert Mode
+.
+Spazmatism may be a better choice for defeating first, since its Cursed Flames are difficult to avoid without proper mobility equipment and 
+buffs
+ in its second phase. Retinazer is less deadly, as it cannot inflict 
+debuffs
+ and will not charge in its second phase, which helps the player attack it from a safe distance with ranged attacks.
+In its first phase, Retinazer's accuracy is low enough that it will simply miss most shots against a stationary player. If Spazmatism is already defeated, even moderately tanky builds can maximize DPS for less effort by staying put, except to dodge charges.
+The Twins are only immune to 
+Confused
+ and 
+Poisoned
+, so using a weapon that inflicts a debuff may be useful during the fight.
+A good 
+arena
+ for this boss is simply a long, flat plane. With 
+Lightning Boots
+ (or better) and a 
+ranged
+ or 
+magic weapon
+, the player can continually outrun The Twins' attacks while firing back at them.
+In its second phase, Retinazer can only attack the player if it has an unobstructed line of sight. Hiding in a box prevents it from dealing any damage.
+A 
+Gravitation Potion
+ can be an excellent method of keeping distance from the Twins, allowing them to be attacked freely.
+Trivia
+[
+edit
+]
+Retinazer's name is a 
+portmanteau
+ of 
+retina
+, a part of the eye, and 
+laser
+. Spazmatism's name is a portmanteau of 
+spasm
+, meaning to twitch uncontrollably, and 
+astigmatism
+, an eye disorder that creates blurry or distorted vision.
+Spazmatism's second form has visible bolts along either side, whereas Retinazer's second form only has them along one side.
+The Twins seem to have complete 
+heterochromia iridum
+ (two different eye colors).
+The Twins are the only boss with two trophies, and the only 
+mechanical boss
+ with more than one phase.
+Despite inflicting it, Spazmatism is not immune to Cursed Inferno.
+The Twins are one of three bosses with a corresponding 
+minion
+ (
+Optic Staff
+), the others being the 
+Martian Saucer
+ (
+Xeno Staff
+) and 
+Duke Fishron
+ (
+Tempest Staff
+).
+ – According to the 
+Terraria
+ lore pages
+, The Twins were one of the three mechanical recreations of Cthulhu's missing organs. They are a recreation of Cthulhu's eyes.
+The Twins seem to be bio-mechanical hybrids since they are not immune to debuffs like 
+On Fire!
+, 
+Cursed Inferno
+, or 
+Acid Venom
+, even when transformed.
+The Twins make an appearance in 
+Don't Starve Together
+ as the 
+Twins of Terror
+, the harder version of the original Eye of Terror. However, unlike in 
+Terraria
+, Retinazer is known as "Retinazor," they can both spawn minions, do not fire any projectiles, and can charge towards players in both phases.
+ 
+Bestiary
+ entries
+Retinazer: 
+"
+Belonging to a pair of mechanically recreated Eyes of Cthulhu, this one focuses its energy into firing powerful lasers.
+"
+Spazmatism: 
+"
+Belonging to a pair of mechanically recreated Eyes of Cthulhu, this one chases at high speed, exhaling cursed flames.
+"
+See also
+[
+edit
+]
+Twins of Terror
+ at the Don't Starve Wiki
+History
+[
+edit
+]
+For changes which affect all the mechanical bosses, see 
+mechanical bosses history
+. 
+ Desktop version
+Desktop 1.4.5.0
+: Changed music track from 
+Boss 2
+ to a new track exclusive to the boss fight, 
+The Twins
+.
+Desktop 1.4.1.2
+: Now immune to 
+Poisoned
+.
+Desktop 1.4.0.1
+: 
+The Twins now use their map icons correctly. Before this, Retinazer used both first phase icons while Spazmatism used both second phase icons.
+Decreased Spazmatism's Cursed Inferno duration to compensate for increased Cursed Inferno 
+DPS
+. The debuff can now last for 3 / 
+6
+ / 
+7.5
+ seconds (chance of 
+6/16 (37.5%)
+), 2 / 
+4
+ / 
+5
+ seconds (
+5/16 (31.25%)
+), or not be inflicted at all (
+5/16 (31.25%)
+). Previous durations were 8 / 
+16
+ seconds (chance of 
+8/48 (16.67%)
+), 5 / 
+10
+ seconds (
+10/48 (20.83%)
+), 3 / 
+6
+ seconds (
+15/48 (31.25%)
+), or not being inflicted at all (
+15/48 (31.25%)
+).
+Added the 
+Pair of Eyeballs
+ and the 
+Twins Relic
+ as Master Mode drops.
+Desktop 1.3.5
+: Sprites updated.
+Old sprites for Retinazer were: 
+ 
+.
+Old sprites for Spazmatism were: 
+ 
+.
+Desktop 1.3.0.1
+: Added the 
+Mechanical Wheel Piece
+ as an Expert Mode drop.
+Desktop 1.2.3
+: 
+Increased Spazmatism's health to 23,000, decreased damage for both.
+The Twins now transform at 2/5th HP, instead of at half HP.
+Now only drop 15–30 
+Hallowed Bars
+ instead of 20–35.
+One of The Twins can no longer despawn as long as the other is still active.
+Desktop 1.2
+: 
+Now have a chance to spawn naturally at dusk with the message: "
+This is going to be a terrible night...
+".
+Will now drop 20–40 
+Souls of Sight
+ instead of 20–30.
+Health and damage for both reduced from 24,000 and 50 to 20,000 and 40, respectively.
+Desktop 1.1
+: Introduced.
+ Console version
+Console 1.0.933.1
+: Added the Mechanical Wheel Piece as an Expert Mode drop. (
+)
+Console 1.0.750.0
+: Added the Mechanical Wheel Piece as an Expert Mode drop. (
+)
+Console 1.06
+: 
+Increased Spazmatism's health to 23,000, decreased damage for both.
+The Twins now transform at 2/5th HP, instead of at half HP.
+Now only drop 15–30 Hallowed Bars instead of 20–35.
+One of The Twins can no longer despawn as long as the other is still active.
+Console 1.02
+: 
+Now have a chance to spawn naturally at dusk.
+Will now drop 20–40 Souls of Sight instead of 20–30.
+Health and damage for both reduced from 24,000 and 50 to 20,000 and 40, respectively.
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced with changes up to Desktop 1.3.0.1.
+ Mobile version
+Mobile 1.2.11212
+: 
+Increased Spazmatism's health to 23,000, decreased damage for both.
+The Twins now transform at 2/5th HP, instead of at half HP.
+Now only drop 15-30 Hallowed Bars instead of 20–35.
+One of The Twins can no longer despawn as long as the other is still active.
+Mobile 1.2.6508
+: 
+Now have a chance to spawn naturally at dusk.
+Will now drop 20–40 Souls of Sight instead of 20–30.
+Health and damage for both reduced from 24,000 and 50 to 20,000 and 40, respectively.
+Mobile 1.1.5536
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced with changes up to Desktop 1.2.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+DropLocalPerClientAndResetsNPCMoneyTo0
+ in 
+Terraria.GameContent.ItemDropRules.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+UpdateTime_StartNight()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+UpdateTime()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+4.0
+ 
+4.1
+ 
+4.2
+ 
+4.3
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+aiStyle == 31
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+5.0
+ 
+5.1
+ 
+5.2
+ 
+5.3
+ 
+5.4
+ 
+5.5
+ 
+5.6
+ 
+5.7
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+StatusPlayer()
+ in 
+Terraria.Projectile.cs
+. The relevant part is the 
+type == 96 || type == 101
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+6.0
+ 
+6.1
+ 
+6.2
+ 
+6.3
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+aiStyle == 30
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

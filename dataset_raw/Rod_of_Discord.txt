@@ -1,0 +1,1059 @@
+Source URL: https://terraria.wiki.gg/wiki/Rod_of_Discord
+Title: Rod_of_Discord
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Rod of Discord
+.
+Rod of Discord
+Statistics
+Type
+Tool
+Use time
+20 
+(Very fast)
+Tooltip
+Teleports you to the position of the cursor
+Causes the chaos state
+ (
+)
+Teleports you to the position of the cursor (
+)
+Rarity
+Sell
+10
+ Gold
+Research
+1 required
+Inflicts 
+Debuff
+Debuff
+Chaos State
+Debuff tooltip
+Using the Rod of Discord will take life
+Chance
+100%
+Duration
+6 seconds
+Sounds
+Use
+Internal 
+Item ID
+: 
+1326
+ 
+Internal 
+Buff ID
+: 
+88
+ Obtained from
+ Classic
+ Expert
+ Master
+Entity
+Qty.
+Rate
+Chaos Elemental
+ 
+Chaos Elemental
+1
+0.2%
+0.25%
+ 
+The Rod of Discord in use.
+"RoD" redirects here. For a list of rod-related items, see 
+Rod (disambiguation)
+. 
+The 
+Rod of Discord
+ is a 
+Hardmode
+ 
+tool
+ that has a 
+1/500 (0.2%)
+ / 
+1/400 (0.25%)
+ chance of being dropped by 
+Chaos Elementals
+. When used, it instantly teleports the player to the location of the cursor and inflicts the 
+Chaos State
+ 
+debuff
+ on the player for 6 seconds. Using the Rod of Discord while this debuff is active causes the player to lose health equal to 
+1/7 (14.29%)
+ of their maximum 
+health
+.
+It can be upgraded into the 
+Rod of Harmony
+ by throwing it into 
+Shimmer
+ after the 
+Moon Lord
+ has been defeated.
+Crafting
+[
+edit
+]
+Shimmer transmutation
+[
+edit
+]
+Shimmer
+(Desktop, Console and Mobile versions)
+Output
+Input
+Rod of Harmony
+(Desktop, Console and Mobile versions)
+(After 
+Moon Lord
+ is defeated)
+Rod of Discord
+Achievements
+[
+edit
+]
+ 
+Organized Chaos
+ • 
+“Find the ultra rare Rod of Discord.”
+Obtain a 
+Rod of Discord
+. 
+(Desktop, Console and Mobile versions)
+Category: 
+ Collector
+Notes
+[
+edit
+]
+In worlds with the 
+Celebration Mk 10
+ seed, the drop rate of the Rod of Discord is increased to 
+1/100 (1%)
+ regardless of 
+world difficulty
+.
+The Rod of Discord cannot be used to teleport into the 
+Jungle Temple
+ prior to defeating 
+Plantera
+.
+More precisely,
+[
+1
+]
+ the player will not be teleported pre-Plantera to any location that is below the 
+surface
+ and has an 
+unsafe
+ 
+Lihzahrd Brick Wall
+ as 
+background wall
+. In worlds with the 
+Remix
+ seed enabled, this restriction extends above the surface.
+The health loss inflicted by Chaos State cannot be reduced in any way or negated through 
+dodge
+ effects. It also bypasses and does not trigger 
+invincibility frames
+. It does not bypass invincibility from 
+Godmode
+, however.
+The Rod of Discord's teleport range is limited to 60 tiles horizontally and 37.5 tiles vertically from the player's center
+[
+2
+]
+.
+The target location must be at least 3 tiles high and 2 tiles wide. Pressing the 
+⚒
+ Use / Attack
+ button will always place the player's feet at the cursor position. Thus, in order to teleport into a 3-tile-high opening, the player must aim at the floor. Unsuccessful teleports play the same sound, but do not inflict the debuff.
+While riding a 
+mount
+, the target location must usually be higher, depending on the mount's height. For instance, while riding the 
+Unicorn Mount
+, the location must be 5 tiles high.
+Teleporting resets 
+fall damage
+ to begin at the height at which the player teleported to.
+Using the Rod of Discord when moving maintains the player's momentum.
+Using it does not cancel 
+Shroomite armor
+'s stealth.
+If the player only taps the 
+⚒
+ Use / Attack
+ button with the Rod of Discord on the 
+ Mobile version
+, they will be teleported slightly to the right (and above if blocks or furniture are obstructing the path). Using the thumbpad can yield mixed results if the aim mode is set to "Aim & Use" rather than "Aim Only".
+The Rod of Discord cannot be used to teleport past 
+Unbreakable Walls
+ (generated naturally in 
+Dual Dungeons
+ worlds).
+[
+3
+]
+Tips
+[
+edit
+]
+The Rod of Discord is arguably the most powerful movement tool in the game; besides being an obvious boon to traversing terrain, it allows the player to dodge high-damage or difficult to avoid attacks, including the 
+Moon Lord
+'s Phantasmal Deathray, contact damage from the 
+Dungeon Guardian
+, and several of the 
+Empress of Light
+'s attacks. It is also very useful in helping to catch 
+Truffle Worms
+.
+While it is one of the rarest items in the game, it can be obtained immediately after the start of 
+Hardmode
+.
+Since this item is one of the few ways to deal self-damage on command, it can be used with the 
+Shrimpy Truffle
+ or the 
+Panic Necklace
+ to activate the speed boost. Furthermore, it allows easy obtainment of 
+The Frequent Flyer
+ 
+achievement
+.
+Trivia
+[
+edit
+]
+Dying from teleporting during the Chaos State will display unique 
+death messages
+:
+"
+<Player name> didn't materialize
+"
+"
+<Player name>'s legs appeared where their head should be.
+"
+The abbreviation of the Rod of Discord, 
+RoD
+, is the same as the first word, 
+rod
+.
+In earlier mobile versions, using the Rod of Discord would instantly kill its user, and the death message would read "Structures".
+Despite not being a weapon, the Rod of Discord can be placed on a 
+Weapon Rack
+.
+The Rod of Discord emits pink light when dropped. It is also fully bright in the dark when used or placed inside a 
+Weapon Rack
+, an 
+Item Frame
+, or an 
+Item Flask
+.
+Successfully using the Rod of Discord leaves behind pink glowing particles at the location of the player, as well as produces those particles at the teleport location. It also coats the player with glowing particles which gradually lose their glow as they disappear.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.4
+: 
+Sprite updated. Old sprite was 
+Now used to craft the 
+Rod of Harmony
+ via 
+Shimmer
+.
+Desktop 1.4.1
+: Teleport range is now limited to 960 pixels (60 tiles) horizontally and 600 pixels (37.5 tiles) vertically from the player's center.
+Desktop 1.4.0.1
+: 
+Now has an increased drop rate of 
+1/400 (0.25%)
+ in Expert Mode.
+Now leaves a trail when teleporting.
+Desktop 1.3.0.4
+: Teleporting now quickly shifts the viewpoint instead of instantly setting it to the destination point.
+Desktop 1.3.0.1
+: Chaos State damage reduced from one sixth to one seventh of user's total health, and duration decreased from 8 to 6 seconds.
+Desktop 1.2.4.1
+: Can now be placed in the 
+Weapon Rack
+.
+Desktop 1.2.3
+: 
+Chaos State damage reduced from one fifth to one sixth of user's total health, and duration decreased from 10 to 8 seconds.
+Now works properly in 
+reverse gravity
+.
+Using a Rod of Discord releases all 
+hooks
+.
+Desktop 1.2.1.2
+: 
+Inflicts 
+Chaos State
+ upon use to deter teleport spamming.
+Can no longer be used to enter a Jungle Temple (unless the Lihzahrd Walls at target location are removed).
+Using Rod of Discord near the edge of world will no longer cause the game to crash.
+Desktop 1.2.0.3
+: The Rod of Discord now properly drops.
+Desktop 1.2
+: Introduced.
+ Console version
+Console 1.02
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.2.6508
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+ItemCheck_UseTeleportRod()
+ in 
+Terraria.Player.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+The player's center is determined by the center of their hitbox, which is 42 pixels high and 20 pixels wide. If we consider the player takes up a 2-tile-wide×3-tile-high area, the player's center will be located at the middle tile in the left column of the 2×3 area when the player is standing exactly at the center of 2 tiles.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.3
+ source code, method 
+ItemCheck_UseTeleportRod()
+ in 
+Terraria.Player.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Tools:
+Usual Tools
+Grappling Hooks
+Summoning Tools
+Other Tools
+Usual Tools
+Digging Tools
+Pickaxes
+Copper
+Tin
+Cactus
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Candy Cane
+Platinum
+Fossil
+Reaver Shark
+Bone
+Nightmare
+Deathbringer
+Molten
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Spectre
+Luminite
+Drills
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Laser Drill
+Luminite
+Other
+Gravedigger's Shovel
+Cutting Tools
+Axes
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+War Axe of the Night
+Blood Lust Cluster
+Axe of Regrowth
+Lucy the Axe
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Chainsaws
+Sawtooth Shark
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Butcher's
+Other
+Axearang
+Hammers
+Wooden
+Boreal
+Palm
+Rich Mahogany
+Ebonwood
+Shadewood
+Ash Wood
+Pearlwood
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+The Breaker
+Flesh Grinder
+Rockfish
+Pwnhammer
+Hammush
+Chlorophyte
+Warhammer
+Jackhammer
+Multi-use Tools
+Pickaxe and Axe
+Pickaxe Axe
+Drax
+Shroomite Digging Claw
+Picksaw
+Hammer and Axe
+Meteor
+Molten
+Haemorrhaxe
+Spectre
+Luminite
+The Axe
+Grappling Hooks
+Single Hooks
+Grappling
+Squirrel
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Candy Cane
+Bat
+Dissonance
+Multi Hooks
+Web Slinger
+Slime
+Skeletron Hand
+Fish
+Ivy Whip
+Dual
+Thorn
+Illuminant
+Worm
+Tendon
+Anti-Gravity
+Spooky
+Christmas
+Lunar
+Static
+Summoning Tools
+Pets
+Amber Mosquito
+Baby Grinch's Mischief Whistle
+Ball O' Fuse Wire
+Bamboo Leaf
+Bedazzled Nectar
+Beguiling Lyre
+Bernie's Button
+Betsy's Egg
+Birdie Rattle
+Blue Chicken Egg
+Bone Key
+Bone Rattle
+Brain in a Jar
+Carrot
+ 
+(Desktop and Mobile versions)
+Celestial Wand
+Companion Cube
+Cosmic Skateboard
+Cursed Sapling
+Deactivated Probe
+Deerclops Eyeball
+Digtoise
+Dog Whistle
+Dragon Egg
+Eater's Bone
+Eucalyptus Sap
+Exotic Chew Toy
+Eye Bone
+Eye Spring
+Faecorn
+Fish
+Friendly Boulder
+Friendly Rainbow Boulder
+Frozen Crown
+Full Moon Squeaky Toy
+Gato Egg
+Glommer's Flower
+Glow Tulip
+Lightning Carrot
+Lizard Egg
+Magical Pumpkin Seed
+Monster Meat
+Mud Bud
+Nectar
+Ogre's Club
+Ornate Shadow Key
+Pair of Eyeballs
+Parrot Cracker
+Piece of Moon Squid
+Plantera Seedling
+Pork of the Sea
+Possessed Skull
+Puffer Shrimp
+Regal Delicacy
+Resplendent Dessert
+Robotic Skull
+Royal Delight
+Seaweed
+Seedling
+Shark Bait
+Shrub Star
+Slice of Hell Cake
+Sparkling Honey
+Spider Egg
+Spiffo Plush
+Stardrop
+Strange Glowing Mushroom
+Suspicious Grinning Eye
+Swarm Grenade
+Tablet Fragment
+The Dirtiest Block
+Tiki Totem
+Toy Sled
+Unlucky Yarn
+Writhing Remains
+Zephyr Fish
+Mounts
+Amulet of the Night
+Ancient Horn
+Black Studded Saddle
+Blessed Apple
+Brain Scrambler
+Chillet
+Cosmic Car Key
+Cursed Piper Flute
+Dark Mage's Tome
+Drill Containment Unit
+Dusty Rawhide Saddle
+Enchanted Pixie Dust
+Fuzzy Carrot
+Gelatinous Pillion
+Goat Skull
+Golf Cart Keys
+Hardy Saddle
+Hexxed Branch
+Honeyed Goggles
+Lilith's Necklace
+Mollusk Whistle
+Pogo Stick
+Reindeer Bells
+Roller Skates
+Royal Gilded Saddle
+Scaly Truffle
+Shrimpy Truffle
+Slasher's Mysterious Skull
+Slimy Saddle
+Superheated Blood
+The Black Spot
+Toy Tank
+Witch's Broom
+Minecarts
+Wooden
+Minecart
+Mechanical
+Desert
+Minecarp
+Bee
+Ladybug
+Pigron
+Sunflower
+Demonic Hellcart
+Shroom
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Amber
+Beetle
+Meowmere
+Party Wagon
+The Dutchman
+Steampunk
+Coffin
+Digging Molecart
+Fart Kart
+Terra Fart Kart
+Light Pets
+Shadow Orb
+Crimson Heart
+Magic Lantern
+Fairy Bell
+Creeper Egg
+Guardian Golem
+Jewel of Light
+Pumpkin Scented Candle
+Wisp in a Bottle
+Suspicious Looking Tentacle
+Portable storage
+Money Trough
+Void Bag
+Other Tools
+Exploration
+Binoculars
+Breathing Reed
+Magic Mirror
+Ice Mirror
+Cell Phone
+Shellphone
+Trident
+Portal Gun
+Rod of Discord
+Rod of Harmony
+Umbrella
+Tragic Umbrella
+Magic Conch
+Demon Conch
+Terrain affecting
+Block-placing wands
+Dirt Rod
+Sandcastle Bucket
+Staff of Regrowth
+Axe of Regrowth
+Clentaminator
+Terraformer
+Lawn Mower
+Rubblemaker
+Mitey-Titey
+Portable Kiln
+Wiring
+Wrench
+Blue
+Green
+Yellow
+Multicolor
+Wire Cutter
+The Grand Design
+Actuation Rod
+Painting
+(Desktop, Console, Old-gen console and Mobile versions)
+Paintbrush
+Spectre
+Paint Roller
+Spectre
+Paint Scraper
+Spectre
+Other
+Bucket
+Bottomless Buckets
+Sponges
+Dirt Bomb
+Sticky
+Dry Bomb
+Honey
+Lava
+Wet
+Freeze Bomb
+Bug Net
+Lavaproof
+Golden
+Sickle
+Fishing poles
+Golf Clubs
+Golf Whistle
+Snake Charmer's Flute
+Water Gun
+Slime Gun
+Shimmer Gun
+Scrying Orb
+Encumbering Stone
+Inactive
+Lucky Clover
+Wilted Clover
+Raven Feather
+Guide to Critter Companionship
+Inactive
+Guide to Environmental Preservation
+Inactive
+Guide to Peaceful Coexistence
+Inactive
+Guide to Old World Parkour
+Inactive
+View or edit this template
+Status Effects:
+Buffs
+Debuffs
+Buffs
+Regeneration
+Cozy Fire
+Heart Lamp
+Hearty Meal
+Honey
+Life Drain
+Life Nebula
+Mana Nebula
+Mana Regeneration
+Mana Surge
+Rapid Healing
+Regeneration
+Star in a Bottle
+Attack
+A Nice Buff
+Ammo Box
+Ammo Reservation
+Archery
+Ballista Panic!
+Banner
+Battle
+Beetle Might
+Bewitched
+Clairvoyance
+Damage Nebula
+Durendal's Blessing
+Harvest Time
+Jungle's Fury
+Leaf Crystal
+Magic Power
+Rage
+Sharpened
+Solar Blaze
+Strategist
+Striking Moment
+Summoning
+Thorns
+Titan
+Wrath
+Werewolf
+Defense
+Beetle Endurance
+Calm
+Endurance
+Happy!
+Heartreach
+Holy Protection
+Ice Barrier
+Inferno
+Invisibility
+Ironskin
+Lifeforce
+Paladin's Shield
+Peace Candle
+Stardust Guardian
+The Bast Defense
+Titanium Barrier
+Warmth
+Exploration
+ and Movement
+Dangersense
+Featherfall
+Flipper
+Gills
+Gravitation
+Hunter
+Merfolk
+Night Owl
+Obsidian Skin
+Panic!
+Shine
+Spelunker
+Swiftness
+Water Walking
+Flasks
+Confetti
+Cursed Flames
+Fire
+Gold
+Ichor
+Nanites
+Poison
+Venom
+Other
+Well Fed
+Plenty Satisfied
+Exquisitely Stuffed
+Alchemic Enhancement
+Builder
+Crate
+Dryad's Blessing
+Fishing
+Lucky
+Mining
+Sonar
+Sugar Rush
+Torch Blessing
+Summoning
+Pets
+Alien Skater
+Baby Dinosaur
+Baby Eater
+Baby Grinch
+Baby Hornet
+Baby Imp
+Baby Ogre
+Baby Penguin
+Baby Red Panda
+Baby Skeletron Head
+Baby Snowman
+Baby Truffle
+Baby Werewolf
+Bernie
+Black Cat
+Caveling Gardener
+Cenaxe
+Chester
+Companion Cube
+Cursed Sapling
+The Dirtiest Block
+Destroyer-Lite
+Dynamite Kitten
+Eater of Worms
+Estee
+Everscream Sapling
+Eyeball Spring
+Faun
+Fennec Fox
+Friendly Boulder
+Friendly Rainbow Boulder
+Glittery Butterfly
+Glommer
+Hoardagron
+Honey Bee
+Ice Queen
+Itsy Betsy
+Junimo
+Lil' Harpy
+Mini Prime
+Moonling
+Pet Bunny
+Pet Lizard
+Pet Parrot
+Pet Sapling
+Pet Spider
+Pet Turtle
+Phantasmal Dragon
+Pig
+Plantera Seedling
+Plantero
+Propeller Gato
+Pufferfish
+Puppy
+Rez and Spaz
+Shadow Mimic
+Shark Pup
+Skeletron Jr.
+Slime Prince
+Slime Princess
+Slime Royals
+Spider Brain
+Spiffo
+Squashling
+Suspicious Eye
+Swarm Biter
+Tiki Spirit
+Tiny Deerclops
+Tiny Fishron
+Volt Bunny
+Zephyr Fish
+Light Pets
+Crimson Heart
+Fairy
+Fairy Princess
+Flickerwick
+Jack 'O Lantern
+Magic Lantern
+Shadow Orb
+Suspicious Looking Eye
+Toy Golem
+Wisp
+Mounts
+Basilisk
+Bee
+Blessing of the Moon
+Book
+Bunny
+Chillet
+Cute Fishron
+Curse of the Bat
+Dark Horse
+Drill
+Flamingo
+Form of the Fae
+Goat
+Golf Cart
+Instinct of the Raptor
+Lava Shark
+Majestic Horse
+Minecart
+Nature of the Rat
+Painted Horse
+Pigron
+Pirate Ship
+Pogo Stick
+Roller Skates
+Rudolph
+Tree
+Santank
+Scutlix
+Slime
+Turtle
+UFO
+Unicorn
+Winged Slime
+Witch's Broom
+Minions
+Baby Finch
+Baby Slime
+Cattiva
+Clay Bud
+Deadly Sphere
+Desert Tiger
+Enchanted Daggers
+Flinx
+Forbidden Ruin
+Foxparks
+Hornet
+Imp
+Mushroom Boi!
+Pirate
+Pygmies
+Ravens
+Sanguine Bat
+Sharknado
+Spider
+Stardust Cell
+Stardust Dragon
+Terraprisma
+Twins
+UFO
+Vampire Frog
+Debuffs
+Damaging
+Acid Venom
+Blood Butchered
+Burning
+Cursed Inferno
+Daybroken
+Dryad's Bane
+Electrified
+Frostbite
+Frostburn
+Hellfire
+Hemorrhage
+On Fire!
+Penetrated
+Poisoned
+Potent Acid
+Shadowflame
+Spored
+Suffocation
+Combat
+Accelerated Afflictions
+Betsy's Curse
+Bleeding
+Broken Armor
+Cerebral Mindtrick
+Feral Bite
+Ichor
+Mana Sickness
+Moon Bite
+Oiled
+Shadow Candle
+Slime
+Tipsy
+Water Candle
+Weak
+Wet
+Withered Armor
+Withered Weapon
+Movement
+Chilled
+Confused
+Distorted
+Frozen
+Horrified
+Mighty Wind
+Oozed
+Shimmering
+Slow
+Stoned
+The Tongue
+Webbed
+Abilities
+Blackout
+Chaos State
+Creative Shock
+Cursed
+Darkness
+Obstructed
+Potion Sickness
+Silenced
+Utility
+Lovestruck
+Midas
+Stinky
+Visual
+Sparkle Slime
+Zapped
+Unobtainable
+Dazed

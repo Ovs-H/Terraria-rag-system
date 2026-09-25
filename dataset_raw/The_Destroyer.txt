@@ -1,0 +1,1325 @@
+Source URL: https://terraria.wiki.gg/wiki/The_Destroyer
+Title: The_Destroyer
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:The Destroyer
+.
+The Destroyer
+Hardmode exclusive
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Burrowing Enemy
+Environment
+ Surface 
+ + 
+ Night 
+ Space 
+ + 
+ Night 
+AI Type
+The Destroyer AI
+Max Life
+80000
+/
+120000
+/
+153000
+KB
+ Resist
+100%
+Immune to
+All 
+debuffs
+ except 
+whip debuffs
+Drops
+Coins
+12
+ Gold
+(Dropped by Treasure Bag
+[
+1
+]
+)
+Item 
+(Quantity)
+Rate
+Soul of Might
+ 
+(25–40)
+100%
+Hallowed Bar
+ 
+(15–30)
+100%
+Greater Healing Potion
+ 
+(5–15)
+100%
+Destroyer Mask
+14.29%
+Destroyer Trophy
+10%
+Treasure Bag
+(The Destroyer)
+100%
+Mechanical Wagon Piece
+100%
+Destroyer Mask
+14.29%
+Soul of Might
+ 
+(25–40)
+100%
+Hallowed Bar
+ 
+(20–35)
+100%
+Coins
+ (
+30
+ Gold
+)
+100%
+Deactivated Probe
+25%
+Destroyer Relic
+100%
+Projectile created
+Projectile created
+Projectile created
+Death Laser
+Sounds
+Hurt
+Killed
+Spawn
+Death Laser
+Internal 
+Projectile ID
+: 
+100
+ 
+“
+You feel vibrations from deep below...
+”
+ 
+"Destroyer" redirects here. For other uses, see 
+Destroyer (disambiguation)
+.
+The Destroyer
+ is a 
+Hardmode
+ 
+mechanical boss
+ that is essentially a more difficult version of the 
+Eater of Worlds
+. Its segments share a single health pool, meaning individual segments cannot die. Each of The Destroyer's segments fires lasers at the player, and as they take damage, they launch 
+Probes
+, independent 
+flying enemies
+ that fire lasers and can be killed individually.
+While The Destroyer is alive, its exclusive music 
+The Destroyer
+ will play. When 
+Otherworldly music
+ is enabled, the track 
+Boss 2 (Otherworldly)
+ will play instead.
+Summoning and spawning
+[
+edit
+]
+Manual
+[
+edit
+]
+The Destroyer can be summoned manually using a 
+Mechanical Worm
+ at 
+night
+ (from 7:30 PM to 4:30 AM).
+Random
+[
+edit
+]
+The Destroyer can also spawn naturally at the start of the night, as long as it has not yet been defeated at least once in the current world. Its arrival when spawning naturally is announced by the 
+status message
+ 
+"
+You feel vibrations from deep below...
+"
+.
+In order for the boss to spawn naturally, the following conditions must be fulfilled at dusk (7:30 PM):
+[
+2
+]
+The world is in 
+Hardmode
+ and at least one 
+Demon or Crimson Altar
+ has been destroyed.
+In worlds where the 
+Skyblock
+ 
+special world seed
+ is active and the 
+tile threshold
+ is not exceeded, The Destroyer can spawn even if no altars have been destroyed.
+No boss is already alive, and the 
+Eye of Cthulhu
+ is not already spawning naturally.
+None of the following 
+events
+ are active: 
+Lantern Night
+, 
+Old One's Army
+, 
+Pumpkin Moon
+, or 
+Frost Moon
+.
+Time is not being accelerated by the 
+Enchanted Sundial
+ or 
+Enchanted Moondial
+.
+If the conditions are met, there is a 
+1/10 (10%)
+ chance for a random mechanical boss to spawn that has not yet been defeated in the world. This gives The Destroyer initially a spawn chance of 
+1/30 (3.33%)
+ per night. If another mechanical boss is defeated first, the chance for The Destroyer to spawn increases to 
+1/20 (5%)
+, and should both of the other mechanical bosses be defeated first, then The Destroyer has the full remaining 
+1/10 (10%)
+ spawn chance per night.
+Once The Destroyer has been selected to spawn, the status message appears and a hidden countdown of 1 minute 21 seconds begins. The Destroyer spawns at the end of the countdown, at 8:51 PM. Another check is performed at that time, with all of the following conditions needing to be fulfilled in order for the boss to spawn:
+[
+3
+]
+At least one player is in the 
+surface
+ or 
+Space
+ layer.
+Consequently, the natural spawning of The Destroyer can easily be prevented by being in a layer lower than the surface at 8:51 PM. Returning to the surface afterward will not cause The Destroyer to spawn either (unlike with the Eye of Cthulhu).
+This restriction is lifted in worlds where the 
+world spawn point
+ is below the surface, such as worlds with the 
+special world seed
+ 
+Remix
+ active or the 
+secret world seed
+ 
+Mole people
+. The Destroyer can spawn naturally in those worlds regardless of the player's position, whether they are above or below the surface.
+No boss is already alive.
+The 
+Lunar Events
+ are not active and the countdown for the spawning of the 
+Moon Lord
+ has not begun, either due to manual summoning or defeating the fourth 
+Celestial Pillar
+.
+Time is not being accelerated by the Enchanted Sundial or Enchanted Moondial.
+In singleplayer, exiting the world during the countdown also prevents The Destroyer from spawning naturally.
+In worlds where the 
+special seeds
+ 
+For the Worthy
+ and 
+The Constant
+ are present but 
+Celebration Mk 10
+ is not, The Destroyer will still be able to randomly spawn, even if it has been defeated before.
+For the Worthy and Remix
+[
+edit
+]
+The Destroyer cannot be summoned in worlds where both the 
+For the Worthy
+ and Remix special world seeds are active, since the boss is part of 
+Mechdusa
+ instead.
+Segments
+[
+edit
+]
+See also: 
+Probe
+ Classic
+ Expert
+ Master
+2 values: Pre-Hardmode › Hardmode
+3 values: Pre-Hardmode › Hardmode › Post-Plantera
+NPC ID
+Type
+Damage
+Defense
+134
+The Destroyer Head
+70
+/
+280
+/
+420
+0
+135
+The Destroyer Body
+55
+/
+94
+/
+140
+ 
+(contact)
+44
+72
+108
+ 
+(
+Death Laser
+ 
+[
+4
+]
+)
+30
+136
+The Destroyer Tail
+40
+/
+68
+/
+102
+35
+Behavior
+[
+edit
+]
+The Destroyer spawns coiled up, like most worm enemies, and immediately starts uncoiling and following the player. It has limited mobility when fully in the air, requiring 
+blocks
+ or 
+platforms
+ to "burrow" through. However, it is able to move freely while off-screen. It follows the player from any distance and will only despawn if the player dies or if dawn comes (4:30 AM). It despawns by quickly traveling underground until off-screen.
+The Destroyer performs the following attacks:
+It leaps from the ground and attempts to ram the player.
+It attempts to surround the player with its segments.
+It fires red Death Lasers from its segments which deal 44 / 
+72
+ / 
+108
+ damage.
+[
+4
+]
+It releases flying 
+Probes
+ from its body that fire Pink Lasers which deal 50 / 
+88
+ / 
+132
+ damage.
+[
+5
+]
+Each body segment has a 
+1/25 (4%)
+ chance to release a Probe whenever it is damaged. This only happens once per segment and is signified by the red light on the segment turning off.
+[
+6
+]
+ Probes will fly towards the player, attempting to maintain a distance while occasionally moving into melee range. They fire lasers with moderate accuracy.
+Probes never return to the main body, and will not despawn as long as The Destroyer is alive, even if the player goes too far away.
+[
+7
+]
+Killing the boss itself does not destroy the remaining Probes, and they will still continue to attack the player afterwards.
+Since each body segment can only spawn one Probe, The Destroyer will eventually run out of Probes to spawn.
+[
+4
+]
+Dim segments still fire lasers like normal.
+[
+4
+]
+Notes
+[
+edit
+]
+In 
+Expert Mode
+, The Destroyer and its Probes will only take 75% damage from the 
+Golden Shower
+.
+[
+8
+]
+Achievements
+[
+edit
+]
+ 
+Buckets of Bolts
+ • 
+“Defeat the three nocturnal mechanical menaces: the Twins, the Destroyer, and Skeletron Prime.”
+Defeat all three 
+mechanical bosses
+.
+Category: 
+ Slayer
+ 
+Mecha Mayhem
+ • 
+“Do battle against the Twins, the Destroyer, and Skeletron Prime simultaneously and emerge victorious.”
+Summon all three 
+mechanical bosses
+ simultaneously and defeat all of them.
+Category: 
+ Challenger
+ 
+Slayer of Worlds
+ • 
+“Defeat every boss in Terraria.”
+Defeat every 
+boss
+ in the game.
+Category: 
+ Challenger
+Tips
+[
+edit
+]
+For more elaborate strategies on defeating The Destroyer, including 
+weapon
+ and 
+arena
+ recommendations, see 
+Guide:The Destroyer strategies
+.
+Since The Destroyer follows the player instead of despawning, one can use any means of teleportation (
+Magic Mirrors
+, 
+Teleporters
+, etc.) to easily avoid it during the fight.
+Keep in mind that The Destroyer can move freely without blocks while it is off-screen.
+As with the Eater of Worlds, weapons that can hit several enemies are highly effective against The Destroyer.
+For extra risk and reward, line up with the head (which has no defense) and fire down the length of its body.
+As The Destroyer is immune to 
+debuffs
+, the player should avoid using 
+flasks
+ and weapons heavily dependent on debuffs.
+Using a 
+Gravitation Potion
+ can help avoid contact with The Destroyer by hovering just above it.
+Probes
+ should be taken out as soon as possible, since they interfere with the fight and additionally serve as a steady source of 
+Hearts
+.
+Using the 
+minimap
+ to see where The Destroyer will surface can greatly help with dodging.
+Trivia
+[
+edit
+]
+With 
+280
+ / 
+420
+ damage, The Destroyer's head has the third-highest damage of any boss in 
+Expert
+ and 
+Master Mode
+. It is second only to the 
+Moon Lord
+'s Phantasmal Deathray and the enraged 
+Empress of Light
+.
+The Destroyer is extremely long, measuring 82 segments including head and tail, or 239 tiles in length.
+[
+9
+]
+Because the 
+Compass
+ and 
+Depth Meter
+ reveal each tile to be 2 feet in length, The Destroyer would be about 159.33 yards (174.25 m) long.
+In 
+For the Worthy
+ worlds, The Destroyer has 100 body segments (102 in total), and each segment is bigger.
+The Destroyer has the highest total health of any 
+boss
+ except the Moon Lord. It still has the largest single health bar, as the Moon Lord's total health is the combination of all its body parts.
+The Destroyer has many small metal devices jutting out of it that resemble 
+centipede
+-like legs or wheels.
+Some teasers for the 
+ Mobile version
+ release included The Destroyer having blue-lit segments instead of red.
+Verify
+It is theoretically possible to defeat The Destroyer without having it spawn any Probes.
+Verify
+ – According to the 
+Terraria
+ lore pages
+, The Destroyer was one of the three mechanical recreations of Cthulhu's missing organs. In the 
+Bestiary
+, it is revealed to be a simulacrum of Cthulhu's spine. Despite being heavily influenced from in design, the 
+Eater of Worlds
+ has no connection to Cthulhu and is not mentioned to be a former body part in its Bestiary entry.
+[
+10
+]
+ The 
+Bestiary
+ entry for  The Destroyer: 
+"
+A mechanical simulacrum of Cthulhu's spine decorated in laser-armed probes, which detach from its body when damaged.
+"
+History
+[
+edit
+]
+For changes which affect all the mechanical bosses, see 
+mechanical bosses history
+. 
+ Desktop version
+Desktop 1.4.5.0
+: Changed music track from 
+Boss 3
+ to a new track exclusive to the boss fight, 
+The Destroyer
+.
+Desktop 1.4.0.1
+: Added Master Mode drops, the 
+Deactivated Probe
+ and the 
+Destroyer Relic
+.
+Desktop 1.3.0.1
+: 
+Sprite updated. Old sprite was 
+.
+Added Expert Mode drop, 
+Mechanical Wagon Piece
+.
+Can no longer be seen beneath blocks.
+Desktop 1.2.3
+: 
+Health returned to 80,000 (from 60,000). Damage and defense increased:
+Head damage increased from 50 to 70.
+Body damage increased from 35 to 55. Defense returned to 30 (from 26).
+Tail damage increased from 20 to 40. Defense returned to 35 (from 30).
+Now has a chance to drop the 
+Destroyer Mask
+.
+Drops now appear at the location of the segment that was closest to the player on defeat, instead of at the head's location.
+Desktop 1.2.1.2
+: Now immune to all 
+debuffs
+.
+Desktop 1.2
+: 
+Health reduced from 80,000 to 60,000. Damage and defense reduced:
+Head damage reduced from 60 to 50.
+Body damage reduced from 40 to 35. Defense reduced from 30 to 26.
+Tail defense reduced from 35 to 30.
+Now has a chance to spawn naturally at dusk with the message: "You feel vibrations from deep below...".
+Will now drop 25–40 
+Souls of Might
+ instead of 20–30.
+Now has a chance to drop the 
+Destroyer Trophy
+.
+Desktop 1.1
+: Introduced.
+ Console version
+Console 1.0.933.1
+: Made changes from Console 1.0.750.0. (
+)
+Console 1.0.750.0
+: (
+)
+Sprite updated to match Desktop 1.3.0.1.
+Added Expert mode drop, Mechanical Wagon Piece.
+Can no longer be seen beneath blocks.
+Console 1.06
+: 
+Health returned to 80,000 (from 60,000). Damage and defense increased:
+Head damage increased from 50 to 70.
+Body damage increased from 35 to 55. Defense returned to 30 (from 26).
+Tail damage increased from 20 to 40. Defense returned to 35 (from 30).
+Now has a chance to drop the Destroyer Mask.
+Drops now appear at the location of the segment that was closest to the player on defeat, instead of at the head's location.
+Console 1.02
+: 
+Health reduced from 80,000 to 60,000. Damage and defense reduced:
+Head damage reduced from 60 to 50.
+Body damage reduced from 40 to 35. Defense reduced from 30 to 26.
+Tail defense reduced from 35 to 30.
+Now has a chance to spawn naturally at dusk.
+Will now drop 25–40 Souls of Might instead of 20–30.
+Now has a chance to drop the Destroyer Trophy.
+Now immune to all debuffs.
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.732.3
+: Fixed a bug where Destroyer segments were desynced for non-host players after a respawn.
+Switch 1.0.711.6
+: Introduced with changes up to Desktop 1.3.0.1.
+ Mobile version
+Mobile 1.2.11212
+: 
+Now has a chance to drop the Destroyer Mask.
+Mobile 1.2.6508
+: 
+Now has a chance to spawn naturally at dusk during Hardmode.
+Will now drop 25–40 Souls of Might instead of 20–30.
+Now has a chance to drop the Destroyer Trophy.
+Now immune to all debuffs.
+Mobile 1.1.5536
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced with changes up to Desktop 1.2.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+DropLocalPerClientAndResetsNPCMoneyTo0
+ in 
+Terraria.GameContent.ItemDropRules.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+UpdateTime_StartNight()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+UpdateTime()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+4.0
+ 
+4.1
+ 
+4.2
+ 
+4.3
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.1.2
+ source code, method 
+AI_037_Destroyer()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+AI_005_EaterOfSouls()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, methods 
+HitEffect()
+ in 
+Terraria.NPC.cs
+ and 
+AI_037_Destroyer()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+DoesntDespawnToInactivity()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.3.6
+ source code, method 
+Damage()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+GetDestroyerSegmentsCount()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Redigit's messages
+ in #terraria-chat on the 
+official Terraria Discord server
+ (
+link to message
+) 
+Apr 10, 2019
+View or edit this template
+Worms
+Giant Worm
+Digger
+Devourer
+World Feeder
+Tomb Crawler
+Leech
+Bone Serpent
+Dune Splicer
+Wyvern
+Eater of Worlds
+The Destroyer
+Phantasm Dragon
+Blood Eel
+Milkyway Weaver
+Crawltipede
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

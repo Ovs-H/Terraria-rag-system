@@ -1,0 +1,3408 @@
+Source URL: https://terraria.wiki.gg/wiki/NPC_happiness
+Title: NPC_happiness
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:NPCs
+.
+NPCs
+Classic
+Shimmered
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statistics
+Type
+NPC
+Damage
+Varies
+Max Life
+250
+Defense
+Varies
+KB
+ Resist
+50%
+Immune to
+Sounds
+Purchase 
+& Sell items
+Open chat 
+menu
+For a complete list of NPC names, see 
+NPC names
+. 
+NPCs
+ are friendly automated 
+non-player characters
+ that provide services to players.
+[
+1
+]
+Standing near an NPC and pressing the 
+⚷
+ Open / Activate
+ button on them will open a dialogue window, with the portrait of the NPC and one or more options for the player to select. Some NPCs are 
+vendors
+, displaying a shop inventory when the “
+Shop
+” option is selected. They sell 
+items
+ to players in exchange for 
+coins
+, and can be sold items by a player to obtain coins. Some NPCs also have other options that perform other functions. The style of NPC portraits can be changed in 
+settings
+.
+Most NPCs appear on the 
+minimap
+ as icons of their heads. Hovering the cursor on an icon displays the NPC's name and type. For example, a 
+Guide
+ named Andrew is shown on the minimap as 
+ 
+Andrew
+ the 
+Guide
+.
+Most NPCs are 
+town NPCs
+ (also known as 
+villagers
+[
+2
+]
+ or 
+townsfolk
+[
+3
+]
+), appearing after various milestones are achieved through in-game advancement. They move into structures the player must provide, known as 
+houses
+, which are generally required for town NPCs to remain available and respawn if killed. Each NPC will need their own house.
+NPCs can reduce enemy spawn rates in the area, the effectiveness of which will increase as more NPCs are present, capped at 3 NPCs.
+[
+4
+]
+ However, this enemy spawn reduction effect will be weaker in 
+the Underworld
+, and is negated in some circumstances (see 
+effect of friendly town NPCs on spawn rates
+ for details). Players tend to use this effect by building large structures (e.g. 
+bases
+) with several integrated houses, to serve as their safe area.
+Town NPCs generally walk around during the 
+day
+. They remain still in their assigned houses at 
+night
+ and during certain events. NPCs have limited 
+health
+ and can take 
+damage
+, and ultimately 
+die
+ from 
+enemies
+, 
+traps
+, 
+lava
+, or by 
+drowning
+ in 
+water
+; however, they cannot be attacked directly by players (outside of special 
+Voodoo Doll
+ accessories, 
+Rotten Eggs
+, or the 
+Flymeal
+). They do not suffer from 
+fall damage
+ and their health regenerates over time 
+(see 
+Health regeneration
+ below for details)
+. Furthermore, the 
+Nurse
+ can throw red syringes that heal herself and other nearby NPCs for 20 health. Additionally:
+Town NPCs will attack nearby enemies, with each NPC having their own unique form of attack. They will not actively pursue combat, however, but rather attack in an act of self-defense.
+Town NPCs gain defense and damage boosts based on which 
+bosses
+ have been defeated in the current world.
+Occasionally, NPCs sit in 
+chairs
+ and randomly "talk" to other NPCs or the player, shown as mouth movement and speech bubbles known as 
+emotes
+, which change based on various conditions.
+If an NPC is killed, they will respawn after a delay, as long as a suitable vacant house is still available.
+There is a total of 26 town NPCs, 8 of whom normally appear in 
+Hardmode
+. An additional 3 NPCs can be encountered that do not move into houses.
+Spawning
+[
+edit
+]
+NPCs that can live in 
+houses
+ will spawn after their specific spawning conditions were met and there is an empty valid house. Other NPCs will spawn either randomly or regularly (see their respective page for details).
+After an NPC moves into a valid house, they will be permanently unlocked in the current world. If an unlocked NPC is killed, they will respawn as long as any empty valid house exists, without having to meet the spawning conditions again.
+Additionally:
+NPCs will not spawn during an active 
+event
+ (except the 
+Lunar Events
+) or at night (7:30 PM – 4:30 AM).
+An NPC takes about 2 minutes to spawn after another NPC has spawned or dawn (4:30 AM) passes.
+If valid housing is off-screen during spawning, the NPC will spawn directly into the 
+house
+.
+Rescuable NPCs
+[
+edit
+]
+Some NPCs and town pets have to be rescued before they can move into houses, with some of them being referred to as 
+Bound NPCs
+ due to their appearance. They will randomly spawn in their respective 
+biomes
+ and respawn if they despawned or be killed, just like how 
+enemies
+ and 
+critters
+ spawn.
+Normally, pressing the 
+⚷
+ Open / Activate
+ button on them will rescue and unlock them, but certain NPCs may have to be rescued in other ways. Once unlocked, they will be able to respawn after being killed (just like regular NPCs), without having to rescue them again.
+Rescueable NPCs
+NPC
+Way to rescue
+Angler
+Press 
+⚷
+ Open / Activate
+ on 
+Sleeping Angler
+Golfer
+Press 
+⚷
+ Open / Activate
+ on 
+Golfer Rescue
+Stylist
+Press 
+⚷
+ Open / Activate
+ on 
+Webbed Stylist
+Clumsy Slime
+Break the balloon of a 
+Clumsy Balloon Slime
+Mystic Slime
+Use 
+Purification Powder
+ on a 
+Mystic Frog
+Goblin Tinkerer
+Press 
+⚷
+ Open / Activate
+ on 
+Bound Goblin
+Tavernkeep
+Press 
+⚷
+ Open / Activate
+ on 
+Unconscious Man
+Mechanic
+Press 
+⚷
+ Open / Activate
+ on 
+Bound Mechanic
+Elder Slime
+Use a 
+Golden Key
+ to open an 
+Old Shaking Chest
+Wizard
+Press 
+⚷
+ Open / Activate
+ on 
+Bound Wizard
+Tax Collector
+Use 
+Purification Powder
+ on a 
+Tortured Soul
+Homeless NPCs
+[
+edit
+]
+When there is no empty valid house in the world, one homeless NPC may arrive per day (at 12:00 PM at the latest
+[
+5
+]
+) if 
+Solar Eclipse
+ and 
+invasion
+ events are not active.
+[
+6
+]
+The arrival of a homeless NPC is signaled by one of the following 
+status messages
+:
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, searching for a place to rest.
+”
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, looking for a home!
+”
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, wishing for a house!
+”
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, desiring shelter!
+”
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, hoping to settle down!
+”
+“
+<Name of NPC> the <Type of NPC>
+ has arrived, looking to settle nearby.
+”
+The homeless NPC will leave if they still do not have a house by nightfall (after 6:00 PM), displaying the status message 
+“
+<Name of NPC> the <Type of NPC>
+ has departed!
+”
+House
+[
+edit
+]
+Main article: 
+House
+A house is a room of a certain size enclosed by a frame of 
+blocks
+, with player-placed 
+background walls
+, and 
+valid furniture items
+. Two town NPCs cannot live in the same house at the same time (but 
+town pets
+ may share a house with non-town pet NPCs). Houses must not be located near 
+Corruption
+ or 
+Crimson
+, and if those biomes spread too close to an occupied house, the NPC living there may move out from that house.
+Town NPC home assignments can be rearranged using 
+NPC flags
+ from the 
+housing menu
+, where players can also check whether a room is a suitable house with the 
+housing query
+.
+If both a town NPC and their house are offscreen, they will teleport to their house during 
+night
+, 
+rain
+, 
+Solar Eclipses
+, or 
+Slime Rain
+. The 
+Old Man
+ will consider the 
+Dungeon
+ point (the spawn point of the Old Man, i.e. the left of the two tiles on which he stands during night) as his "house", and he will always teleport to this location if he is offscreen and standing on 
+Dungeon Bricks
+, regardless of time.
+[
+7
+]
+[
+8
+]
+If a house occupied by an NPC is damaged in a way that makes it invalid, the NPC will move out and walk around the area until a suitable house is restored. If there are vacant houses available in the world, the NPC may move into one of them. If the NPC gets killed and does not have a home, they will not move back in until a new house becomes available.
+Vendor NPCs
+[
+edit
+]
+Some NPCs are 
+Vendor NPCs
+ that have a “
+Shop
+” option in the dialogue window. Selecting the option will display the NPC's shop inventory similar to the player's own 
+inventory
+. Items can be bought by moving them from the shop inventory into the player's inventory; the cost in 
+coins
+ will be subtracted from the player's storage as soon as the item is picked up from the shop inventory. An item can only be bought if its coin cost is available in the player's inventory (or in the combined player's savings). Holding the 
+⚒
+ Use / Attack
+ or 
+⚷
+ Open / Activate
+ button on stackable items allows the player to buy the item in bulk, with the buying speed increases the longer the button is held; holding the 
+⇧ Left Shift
+ at the same time will buy the item in batches of 10.
+Some vendor NPCs sell 
+biome-specific items
+ when they are spoken to in certain 
+biomes
+. They can be transported there by housing them there and waiting for the night (they will be teleported to their house at night once off-screen) or by using a 
+King
+ or 
+Queen Statue
+. Note that the NPC does not need to live in the biome; talking to them while the player is in the biome is sufficient.
+All vendor NPCs can also be used to sell unwanted or surplus items to gain coins. The unwanted item(s) must be in the player's inventory. Hovering over the item while the NPC's inventory screen is open will display its sell value. Items are always sold to vendors at 1/5 of their purchase price, though items cannot be sold if the player has no space for the coins. Not all items have a sell value (very common items such as 
+Dirt
+ or 
+Wood
+ have no value). Placing the item in the NPC's shop inventory will sell it, granting the player the sell value into their inventory. Sales to (and purchases from) NPCs can be canceled while the NPC's inventory screen is still open: Sold items can be taken back in exchange for the amount they were sold for (and purchased items can be sold back in exchange for the amount they were purchased for).
+All vendor NPCs have the same base buying and selling price. Item prices can be decreased by equipping a 
+Discount Card
+, which is a rare drop from 
+Pirate Invasions
+. Prices can also be higher or lower based on the NPC's 
+happiness level
+.
+All vendor NPCs, with the exception of the 
+Tavernkeep
+, 
+Skeleton Merchant
+, and 
+Traveling Merchant
+, will sell 
+pylons
+ when another NPC is nearby.
+Notes
+[
+edit
+]
+The 
+Truffle
+ has special rules for houses he can move into, but his spawning only requires the world to be in 
+Hardmode
+, so he can spawn as homeless NPC as soon as Hardmode starts.
+Vendor NPCs who have biome requirements to sell certain items need to be spoken to with the player being in said biome to fulfill the requirement. It is not sufficient to have their home located in the specific biome.
+Due to how damage calculations are performed, hostile 
+projectiles
+ deal reduced damage to NPCs.
+The 
+Oasis
+ mini-biome counts as a 
+Desert
+ in terms of an NPC's preferred biome.
+Similarly, a 
+Graveyard
+ counts as the host biome, and (dialogue aside) being in a Graveyard does not affect NPC happiness.
+NPCs can 
+drown
+ in 
+water
+ that is 2 tiles deep, whereas players require 3 tiles of water depth in order to drown.
+NPCs will not move and always face the player as long as their dialogue window is open.
+Town NPCs
+[
+edit
+]
+The NPCs are listed in the order in which they are generally likely to be acquired. See 
+living preferences
+ below for biome and neighbor preferences. The term "other town NPCs" always includes the 
+Old Man
+, 
+Traveling Merchant
+, and 
+town pets
+, but not the 
+Skeleton Merchant
+.
+Pre-Hardmode
+[
+edit
+]
+Portrait
+NPC
+Description
+Spawn requirement
+Defending weapon
+Drops upon death
+Guide
+Provides tips and a general guide on how to acquire other NPCs. Provides crafting recipes that include an item that is shown to him.
+Always already present when starting a new regular world.
+One of the starting NPCs in 
+Celebration Mk 10
+ worlds, initially named "Andrew".
+Wooden Bow
+(with 
+Wooden Arrows
+ /
+HM
+:
+ 
+Flaming Arrows
+)
+Green Cap
+100%; only when named Andrew
+Merchant
+Sells basic tools and supplies.
+All players combined have more than 
+50
+ Silver
+ in their 
+inventories
+.
+Replaces the Guide as the starting NPC when starting a new 
+Not the Bees
+ world.
+Throwing Knife
+n/a
+Nurse
+Heals players and cancels 
+debuffs
+ in exchange for 
+coins
+.
+A player has more than 100 
+health
+ and the Merchant is present.
+Syringes
+(Ranged attack; inflicts 
+Poisoned
+ to enemies; can also target and heal NPCs)
+n/a
+Demolitionist
+Sells 
+explosives
+.
+A player has an explosive in their inventory and the Merchant is present.
+Replaces the Guide as the starting NPC when starting a new 
+For the Worthy
+ world.
+Grenade
+n/a
+Dye Trader
+Sells the 
+Dye Vat
+ 
+crafting station
+. Provides rare dyes in exchange for 
+Strange Plants
+.
+A player has a 
+dye
+ item or any item used to craft dye in their inventory, in addition to certain other conditions.
+Exotic Scimitar
+Exotic Scimitar
+1/8 (12.5%)
+Angler
+Gives 
+fishing
+ quests and rewards players for completing them.
+Found and spoken to in an 
+Ocean
+ biome (or an underground 
+Forest
+ when the 
+Remix
+ seed is active).
+Frost Daggerfish
+n/a
+Zoologist
+Sells 
+vanity items
+, 
+mounts
+, 
+pets
+, and 
+critter
+-themed items based on the 
+Bestiary
+'s completion percentage.
+At least 10% of the 
+Bestiary
+ (55 entries) has been filled.
+Claws
+(Melee attack)
+n/a
+Dryad
+Sells nature/
+Corruption
+/
+Crimson
+ items, and can report the percentage of Corruption/Crimson and 
+Hallow
+ in the world.
+The 
+Eye of Cthulhu
+, 
+Eater of Worlds
+/
+Brain of Cthulhu
+, or 
+Skeletron
+ has been defeated.
+Replaces the Guide as the starting NPC when starting a new 
+Purify this
+ world.
+Dryad's Blessing
+(Area of effect; gives 
+Dryad's Blessing
+ to players and 
+Dryad's Bane
+ to enemies)
+n/a
+Painter
+Sells 
+paint
+, painting tools, and 
+paintings
+.
+8 other town NPCs are in the world.
+Paintball Gun
+Paintball Gun
+1/10 (10%)
+Jim's Cap
+100%; only when named Jim
+Golfer
+Sells 
+Golf Clubs
+, 
+Balls
+, and other 
+golfing
+ items.
+Found and spoken to in the 
+Underground Desert
+.
+Golf Balls
+(Ranged attack)
+n/a
+Arms Dealer
+Sells 
+guns
+, 
+bullets
+, and other 
+ammunition
+.
+A player has bullets or a gun that shoots bullets in their inventory.
+Flintlock Pistol
+ /
+HM
+:
+ 
+Minishark
+n/a
+Tavernkeep
+Sells items that summon and help with fighting the 
+Old One's Army
+, most of them only in exchange for 
+Defender Medals
+.
+Found and spoken to after the 
+Eater of Worlds
+ or 
+Brain of Cthulhu
+ has been defeated.
+Ale Tosser
+Ale Tosser
+1/8 (12.5%)
+Stylist
+Can change the player's 
+hairstyle
+ and hair color, and sells 
+Hair Dyes
+.
+Found and spoken to in a 
+Spider Nest
+.
+Stylish Scissors
+Stylish Scissors
+1/8 (12.5%)
+Goblin Tinkerer
+Sells items such as the 
+Tinkerer's Workshop
+, and can 
+reforge
+ items.
+Found and spoken to in the 
+Cavern
+ layer, after a 
+Goblin Army
+ has been defeated.
+Spiky Ball
+n/a
+Witch Doctor
+Sells the 
+Blowgun
+, the 
+Imbuing Station
+, 
+summoner
+ equipment, 
+Fountains
+, and 
+Leaf Wings
+.
+The 
+Queen Bee
+ has been defeated.
+Blowgun
+(With 
+Poison Darts
+; inflicts 
+Poisoned
+)
+n/a
+Clothier
+Sells some 
+vanity items
+, including the 
+Familiar set
+.
+Skeletron
+ has been defeated.
+Shadowflame Skull
+(Ranged attack; inflicts 
+Shadowflame
+)
+Red Hat
+100%
+Mechanic
+Sells 
+Wrenches
+, 
+Wires
+, and other 
+mechanism
+-related items.
+Found and spoken to in the 
+Dungeon
+.
+Mechanic's Wrench
+(Ranged area of effect attack; identical to 
+Combat Wrench
+.)
+Combat Wrench
+1/8 (12.5%)
+Party Girl
+Sells novelty items that create colorful visual effects.
+1/40 chance of spawning after 20 other town NPCs are in the world.
+Replaces the Guide as the starting NPC when starting a new 
+Drunk world
+.
+One of the starting NPCs in 
+Celebration Mk 10
+ and 
+Zenith
+ worlds, initially named "Amanda".
+Happy Grenade
+Happy Grenade
+1/4 (25%)
+; in stacks of 30–60
+Hardmode
+[
+edit
+]
+Portrait
+NPC
+Description
+Spawn requirement
+Defending weapon
+Drops upon death
+Wizard
+Sells 
+magic
+-related items.
+Found and spoken to in the 
+Cavern
+ layer.
+Ball of Fire
+(Ranged attack; similar to the 
+Flower of Fire
+; inflicts 
+On Fire!
+)
+n/a
+Tax Collector
+Collects property taxes from other NPCs. Earns 
+50
+ Copper
+ per NPC present, collectable by the player.
+A 
+Tortured Soul
+ is transformed with 
+Purification Powder
+ in the 
+Underworld
+.
+Replaces the Guide as the starting NPC when starting a new 
+Remix
+ world.
+One of the starting NPCs in 
+Zenith
+ worlds, initially named "Andrew".
+Classy Cane
+Classy Cane
+1/8 (12.5%)
+Truffle
+Sells the 
+Autohammer
+, 
+Mushroom Spear
+, and other mushroom-themed items.
+A 
+house
+ is available in an above-ground 
+Glowing Mushroom biome
+ during 
+Hardmode
+.
+Truffle Spore
+(Summons projectiles around Truffle; damages enemies on contact)
+n/a
+Pirate
+Sells the 
+Cannon
+ and other pirate-themed items.
+A 
+Pirate Invasion
+ has been defeated.
+Pirate Cannon
+(Ranged attack; similar to the attack of the 
+Pirate Captain
+ enemy)
+n/a
+Steampunker
+Sells the 
+Clentaminator
+, 
+Jetpack
+, and other items.
+A 
+mechanical boss
+ has been defeated.
+One of the starting NPCs in 
+Celebration Mk 10
+ and 
+Zenith
+ worlds, initially named "Whitney".
+Clockwork Assault Rifle
+Ivy
+100%; only when named Whitney
+Cyborg
+Sells the 
+Proximity Mine Launcher
+, 
+Rockets
+, and 
+Nanites
+.
+Plantera
+ has been defeated.
+Rockets
+(Ranged area of effect attack; randomly chosen among 
+Grenade Launcher
+, 
+Rocket Launcher
+, and 
+Proximity Mine Launcher
+.)
+n/a
+Santa Claus
+Sells several unique 
+Christmas
+-themed vanity and novelty items.
+The 
+Frost Legion
+ has been defeated and it is 
+Christmas
+.
+Christmas Ornament
+(Ranged attack)
+n/a
+Princess
+Sells several vanity and furniture items.
+All other town NPCs are in the world (except for town pets and 
+Santa Claus
+).
+One of the starting NPCs in 
+Celebration Mk 10
+ and 
+Zenith
+ worlds, initially named "Yorai".
+Resonance Scepter
+Resonance Scepter
+1/8 (12.5%)
+Town pets
+[
+edit
+]
+Not to be confused with 
+Pets
+.
+Town pets
+ are special town NPCs that have distinctive 
+housing assignment banners
+, and can share houses with another non-town pet NPC. They count as NPCs for 
+pylon
+ requirements and for decreasing enemy spawn rates in an area, but are not counted as neighboring NPCs in other NPCs' happiness calculations, and indeed do not positively or negatively affect the happiness of other NPCs in any way. Unlike other NPCs, town pets have no means of self-defense.
+Like other NPCs, town pets also require a valid standing point in the house (a 
+home tile
+). They may not be able to share a house with another NPC if the house is too small.
+Town pets offer a unique “
+Pet
+” option, which places the player directly in front of the pet when selected, and displays a petting animation. The effect is purely visual.
+There are four types of town pets.
+Zoologist town pets
+[
+edit
+]
+These town pets are obtained by using a pet license sold by the 
+Zoologist
+. They will appear at dawn (4:30 AM) the day after a pet license item is used, and only one of each kind of pet can exist at a time. The name and type of the pet can be changed by using another pet license.
+Portrait
+Pet
+License item
+Sell requirement
+Town Cat
+Cat License
+n/a
+Town Dog
+Dog License
+25% 
+Bestiary
+ completion (137 entries)
+Town Bunny
+Bunny License
+45% 
+Bestiary
+ completion (246 entries)
+Town Slimes
+[
+edit
+]
+Main article: 
+Town Slimes
+Town Slimes are town pets that will move in after certain requirements are met for each specific type. Unlike town pets from the Zoologist, all types of Town Slimes can exist at the same time.
+This content is transcluded from 
+Town Slimes § Types
+.
+Portrait
+Image
+Name
+Spawning
+Map icon
+Squire Slime
+Internal 
+NPC ID
+: 684
+Spawns from dropping a 
+Copper Helmet
+ or a 
+Copper Shortsword
+ on a 
+slime
+ enemy.
+Clumsy Slime
+Internal 
+NPC ID
+: 680
+Spawns from breaking the balloon of a 
+Clumsy Balloon Slime
+.
+Nerdy Slime
+Internal 
+NPC ID
+: 670
+Spawns from the defeated 
+King Slime
+.
+Surly Slime
+Internal 
+NPC ID
+: 682
+Can be fished up during a 
+Blood Moon
+.
+Mystic Slime
+Internal 
+NPC ID
+: 683
+Spawns from using 
+Purification Powder
+ on a 
+Mystic Frog
+ in the 
+Jungle
+.
+Elder Slime
+Internal 
+NPC ID
+: 679
+Spawns from unlocking an 
+Old Shaking Chest
+ with a 
+Golden Key
+.
+The Old Shaking Chest can spawn in the 
+Cavern
+ layer after 
+Skeletron
+ has been defeated.
+Cool Slime
+Internal 
+NPC ID
+: 678
+Can move in while a naturally occurring 
+Party
+ is active.
+Requires a vacant 
+house
+ in order to spawn, like a regular 
+town NPC
+.
+Diva Slime
+Internal 
+NPC ID
+: 681
+Spawns from throwing or discarding a 
+Sparkle Slime Balloon
+ into 
+Shimmer
+.
+Other NPCs
+[
+edit
+]
+The following NPCs are not considered town NPCs because they do not move into houses.
+Portrait
+NPC
+Description
+Spawn requirement
+Defending weapon
+Drops upon death
+Traveling Merchant
+Stays until the evening and sells a random selection of unique items each day.
+22.12% spawn chance during morning hours (4:30 AM – 12:00 PM) once two other NPCs are present.
+Revolver
+ /
+HM
+:
+ 
+Pulse Bow
+(Ranged)
+Peddler's Hat
+100%
+Old Man
+Found at the entrance to the 
+Dungeon
+. Summons 
+Skeletron
+ when spoken to, but only at night. Once Skeletron is defeated, the Old Man moves into town as the 
+Clothier
+.
+Starting a new world.
+n/a
+n/a
+Skeleton Merchant
+Sells 
+Counterweights
+, 
+Spelunker Glowsticks
+, 
+Magic Lantern
+, the 
+Yoyo Glove
+ and some other items, based on the lunar cycle. Some items such as the 
+Slap Hand
+ can only be obtained from him.
+Rarely found in the 
+Caverns
+.
+Bone
+(Thrown)
+n/a
+Stat boosts
+[
+edit
+]
+All NPCs have a base defense stat of 15 (except for the Skeleton Merchant, Guide, and Cyborg, who each have 30), and their base attack stats vary from one NPC to another. They also gain a damage multiplier based on the 
+difficulty
+ of the world: 
+2×
+ / 1× / 
+1.5×
+ / 
+1.75×
+ / 
+2×
+, respectively. The 
+Journey Mode
+ multiplier is applied when the difficulty slider is at 0.5×, and bringing the slider higher will cause the multiplier to linearly scale across different difficulties.
+[
+9
+]
+In addition, all NPCs gain specific defense, attack speed, and damage boosts based on the 
+bosses
+ that have been defeated so far in the current world. These boosts are completely independent of each other (e.g. the "
+Hardmode
+ entered" boost can potentially be gained without first attaining the "
+Eye of Cthulhu
+ is defeated" boost, and vice-versa). The boosts are also permanent for a given world, and are applied instantly to all town NPCs, including all 
+town pets
+ and 
+other NPCs
+. The damage boost stacks multiplicatively with the difficulty damage multiplier. The attack speed bonus stacks multiplicatively with itself.
+[
+9
+]
+As the 
+Dryad
+ does not deal damage directly, she gains damage boosts to her 
+Dryad's Bane
+ debuff on enemies. These boosts to the Dryad's Bane debuff are not quite the same as those damage-stat boosts, however, so both kinds of boosts are listed in the following table. Just as with the stat boosts, the Dryad's Bane boosts are independent of each other, are permanent for a given world, and are applied instantly to all enemies inflicted with the debuff.
+[
+10
+]
+Defeating 
+Moon Lord
+ does not grant stat boosts to NPCs.
+In 
+Skyblock
+, NPCs gain a 50% damage boost, and their attack speed is up to 33% faster.
+[
+a
+]
+ 
+[
+11
+]
+Event
+Defense
+bonus
+Damage boost
+[
+12
+]
+Attack speed boost
+[
+13
+]
+Max life boost
+Attack
+Advanced Combat Techniques
+ used
++8
++25%
+n/a
++20%
++250
+King Slime
+ is defeated
++2
++5%
+n/a
++1.5%
+n/a
+Eye of Cthulhu
+ is defeated
++2
++5%
++10%
++1.5%
+n/a
+Deerclops
+ is defeated
++3
++10%
+n/a
++1.5%
+n/a
+Eater of Worlds
+ / 
+Brain of Cthulhu
+ is defeated
++3
++10%
++1.5%
+n/a
+Queen Bee
+ is defeated
++3
++10%
++1.5%
+n/a
+Skeletron
+ is defeated
++3
++10%
++1.5%
+n/a
+Hardmode
+ entered
++12
++40%
++1.5%
+n/a
+Advanced Combat Techniques: Volume Two
+ used
++8
++25%
+n/a
++20%
++250
+Queen Slime
+ is defeated
++6
++15%
++1.5%
+n/a
+The Twins
+ are defeated
++6
++15%
++1.5%
+n/a
+The Destroyer
+ is defeated
++6
++15%
++1.5%
+n/a
+Skeletron Prime
+ is defeated
++6
++15%
++1.5%
+n/a
+Plantera
+ is defeated
++8
++15%
++1.5%
+n/a
+Golem
+ is defeated
++8
++15%
++1.5%
+n/a
+Duke Fishron
+ is defeated
++8
++15%
++1.5%
+n/a
+Empress of Light
+ is defeated
++8
++15%
++1.5%
+n/a
+Lunatic Cultist
+ is defeated
++20
++15%
++1.5%
+n/a
+Tipsy
++10%
++10%
+n/a
++10%
+n/a
+Total
++133
+[
+14
+]
++285%
++215%
++101.007%
++500
+Health regeneration
+[
+edit
+]
+NPCs gradually regenerate their health when they are not at full health,
+[
+15
+]
+ steadily regaining health at a rate of 0.33 health per second. The 
+Dryad's Blessing
+ buff increases the health regeneration rate of NPCs in range by 3.33 health per second.
+Certain NPCs have different health regeneration rates:
+NPC
+Health regen rate
+Normal
+Guide
+2 health
+per second
+5.33 health
+per second
+Cyborg
+3.33 health
+per second
+6.67 health
+per second
+Old Man
+n/a
+ 
+(does not regenerate health)
+All other NPCs
+0.33 health
+per second
+3.67 health
+per second
+All NPCs gain back full health (including the Old Man) when the player leaves and reenters the world.
+Happiness
+[
+edit
+]
+See also: 
+Guide:NPC Happiness
+NPCs have individual preferences about other NPCs or the 
+biome
+ they live in which in turn affects their prices. When selecting “Happiness” in an NPC's dialogue window, the NPC will tell the player if any factors make them currently happy or unhappy, although they will not say what could make them happier or unhappier. For example, if the 
+Guide
+ is located alone in a 
+Forest
+, he will praise the lack of other NPCs around and the fact he is in a Forest, but he will not hint at the fact he would prefer to live near the 
+Clothier
+ or 
+Zoologist
+. One can, however, find an NPC's preferred biome from the background of the portrait in their 
+Bestiary
+ entry, with the exception of the 
+Princess
+, who has no biome preference but has a portrait background of 
+The Hallow
+.
+Factors that make an NPC happy will lower their prices for goods purchased from them, down to a minimum of 
+3/4 (75%)
+, and increase the value of goods sold to them by the inverse of the same modifier, up to a maximum of 
+4/3 (133%)
+. Conversely, factors that make an NPC unhappy will raise their prices for goods purchased from them, up to a maximum of 
+3/2 (150%)
+, and decrease the value of goods sold to them, down to a minimum 
+2/3 (67%)
+. Price modifiers are rounded to the nearest 1% increment. The 
+Tax Collector
+'s current tax funds and tax collection limit are both divided by his happiness factor, such that at maximum happiness he will store up to 
+33
+ Gold 
+33
+ Silver 
+33
+ Copper
+, and at minimum happiness he will only store up to 
+16
+ Gold 
+66
+ Silver 
+66
+ Copper
+; the amount of taxes that he collects per minute also scales at the same rate.
+[
+16
+]
+[
+17
+]
+If the NPC is a vendor, an icon and exact price modifier will also be displayed besides the NPC's shop menu, reflecting their happiness.
+Icon
+Price factor
+≤82%
+≤100%
+≤110%
+>110%
+For the purpose of calculating distances below, the position of an NPC's 
+home tile
+ is considered instead of the NPC itself, unless the NPC is homeless in which case their actual position is considered. The home tile is the block where NPCs stand on during nighttime and events. 
+NPC's flag
+ will "hook" directly above the home tile. One can easily find the home tile by locating the central column of the 3×3-tile area that the NPC's flag occupies, and then moving all the way down to the tile in the floor of the house. For more detailed definition of a home tile, see 
+House § Home tile score
+.
+Biome-related preferences will reference the primary biome where the 
+player
+ is, rather than where the NPC or their home is.  If the player is in a 
+hybrid biome
+, and the NPC loves/likes one of the biomes, but hates/dislikes one of the others, the loved/liked biome will take priority. Biomes that the NPC is neutral to are ignored. 
+An NPC's happiness is computed the moment their chat window is opened,
+[
+18
+]
+ which means that their happiness can be altered very quickly (e.g. by closing their chat window, adding or removing nearby NPC flags, and re-opening the chat window).
+Factors affecting happiness
+[
+edit
+]
+The below price modifiers are 
+multiplicative
+. The price multiplier will always be set to the maximum of 150% (purchasing) and 67% (selling) if the NPC is homeless, more than 120 tiles from their house, or located in the 
+Dungeon
+, 
+Corruption
+, or 
+Crimson
+.
+[
+19
+]
+ 
+A diagram displaying NPCs' opinions of each other and the biomes they are housed in.
+Criteria
+[
+20
+]
+Price modifier (purchasing)
+[
+20
+]
+Price modifier (selling)
+[
+20
+]
+Solitude Bonus: There are no more than two other NPCs within 25 tiles,
+and no more than three other NPCs between 25 and 120 tiles away.
+95%
+105%
+Crowded Penalty: For the fourth, fifth, etc. NPC within 25 tiles, each. 
+This equates to a maximum of three other NPCs within 25 tiles to avoid this penalty.
+105%
+95%
+Located in a Loved biome
+88%
+114%
+Located in a Liked biome
+94%
+106%
+Located in a Disliked biome
+106%
+94%
+Located in a Hated biome
+112%
+89%
+For each Loved NPC within 25 tiles
+88%
+114%
+For each Liked NPC within 25 tiles
+94%
+106%
+For each Disliked NPC within 25 tiles
+106%
+94%
+For each Hated NPC within 25 tiles
+112%
+89%
+Lovestruck
+90%
+111%
+ 
+Euclidean distance
+ is used to find NPCs within 25 tiles; close enough to affect another's happiness.
+Living preferences
+[
+edit
+]
+The 
+Princess
+ is liked by all NPCs, and therefore is not put in every column for the sake of less clutter.
+ 
+[link]
+Click/tap here
+ to reveal this content. 
+(there may be a slight delay)
+[/link]
+ 
+This table requires JavaScript to be enabled and site tooltips to be turned on to be displayed.
+You can also 
+view the data
+ on another page.
+Emotes
+[
+edit
+]
+Main article: 
+Emotes
+Although it may seem to be random, NPCs "emote" about things depending on their environment.
+This content is transcluded from 
+NPCs/emotes
+.
+Emote
+Condition 
+Combat
+ 
+ 
+ 
+ 
+ 
+If a 
+boss
+ exists in world.
+Weather
+When cloudy.
+When 
+raining
+.
+ 
+When nighttime and raining.
+In a 
+blizzard
+.
+When sunny.
+In 
+The Hallow
+.
+Events
+ 
+ 
+ 
+During a 
+Party
+.
+During a 
+Blood Moon
+ or rarely at night.
+During a 
+Solar Eclipse
+ or rarely in 
+Hardmode
+.
+If a 
+Shadow Orb
+ has been smashed or a 
+Meteorite
+ has fallen.
+While 
+Pumpkin Moon
+ event is active or it is night and 
+Pumpking
+ or 
+Mourning Wood
+ has been defeated.
+While 
+Frost Moon
+ event is active or it is night and an 
+Ice Queen
+ or 
+Santa-NK1
+ has been defeated.
+During an 
+Old One's Army
+ event or after it has been defeated once.
+Debuffs
+If the player has 
+On Fire!
+, has 
+Cursed Inferno
+, is in the 
+Underworld
+, or the NPC being spoken to has On Fire!.
+n/a
+If the player has 
+Poisoned
+, is in the 
+Jungle
+, or the NPC being spoken to has Poisoned.
+If the player has the 
+Whoopie Cushion
+ selected in their hotbar.
+Items
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+If the player is below half 
+health
+.
+Other NPCs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If the respective NPC is alive in the world.
+Biomes
+If the player is near 
+Space
+ (above 
+55% altitude
+ of the surface).
+If the player is 
+Underground
+.
+If the player is in the 
+Underworld
+.
+If the player is in 
+The Hallow
+.
+If the player is in 
+The Corruption
+.
+If the player is in 
+The Crimson
+.
+If the player is in the 
+Jungle
+.
+If the player is in a 
+Snow biome
+.
+If the player is at an 
+Ocean
+.
+If the player is in the 
+Desert
+.
+If the player is in a 
+Forest
+.
+Critters
+/
+Enemies
+ 
+ 
+ 
+ 
+ 
+ 
+If it is daytime.
+If time is between 6:00 PM and 6:00 AM the next day.
+If the 
+Goblin Army
+ has been defeated.
+If the 
+Frost Legion
+ has been defeated.
+If a 
+Pirate Invasion
+ has been defeated.
+If the 
+Martian Madness
+ has been defeated.
+If the world generated with 
+Crimson
+.
+ 
+If the NPC is 
+Underground
+.
+Emotions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n/a
+ 
+More common during 
+night
+ or a 
+Blood Moon
+.
+Bosses
+ 
+ 
+(Corruption worlds)
+ 
+(Crimson worlds)
+More common if only up to 
+Eye of Cthulhu
+ has been defeated, less common if future bosses have been defeated.
+ 
+More common if only up to 
+Eater of Worlds
+ or 
+Brain of Cthulhu
+ has been defeated, less common if future bosses have been defeated.
+ 
+ 
+ 
+More common if only up to 
+Wall of Flesh
+ has been defeated, less common if future bosses have been defeated.
+ 
+(if not defeated)
+ 
+(if not defeated)
+ 
+(if not defeated)
+More common if only up to one 
+mechanical boss
+ has been defeated, less common if future bosses have been defeated.
+ 
+ 
+More common if only up to 
+Plantera
+ has been defeated, less common if future bosses have been defeated.
+ 
+ 
+More common if only up to 
+Golem
+ has been defeated, less common if future bosses have been defeated.
+ 
+More common if only up to the 
+Lunatic Cultist
+ has been defeated, less common if future bosses have been defeated.
+If the 
+Pirate Invasion
+ has been defeated and the world is in 
+Expert Mode
+.
+If the 
+Martian Madness
+ has been defeated.
+If an 
+Ice Queen
+ has been defeated.
+If an 
+Everscream
+ has been defeated.
+If a 
+Santa-NK1
+ has been defeated.
+If a 
+Pumpking
+ has been defeated.
+If a 
+Mourning Wood
+ has been defeated.
+If the 
+Empress of Light
+ has been defeated.
+If the 
+Queen Slime
+ has been defeated.
+NPC-specific behavior
+ 
+Used more often by 
+Merchant
+.
+ 
+ 
+Used more often by 
+Nurse
+.
+ 
+ 
+More common when the 
+Arms Dealer
+ is talking to the 
+Guide
+.
+ 
+ 
+ 
+Used more often by the 
+Arms Dealer
+.
+ 
+(if alive)
+Used more often by 
+Dryad
+.
+Used more often by 
+Guide
+ if night.
+Used more often by 
+Guide
+ if not a 
+Blood Moon
+.
+ 
+ 
+More common when the 
+Guide
+ is talking to the 
+Arms Dealer
+.
+ 
+Used more often by 
+Old Man
+.
+ 
+ 
+Used more often by 
+Demolitionist
+.
+ 
+Used even more often by 
+Demolitionist
+ during a 
+Blood Moon
+.
+ 
+Used more often by 
+Clothier
+ during a 
+Blood Moon
+.
+ 
+(if alive)
+Used more often by 
+Clothier
+ when not during a 
+Blood Moon
+.
+ 
+ 
+Used more often by 
+Goblin Tinkerer
+ when not speaking to 
+Mechanic
+.
+ 
+ 
+ 
+Never uses 
+More common when the 
+Goblin Tinkerer
+ is talking to 
+Mechanic
+.
+ 
+ 
+Used more often by 
+Wizard
+.
+ 
+ 
+(if alive)
+ 
+(if alive)
+Used more often by 
+Mechanic
+.
+ 
+ 
+ 
+More common when the 
+Mechanic
+ is talking to 
+Goblin Tinkerer
+.
+ 
+ 
+ 
+Used more often by 
+Santa Claus
+.
+ 
+ 
+ 
+Used more often by 
+Truffle
+.
+Used more often by 
+Steampunker
+.
+ 
+ 
+Used more often by 
+Dye Trader
+.
+ 
+ 
+ 
+Used more often by 
+Party Girl
+.
+ 
+ 
+Used more often by 
+Cyborg
+.
+ 
+Used more often by 
+Painter
+.
+ 
+ 
+Used more often by 
+Witch Doctor
+.
+ 
+ 
+ 
+ 
+Used more often by 
+Pirate
+.
+ 
+(if alive)
+ 
+(if alive)
+Used more often by 
+Stylist
+.
+ 
+ 
+Used more often by 
+Traveling Merchant
+.
+ 
+ 
+Used more often by 
+Angler
+ if not a 
+Blood Moon
+.
+Used more often by 
+Angler
+ if not 
+Underground
+.
+ 
+ 
+ 
+Used more often by 
+Skeleton Merchant
+.
+ 
+ 
+Used more often by 
+Tax Collector
+.
+Rock-paper-scissors
+ 
+ 
+ 
+ 
+Shimmered forms
+[
+edit
+]
+When submerged in 
+Shimmer
+ or fired at by a 
+Shimmer Gun
+, any NPC will transform into their Shimmered form. This has no impact on gameplay or dialogue and is only a visual change. They can be returned to their classic looks by being submerged in Shimmer again.
+Guide
+Merchant
+Nurse
+Arms Dealer
+Dryad
+Old Man
+Demolitionist
+Clothier
+Goblin Tinkerer
+Wizard
+Mechanic
+Santa Claus
+Truffle
+Steampunker
+Dye Trader
+Party Girl
+Cyborg
+Painter
+Witch Doctor
+Pirate
+Stylist
+Traveling Merchant
+Angler
+Tax Collector
+Tavernkeep
+Golfer
+Zoologist
+Princess
+Skeleton Merchant
+Achievements
+[
+edit
+]
+ 
+No Hobo
+ • 
+“Build a house suitable enough for your first town NPC, such as the guide, to move into.”
+Successfully get an 
+NPC
+ to move into your first 
+house
+.
+Category: 
+ Explorer
+ 
+Real Estate Agent
+ • 
+“Have all possible town NPCs living in your world.”
+House every 
+town NPC
+ in your world.
+Category: 
+ Challenger
+ 
+Leading Landlord
+ • 
+“Meet with a tenant who's as happy as they possibly can be!”
+Talk to any 
+town NPC
+ while its 
+happiness
+ is at its maximum.
+Category: 
+ Challenger
+ 
+Feeling Petty
+ • 
+“Deliver headpats to the town pet.”
+Pet a 
+town pet
+.
+Category: 
+ Challenger
+ 
+The Great Slime Mitosis
+ • 
+“Find all of the Slime Pets and have them move in!”
+House every 
+Town Slime
+ in your world.
+Category: 
+ Challenger
+ 
+Grave Mistake
+ • 
+“‘Accidentally’ kill a friend with your tombstone.”
+Kill an 
+NPC
+ or a 
+teammate
+ with a 
+Tombstone
+.
+Category: 
+ Challenger
+ 
+Terrarist
+ • 
+“Scare your villagers with a stink bug sword.”
+Damage an 
+NPC
+ with a 
+Flymeal
+.
+Category: 
+ Challenger
+ 
+New Digs
+ • 
+“Give any villager a new look.”
+Soak a 
+town NPC
+ in 
+Shimmer
+.
+Category: 
+ Collector
+Tips
+[
+edit
+]
+Each time the 
+Traveling Merchant
+ spawns, he will have a random shop inventory. If the player leaves the world between 4:30 AM and 12:00 PM, and enters again, there is a 22% chance he will re-spawn (with a new shop inventory).
+Bound NPCs found 
+underground
+ can be freed by talking to them, after which they will always respawn whenever a vacant 
+house
+ is available. Having an empty room ready for them beforehand will cause them to move in at 
+night
+ as soon as they are off-screen.
+Bound NPCs can be found by listening to their 
+"hurt" sounds
+, especially the 
+Mechanic
+, as the 
+Dungeon
+ is teeming with enemies.
+A housing area can be created where all the NPCs can have their biome-specific items: 1500 
+Pink Ice Blocks
+, 101 
+Mushroom grass
+, 140 
+Jungle grass
+/
+Lihzahrd Bricks
+, 1500 
+Sand Blocks
+, and 7 
+Gravestones
+ at the Space layer near the houses are located, within the 
+biome-checking area
+.
+If not being able to obtain the 
+Flymeal
+, drowning an NPC in water is an easy way to get NPC drops (safer than 
+lava
+ and quicker than 
+Rotten Eggs
+).
+When the 
+For the Worthy
+ 
+special seed
+ is active, the player's 
+tombstone
+ may also be used to get NPC drops.
+To open a 
+chest
+ behind an NPC, press the 
+⚷
+ Open / Activate
+ button twice. The first press will open the NPC's dialogue box, the second one will open the Chest.
+Trivia
+[
+edit
+]
+ 
+A comparison of the NPCs' head and torso heights.
+During a Blood Moon, all female NPCs except the 
+Party Girl
+ and 
+Princess
+ have dialogue that is more irritable or aggressive than normal. This references 
+premenstrual syndrome
+, which may cause mood swings and irritability in some people. Both the 
+menstrual cycle
+ and the real-world moon cycle occur approximately every 28 days.
+The only NPC interactions required to reach the defeat of the 
+Moon Lord
+ are talking to the Old Man to summon 
+Skeletron
+ and allow the 
+Cultists
+ to spawn, and killing the Guide with the 
+Guide Voodoo Doll
+ to fight the 
+Wall of Flesh
+.
+Skeletons
+ will not attack the 
+Skeleton Merchant
+, and vice versa.
+The 
+Party Girl
+ is the only NPC to "love" two NPCs as one of their living preference(s).
+The Skeleton Merchant and the Traveling Merchant originally had special 
+price modifiers
+, depending on the 
+moon phase
+ and distance from the world's edges, respectively. These modifiers were deactivated quickly after their introduction, in 
+1.4.0.4
+, but still remain in the code.
+The price modifier for the Skeleton Merchant would depend on the moon phase:
+[
+21
+]
+ 
+110%
+ during gibbous moons 
+ 
+, 
+120%
+ during quarter moons 
+ 
+, 
+130%
+ during crescent moons 
+ 
+, and 
+140%
+ during new moons 
+. Additionally, his price modifier would be increased by another 
++10%
+ during the 
+day
+.
+The price modifier for the Traveling Merchant would range between 
+115%
+ (at the 
+world spawn point
+) and 
+85%
+ (at the world's borders).
+[
+22
+]
+The 
+Guide
+ and Old Man are unique in that they always spawn upon creating a world. The Old Man does not move into a house, but rather remains near the 
+Dungeon
+'s entrance, and respawns the following day if killed (while 
+Skeletron
+ has not yet been defeated).
+NPCs will emit bubble particles when underwater. The location of where the particles are emitted from is lower for the 
+Angler
+ (8 pixels lower than other NPCs), possibly due to him being a child. However, this does not apply to the 
+Princess
+ despite her also being a child.
+[
+23
+]
+See also
+[
+edit
+]
+Mc MoneyPants
+, a removed, formerly 
+ Mobile version
+-exclusive NPC
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.7
+: 
+Homeless NPCs can no longer spawn when time is frozen (same as regular NPC spawning).
+Fixed NPCs spawning immediately when the world is loaded.
+Fixed homeless NPCs spawning when there are in fact houses available.
+Desktop 1.4.5.4
+: Players can now bulk buy and craft items in batches of 10 by holding 
+⇧ Left Shift
+.
+Desktop 1.4.5.3
+: Added Profile, Retro, and Disabled styles for NPC portraits. The existing style is called "Detailed".
+Desktop 1.4.5.0
+: 
+Added portraits for all NPCs.
+Can now arrive even when there are no available houses. Only one will arrive per day, and they will leave if they do not have a house by nightfall.
+NPCs now take priority over town pets when respawning.
+Homeless NPCs now have a Housing dialogue option instead of Happiness, containing instructions on how to build a suitable 
+house
+.
+Can now attack 
+enemies
+ while talking to players.
+NPCs will now avoid players with the 
+Stinky
+ debuff.
+Defeating a 
+boss
+ now also gives each NPC a 1.5% attack speed bonus.
+Now also gain stat bonuses from defeating 
+King Slime
+, 
+Deerclops
+ and 
+Duke Fishron
+.
+Defeating 
+Queen Slime
+, 
+Duke Fishron
+ and 
+Empress of Light
+ now boost the damage of Dryad's Ward by 15% each (same as other Hardmode bosses).
+Party Girl NPC count requirement to move in increased from 14 to 20, to account for town pets.
+Shops now have a visual indicator showing how NPC happiness is affecting prices.
+The Savings display in shops now caps the amount of Platinum Coins to 999, to prevent overflows.
+Fixed name-based special drops (
+Green Cap
+, 
+Ivy
+, and 
+Jim's Cap
+) not dropping when the game is set to certain languages.
+Desktop 1.4.4.4
+: 
+Fixed an issue where NPCs whose names were translated would not drop name-based special drops.
+This issue was not actually fixed until 1.4.5.0.
+Desktop 1.4.4
+: 
+Added 
+Shimmered
+ forms for all town NPCs.
+NPCs who die will now respawn freely, ignoring the original unique conditions which were required to spawn in the first place.
+NPCs (except the 
+Old Man
+) that are standing on 
+Dungeon Bricks
+ will no longer be immediately teleported back to their home.
+Desktop 1.4.3.3
+: 
+The minimum required happiness for NPCs to sell 
+pylons
+ has been decreased from 0.85 to 0.9. This means that it is now easier to make NPCs happy enough to sell a pylon.
+If an NPC is present in a hybrid biome (e.g. the Hallowed Desert), and they like at least one of those biomes, then they will gain positive happiness from the biome they like.
+The maximum number of NPCs in a town before Crowded penalties begin to take effect has been increased from 4 to 5. However, 4-NPC towns will have neither a bonus nor a penalty.
+The maximum number of NPCs in a town before "hate crowded" 
+quotes
+ begin to appear has been increased from 7 to 8.
+Desktop 1.4.1.2
+: 
+Happiness price modifiers are now rounded to the nearest 1% increment instead of the nearest 5% increment.
+Reverted the change to the distances to compute happiness made in 1.4.1.
+NPC Happiness now gives the "Solitude" bonus for 3-NPC towns. Previously, there was neither a bonus nor a penalty at 3 NPCs.
+Desktop 1.4.1.1
+: 
+Fixed several grammatical/spelling issues in NPC dialogue.
+Fixed an issue where Town NPCs would try to sit on Dynasty Chairs (they should not be able to).
+Desktop 1.4.1
+: 
+Added the 
+Princess
+ NPC.
+Doubled the distances to compute happiness, from 25 tiles / 26-120 tiles to 50 tiles / 51-240 tiles.
+The boost from the "Solitude" factor is reduced by half.
+The boost/penalty for Like/Dislike/Love/Hate factors have been increased by 20%.
+The maximum number of NPCs in a town before "hate crowded" 
+quotes
+ begin to appear has been increased from 6 to 7. Note that this did not change the thresholds of crowded penalty.
+Desktop 1.4.0.5
+: The Truffle now likes living in the Mushroom biome (instead of being neutral).
+Desktop 1.4.0.4
+: 
+Will no longer let the player pet a 
+town pet
+ if slopes are interfering and would cause them to float.
+Fixed 
+Traveling Merchant
+ and 
+Skeleton Merchant
+ accidentally having NPC 
+Happiness
+.
+Fixed NPCs sitting incorrectly in 
+Dynasty Chairs
+.
+Desktop 1.4.0.3
+: Fixed erroneously huge dislike modifiers to happiness.
+Desktop 1.4.0.1
+: 
+Zoologist
+ and 
+Golfer
+ added.
+Now sell pylons.
+Now have a Happiness system depending on where they live and who they live with.
+NPCs will now drop 
+Tombstones
+ when they die in 
+Hardcore
+ mode.
+Dye Traders
+ requirements changed to only require a 
+Dye
+ item or material to craft a dye item.
+Town NPCs now get a little stronger each time the player defeats a boss.
+Desktop 1.3.5
+: NPCs who are manually assigned to a room will have their successor attempt to move in when the original is killed.
+Desktop 1.3.4
+: 
+Tavernkeep
+ added.
+Added 4 new emotes: Tavernkeep, Old One's Army, Beer, and Defender Medal.
+Beer and Defender Medal are unused, but appear in the game files.
+Desktop 1.3.2
+: 
+Added 4 new emotes: Party Present, Party Hat, Party Cake, and Party Balloons.
+Fixed spazzing if there is 
+lava
+ underneath them.
+NPCs now try to avoid falling into cliffs away from their home area.
+Party
+ event added.
+Desktop 1.3.0.1
+: 
+2 new NPCs added: 
+Skeleton Merchant
+ and 
+Tax Collector
+.
+Improved the sprites of some NPCs.
+NPCs now avoid enemies and fight back if necessary.
+All NPCs have a base attack damage stat of 10, but the details of their attacks vary significantly. Their defense generally starts at 15. Their attack and defense will also 
+increase throughout the game
+. NPCs also have higher stats in the new 
+Expert Mode
+.
+NPCs now talk to each other, sit in chairs, and avoid blocking chests.
+Having all possible NPCs living in a world now unlocks the Real Estate Agent 
+achievement
+.
+Changed the spawn order for Town NPCs so that the more important ones spawn first.
+NPCs can now drown in water.
+NPCs can now walk up 
+stairs
+.
+Desktop 1.2.4
+: 
+Added the 
+Angler
+ NPC.
+Fixed bugs with the sign / NPC chat display again.
+Fixed exploit where the player could buy and sell stackable items for profit.
+Desktop 1.2.3.1
+: Fixed problems with rescued NPCs not having any names.
+Desktop 1.2.3
+: 
+2 new NPCs added: 
+Stylist
+ and 
+Traveling Merchant
+.
+Names are now decided on spawn rather than World Creation.
+Fixed a bug where numerous NPCs could spawn if the player beat a Hardmode boss in a non-Hardmode world.
+Invasions can now spawn enemies anywhere near friendly NPCs instead of just the middle of the world.
+Enemy attacks no longer trigger 
+Spectre set
+ healing from hitting friendly NPCs.
+Desktop 1.2.2
+: NPCs now go back to their houses during 
+Solar Eclipses
+.
+Desktop 1.2.1.2
+: Added some checks to ensure multiple NPCs of the same type do not spawn.
+Desktop 1.2.1.1
+: 
+Rotten Eggs
+ now correctly damage friendly NPCs.
+Desktop 1.2.1
+: Several friendly NPCs will sell 
+vanity items
+.
+Desktop 1.2.0.3
+: 
+NPCs that require 
+Plantera
+ to be defeated to sell things now do so correctly in multiplayer.
+King
+ and 
+Queen Statues
+ will correctly summon the new NPCs.
+Desktop 1.2
+: 
+8 new NPCs added: 
+Steampunker
+, 
+Truffle
+, 
+Cyborg
+, 
+Pirate
+, 
+Witch Doctor
+, 
+Party Girl
+, 
+Dye Trader
+ and 
+Painter
+.
+Fixed bug where attempting to move NPCs with 
+reversed gravity
+ used the opposite screen height position.
+Increased speed at which the player buys stacks of things.
+Desktop 1.1.1
+: 
+Bound NPCs now can be untied with Autopause enabled.
+Santa Claus
+ added.
+Desktop 1.1
+: 
+3 new NPCs added: 
+Goblin Tinkerer
+, 
+Mechanic
+ and 
+Wizard
+.
+NPCs now have random names given to them on World Creation. Their deaths will be reported with these names. Also other NPCs will use it in their quotes. Upon respawning after Death will be given a new random name.
+NPCs now may be told where to live using the new 
+Housing Menu
+ feature.
+Two NPCs of the same type can no longer spawn, even in a multiplayer world. (Previously that was two additional merchants and second nurse. They had multiplayer conditions.)
+Desktop 1.0.6.1
+: NPCs now look at the character.
+Desktop 1.0.6
+: 
+Shops now sell items back to the player. Shift-clicking items will automatically sell them.
+New sound for initiating a conversation to an NPC.
+Desktop 1.0.4
+: 
+Added 
+Clothier
+.
+Added an option that will pause the game while talking to an NPC in single player. It defaults to off.
+Desktop-Release
+: Introduced. The original NPCs were the 
+Guide
+, the 
+Nurse
+, the 
+Merchant
+, the 
+Arms Dealer
+, the 
+Demolitionist
+, the 
+Dryad
+ and the 
+Old Man
+.
+ Console version
+Console 1.19
+: NPCs who are manually assigned to a room will now have their successor attempt to move in when the original is killed.
+Console 1.17
+: Made changes from Desktop 1.3.2 to 1.3.4.
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.1096.2
+: Made changes from Desktop 1.3.2 to 1.3.5.
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile-Release
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑
+ 
+In video game development lingo, the term 
+NPC
+ technically includes any character not controlled by a player, including enemies. However, 
+Terraria
+, along with its developers and fan community, generally use the term 
+NPC
+ to refer 
+only
+ to friendly automated characters that provide a service to players. This page is therefore 
+only
+ about those friendly NPCs.
+↑
+ 
+This term is used in 
+pylon-related status messages
+ and in the tooltip and status message of the 
+Advanced Combat Techniques
+ (and 
+its sequel
+).
+↑
+ 
+This term is used in the tooltip of the 
+Rotten Egg
+ as well as in some 
+tips
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+GetSpawnRate()
+ in 
+Terraria.NPC.Spawner.cs
+. Having NPCs near the player grants a chance for an NPC spawning attempt to only spawn critters. This chance is increased for each NPC nearby, capped at 3 NPCs. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+UpdateTime()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+SpawnHomelessNPC()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.2.4.1
+ source code, method 
+AI()
+ in 
+Terraria.NPC.cs
+.
+↑ 
+9.0
+ 
+9.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, methods 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+ and 
+GetAttackDamage_ForTownNPC()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+UpdateNPC_BuffApplyDOTs()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Damage bonuses are computed by first adding all applicable damage boosts to obtain a boost factor, then multiplying the NPC's base attack damage (or, for the Dryad, the Dryad's Bane base debuff damage) by that total factor. Thus, "+10%", "+15%", and "+40%" combined give an increase of +65%.
+↑
+ 
+Attack speed bonuses stack multiplicatively rather than additively (for example, a "+20%" boost and a "+1.5%" boost actually result in a [1-[1.2*1.015]]*100 = 21.8% boost)
+↑
+ 
+If the NPC starts with 15 defense, that would be ((15 defense + 120 defense) * 1.1) = 148.5; Subtract the initial 15 defense the NPC started with, round down, to get +133 defense. NPCs with 30 starting defense (Skeleton Merchant, Guide, and Cyborg) would receive +135 defense.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+CheckLifeRegen()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.5
+ source code, method 
+GUIChatDrawInner()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Note that tax amounts are converted to a floating-point number, then divided by the current 
+happiness price adjustment
+, then truncated to an integer; hence, e.g. 
+25
+ Gold
+ divided by a 
+150%
+ price modifier gives 
+16
+ Gold 
+66
+ Silver 
+66
+ Copper
+ due to the truncation.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.2.2
+ source code, method 
+SetTalkNPC()
+ in 
+Terraria.Player.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.3.6
+ source code, method 
+ProcessMood()
+ in 
+Terraria.GameContent.ShopHelper.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+20.0
+ 
+20.1
+ 
+20.2
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.3.6
+ source code, method 
+ProcessMood()
+ in 
+Terraria.GameContent.ShopHelper.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.1
+ source code, method 
+GetSkeletonMerchantPrices()
+ in 
+Terraria.GameContent.ShopHelper.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.1
+ source code, method 
+GetTravelingMerchantPrices()
+ in 
+Terraria.GameContent.ShopHelper.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+CheckDrowning()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+The internal base attack rate is 2. After applying bonuses, if the attack rate is still greater than 1 (i.e. attack speed is double), the attack rate is modified by: x = (x + 1)/2. This gives a 33% attack speed bonus in the absence of other bonuses, and gradually diminishes with increasing attack speed bonuses from other sources.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

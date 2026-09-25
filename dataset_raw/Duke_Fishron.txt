@@ -1,0 +1,1596 @@
+Source URL: https://terraria.wiki.gg/wiki/Duke_Fishron
+Title: Duke_Fishron
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Duke Fishron
+.
+Duke Fishron
+First Phase
+Hardmode exclusive
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Aquatic
+Environment
+ Ocean 
+AI Type
+Duke Fishron AI
+Damage
+100
+/
+140
+/
+210
+ 
+(contact)
+200
+280
+420
+ 
+(contact when enraged)
+ 
+[
+1
+]
+80
+100
+150
+ 
+(
+Sharknado
+)
+ 
+[
+2
+]
+100
+150
+225
+ 
+(
+Detonating Bubble
+)
+ 
+[
+4
+]
+Max Life
+60000
+/
+78000
+/
+99450
+Defense
+50
+100 
+(when enraged)
+ 
+[
+1
+]
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuffs 
+Inflicts 
+ debuffs 
+Debuff
+Bleeding
+Debuff tooltip
+Cannot regenerate life
+Chance
+33%
+Duration
+6–20 seconds
+7.5–25 seconds
+Debuff
+Feral Bite
+Debuff tooltip
+Increased damage, Decreased life regen, Causes status effects
+Chance
+33%
+Duration
+3–10 seconds
+Projectiles created
+Projectiles created
+Projectiles created
+Sharknado
+Sharknado Bolt
+Sounds
+Hurt
+Killed
+Spawn
+Detonating Bubble
+Sharknado
+Internal 
+NPC ID
+: 
+370
+Internal 
+Buff ID
+: 
+30
+, 
+148
+Internal 
+Projectile ID
+: 
+384
+, 
+385
+Duke Fishron
+Second/
+Third
+ Phase
+Hardmode exclusive
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Aquatic
+Environment
+ Ocean 
+AI Type
+Duke Fishron AI
+Damage
+120
+201
+302
+ 
+(contact, second phase)
+184
+ 
+(contact, third phase)
+[
+1
+]
+277
+ 
+(contact, third phase)
+[
+1
+]
+200
+280
+420
+ 
+(contact when enraged)
+160
+200
+300
+ 
+(
+Cthulunado
+)
+ 
+[
+2
+]
+Max Life
+30000/60000
+39000/78000
+49725/99450
+Defense
+40 
+(second phase)
+0
+ 
+(third phase)
+[
+1
+]
+100 
+(when enraged)
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuffs 
+Inflicts 
+ debuffs 
+Debuff
+Bleeding
+Debuff tooltip
+Cannot regenerate life
+Chance
+33%
+Duration
+6–20 seconds
+7.5–25 seconds
+Debuff
+Feral Bite
+Debuff tooltip
+Increased damage, Decreased life regen, Causes status effects
+Chance
+33%
+Duration
+3–10 seconds
+Drops
+Coins
+25
+ Gold
+(Dropped by Treasure Bag
+[
+3
+]
+)
+Item 
+(Quantity)
+Rate
+One of the following 7 items will always be dropped
+Bubble Gun
+ 
+(In regular worlds)
+14.29%
+Aqua Scepter
+ 
+(In 
+Remix
+ worlds)
+14.29%
+Flairon
+14.29%
+Razorblade Typhoon
+14.29%
+Tempest Staff
+14.29%
+Tsunami
+14.29%
+Electric Eel
+14.29%
+Kraken
+14.29%
+Fishron Wings
+6.67%
+Greater Healing Potion
+ 
+(5–15)
+100%
+Duke Fishron Mask
+14.29%
+Duke Fishron Trophy
+10%
+Treasure Bag
+(Duke Fishron)
+100%
+Shrimpy Truffle
+100%
+Duke Fishron Mask
+14.29%
+One of the following 7 items will always be dropped
+Bubble Gun
+ 
+(In regular worlds)
+14.29%
+Aqua Scepter
+ 
+(In 
+Remix
+ worlds)
+14.29%
+Flairon
+14.29%
+Razorblade Typhoon
+14.29%
+Tempest Staff
+14.29%
+Tsunami
+14.29%
+Electric Eel
+14.29%
+Kraken
+14.29%
+Fishron Wings
+10%
+Coins
+ (
+62
+ Gold 
+50
+ Silver
+)
+100%
+Pork of the Sea
+25%
+Duke Fishron Relic
+100%
+Projectiles created
+Projectiles created
+Projectiles created
+Cthulunado
+Sharknado Bolt
+Sounds
+Hurt
+Killed
+Attack
+Detonating Bubble
+Internal 
+NPC ID
+: 
+370
+Internal 
+Buff ID
+: 
+30
+, 
+148
+Internal 
+Projectile ID
+: 
+386
+, 
+385
+ 
+“Mutant terror of the sea.”
+ 
+“
+I once met with a Duke on the beach. He looked kinda fishy, and lacked good manners!
+— 
+ The 
+Princess
+This article is about the Hardmode boss. For the quest fish, see 
+Fishron
+. For the aquatic mount, see 
+Cute Fishron
+. For the hardmode enemy, see 
+Pigron
+. 
+Duke Fishron
+ is a 
+Hardmode
+ 
+boss
+. While he can be summoned as soon as Hardmode is initiated, his difficulty is on par with that of a post-Golem boss, making him a serious threat to unprepared players. Fighting Duke Fishron is not required for 
+game progression
+, but his defeat rewards the player with powerful weapons and equipment.
+While Duke Fishron is alive, his exclusive music 
+Duke Fishron
+ will play. When 
+Otherworldly music
+ is enabled, the track 
+Boss 2 (Otherworldly)
+ will play instead.
+Summoning
+[
+edit
+]
+Duke Fishron is summoned by 
+fishing
+ in the 
+Ocean
+ at any time, using a 
+Truffle Worm
+ as 
+bait
+ 
+(see 
+Notes
+ for details)
+. Once the bobber bobs, reeling in the line spawns Duke Fishron, who emerges from the water, pauses for a moment, and then begins attacking the player. Duke Fishron is invulnerable during his summoning animation.
+Duke Fishron himself does not require any bosses to be defeated prior, meaning he can be summoned earlier than his intended stage of progression, and that Truffle Worms brought to a new world can be used to summon him.
+Behavior
+[
+edit
+]
+First phase
+[
+edit
+]
+Duke Fishron lunges at the player exactly five times, traveling through blocks, before using one of two projectile attacks in the following order:
+Duke Fishron blows 21 
+Detonating Bubbles
+[
+5
+]
+ from his mouth that follow the player at moderate speeds before exploding and dealing damage while inflicting the 
+Wet
+ 
+debuff
+ for 3–8 seconds. The Detonating Bubble has the following features:
+Can also be destroyed in a single hit from any attack or projectile.
+Movement is affected by 
+wind
+.
+Hitbox will suddenly increase in size when it explodes (i.e. dealing damage to players further away).
+Duke Fishron will either move to the top left or top right of the player's location before starting this attack. The Sharkron attack has the opposite direction of this attack changes each time Duke Fishron is summoned.
+Duke Fishron waves his fins, summoning two Sharknado Bolts that move in bottom-left and bottom-right directions (bypassing any 
+platforms
+) until they travel 1.5× the vertical size of the screen or land on solid blocks or liquids. The bolts then disperse and spawn Sharknados: giant water tornadoes which are 29 tiles high, last 9 seconds
+[
+6
+]
+, and each fire six 
+Sharkrons
+ directly at the player. Sharkrons have limited flight range, are destroyed upon colliding with blocks, and can be killed directly by the player.
+Second phase
+[
+edit
+]
+When Duke Fishron's health falls below 50% (30,000 / 
+39,000
+ / 
+49,725
+), he remains stationary for a second and transforms (and remains invulnerable to 
+damage
+ while transforming). Upon transitioning into his second phase, Duke Fishron's skin becomes a darker green and his eyes will begin glowing a bright yellow. Duke Fishron's damage and speed increase significantly, but his defense is reduced to 40. His lunges also become faster and are only performed three times instead of five before executing one of his projectile attacks, which are also upgraded:
+Detonating Bubbles are now fired while Duke Fishron flies in quick loops, leaving a trail of bubbles behind him. This attack fires a total of 31 Detonating Bubbles
+[
+7
+]
+, and will start in the same location relative to the player as the first phase's Detonating Bubble attack.
+Duke Fishron now only fires one Sharknado Bolt, but it will quickly home in on the player and create a Cthulunado [
+sic
+] on the ground directly underneath them (if the player is 95 tiles (190 feet) above the surface directly below them, the bolt will instead detonate on top of them). Cthulunados are significantly larger than Sharknados (58 tiles high, 23 tiles wide, 11 tiles from the center), last for 14 seconds
+[
+6
+]
+, and will spawn twice as many Sharkrons while dealing double the contact damage of regular Sharknados. Additionally, the Sharkrons fired from Cthulunados deal higher amounts of damage to the player than they do ordinarily from Sharknados.
+Third phase
+[
+edit
+]
+Expert and Master Mode-Only Content
+: This information applies 
+only
+ to 
+Expert Mode
+, 
+Master Mode
+, and worlds with these modes.
+When Duke Fishron's health is reduced to below 15% (
+11,700
+ / 
+14,917
+), he will stop moving, then transform again as the background becomes covered in a dark, blue fog. Duke Fishron turns invisible, but his eyes still glow. His contact damage is reduced to 
+184
+ / 
+277
+, his defense will drop all the way to 0, and he will only attack by charging at the player, but gains the ability to teleport near them before doing so. Duke Fishron momentarily becomes visible as he is charging at the player, and his charges will be performed in a set pattern:
+First, he will charge once before teleporting to one side of the player.
+Then, he will charge twice, and teleport to the other side of the player.
+Finally, he will charge three times, teleport to one side of the player, and the pattern will reset.
+During this phase, the side he teleports to will always be the opposite side he last dashed towards.
+After being defeated, the background will return to normal.
+Enraged state
+[
+edit
+]
+Straying too far from the surface 
+Ocean
+ area during the fight causes Duke Fishron to "enrage", causing him to lunge at the player continuously, deal double damage, gain double defense, as well as becoming faster and firing more frequent and faster Cthulunados.
+The "surface Ocean area" is limited in both horizontal and vertical directions. The player is only considered to be in this area if they are within the following bounds:
+[
+1
+]
+Horizontal: within 400 tiles from the (unreachable) true world edge (about 360 tiles from the visible world edge).
+Vertical: more than 50 tiles away from the top of the world (about 10 tiles from the visible top of the world), and above the 
+underground
+ layer.
+Debuffs
+[
+edit
+]
+Upon hitting the player in 
+Expert Mode
+ or 
+Master Mode
+, Duke Fishron has a 
+1/3 (33.33%)
+ chance to inflict 
+Bleeding
+ and a 
+1/3 (33.33%)
+ chance to inflict 
+Feral Bite
+. He can only inflict one of the two debuffs at a time, never both at once.
+Despawning
+[
+edit
+]
+Duke Fishron will despawn if all players are dead or if the targeted player is more than 350 tiles away from him.
+[
+1
+]
+Notes
+[
+edit
+]
+Duke Fishron can be summoned by fishing in 
+honey
+ or 
+lava
+ in addition to 
+water
+.
+The following conditions regarding outer circumstances need to be met for being able to summon Duke Fishron:
+[
+8
+]
+The bobber is within 380 tiles from the (unreachable) true world edge (about 340 tiles from the visible world edge).
+This means that Duke Fishron can be summoned at any height.
+The bobber is in a pool of 
+water
+ or 
+lava
+ which is larger than 1000 tiles (following the 
+lake size rules
+) or in a pool of 
+honey
+ which is larger than 668 tiles.
+The usual 
+requirements for fishing in lava
+ (e.g., a 
+Hotline Fishing Hook
+) do not apply when summoning Duke Fishron. He can be summoned from lava with any fishing pole and without special accessories.
+Duke Fishron is currently not alive anywhere in the world.
+While fishing with a 
+Truffle Worm
+ in the 
+Ocean
+ while the 
+Sonar Potion
+'s effect is active, no text is shown for indicating Duke Fishron is about to be summoned.
+In 
+Zenith
+ and 
+Remix
+ worlds, Duke Fishron will drop the 
+Aqua Scepter
+ instead of the Bubble Gun.
+Achievements
+[
+edit
+]
+ 
+Fish Out of Water
+ • 
+“Defeat Duke Fishron, mutant terror of the sea.”
+Defeat 
+Duke Fishron
+ for the first time.
+Category: 
+ Slayer
+ 
+Slayer of Worlds
+ • 
+“Defeat every boss in Terraria.”
+Defeat every 
+boss
+ in the game.
+Category: 
+ Challenger
+Tips
+[
+edit
+]
+For more elaborate strategies on defeating Duke Fishron, including 
+weapon
+ and 
+arena
+ recommendations, see 
+Guide:Duke Fishron strategies
+.
+The player should keep in mind their distance from the 
+Ocean
+ to prevent Duke Fishron from becoming enraged. One option is to build solid blocks around the Ocean boundaries to prevent accidentally enraging him.
+The 
+Inferno Potion
+ can come in handy during this fight to prevent taking any damage from Duke Fishron's Detonating Bubbles. While there is a slight delay between the damage intervals of the Inferno Potion's ring of fire, it is capable of clearing out groups of bubbles all at once.
+Since Detonating Bubbles have a larger damaging area when they explode, the player should still keep some distance from them even when using the Inferno Potion.
+Players can build a platform along the top of the Ocean to avoid sinking. 
+Water Walking Boots
+, their upgrades, or 
+Water Walking Potions
+ can be used as a substitute for platforms.
+Duke Fishron's charges aim for where the player is, not where they will be. Because of this, moving perpendicularly with his charges will cause him to completely miss. Dodging his charges can be as simple as moving in a zig-zag pattern or a triangle, or utilizing 
+dashing
+ equipment such as the 
+Crystal Assassin armor
+, 
+Shield of Cthulhu
+, 
+Tabi
+, or 
+Master Ninja Gear
+. The high mobility of the 
+Winged Slime Mount
+ can help as well.
+Should Duke Fishron and his Cthulunados be hard to see, the player can use 
+Shine Potion
+ and 
+Hunter Potion
+. The 
+Ichor
+ debuff can also be inflicted on the boss to highlight him.
+Using an 
+Anti-Gravity Hook
+ on a block and continuously going in circles can successfully allow dodging every attack and dash from the boss when it is enraged.
+In 
+Expert Mode
+, the Shield of Cthulhu can be used to great effect, providing brief 
+invincibility frames
+ when dashing into him.
+The 
+Chillet
+ mount can be used to a similar effect since it too provides brief invulnerability.
+Due to Duke Fishron's fast speed in its third phase, it is suggested to use 
+platforms
+ in the arena to assist the player's movement.
+Though his difficulty makes him a post-
+Plantera
+ or 
+Golem
+ boss, it is possible to defeat him before the 
+mechanical bosses
+. Obtaining his weapons this early will make a significant portion of Hardmode (including the fights against the mechanical bosses) much easier to progress through.
+If fighting Duke Fishron after at least one 
+mechanical boss
+ has been defeated, and 500 max health has been obtained from 
+Life Fruits
+, crafting 
+Jungle Juice
+ can give a slight edge, as it heals 30 more health than a 
+Greater Healing Potion
+.
+Trivia
+[
+edit
+]
+ 
+Early concept art of Duke Fishron by 
+Lazure
+.
+[
+9
+]
+[
+10
+]
+Duke Fishron was originally part of an 
+April Fools
+' joke by 
+Re-Logic
+ that claimed an "Aquarian Horde" 
+event
+ was to be included in the game.
+[
+9
+]
+ The Duke Fishron element alone ended up being introduced.
+Duke Fishron (and by extension, the 
+Cute Fishron
+) appears to be a combination of a shark, a pig, and a dragon. 
+Cenx
+ confirmed that the 
+Pigron
+ was a cross between the latter two creatures, which further proves this theory.
+Duke Fishron turns transparent when over blocks, similar to Pigrons.
+Duke Fishron's Sharknado attack is an allusion to the 2013 American made-for-television disaster film 
+Sharknado
+.
+The Cthulunado could be a reference to Cthulhu's avatar the "Father of All Sharks".
+[
+11
+]
+The sprite of Duke Fishron's 
+Treasure Bag
+ more closely resembles a pig, as it lacks the fangs that Duke Fishron has.
+Duke Fishron's weapon drops have considerably low 
+reforge
+ costs compared to other weapons in the same stage of progression.
+Duke Fishron is one of three bosses with a corresponding 
+minion
+ (
+Tempest Staff
+), the others being the 
+Martian Saucer
+ (
+Xeno Staff
+) and 
+The Twins
+ (
+Optic Staff
+).
+Duke Fishron is the only boss with three distinct phases, one being 
+Expert Mode
+-exclusive.
+Duke Fishron has an unused attack where he flies in quick loops similar to one of his phase 2 attacks, but does not spawn any Detonating Bubbles.
+[
+12
+]
+Judging by where it is placed within Duke Fishron's AI code, it can be assumed this is an unfinished attack that was intended for the boss' third phase.
+Along with the Empress of Light and 
+Queen Slime
+, Duke Fishron is one of the only 
+Hardmode
+ bosses that does not have to be defeated to progress the game.
+When killed, the 
+gore
+ shows that Duke Fishron has blue blood, similar to the 
+Empress of Light
+. 
+Blue blood
+ is an idiom for noble birth or descent, befitting the boss's title of 
+Duke
+.
+Duke Fishron shares several similarities with the Empress of Light.
+Both are optional bosses intended to be fought post-
+Golem
+, but may be summoned early.
+Their summoning item is a 
+critter
+ that cannot be used directly from the inventory to summon the boss.
+They both drop a set of 
+wings
+ themed after themselves.
+Their gore sprites have blue blood in reference to the title of nobility in their names.
+ The 
+Bestiary
+ entry for  Duke Fishron: 
+"
+An aquatic pigron mutation from the depths of the ocean who surfaces in search of a rare, savory type of worm.
+"
+This suggests that Duke Fishron is a mutated Pigron.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.7
+: Can now drop 
+Kraken
+ with a 
+1/7 (14.29%)
+ chance. All of his other weapon drops also became 1/7.
+Desktop 1.4.5.0
+: 
+Can now drop 
+Electric Eel
+ with a 
+1/6 (16.67%)
+ chance. All of his other weapon drops also became 1/6.
+Fixed Duke Fishron transitioning too quickly from its final ram attack to the Cthulunado/Bubble Circle in phase 2 (does not affect 
+Expert
++ difficulty).
+Desktop 1.4.4
+: 
+Health increased from 50,000 to 60,000.
+Health scaling factor in Expert/Master increased from 1.6× to 1.65×.
+Final Health values have increased from 50,000 / 
+60,000
+ / 
+76,500
+ to 60,000 / 
+78,000
+ / 
+99,000
+.
+Now is invincible after being summoned, and during his phase transitions.
+Fixed an issue where Duke Fishron's Cthulunado would sometimes instantly spawn on the player and hurt them, unavoidably. It should now spawn a certain distance below the player if there is no floor or platforms directly below, allowing the player time to avoid it.
+When enraged, Duke Fishron is much faster, and now fires more frequent and faster Cthulunados.
+Desktop 1.4.0.5
+: Should now properly retarget another player in 
+Multiplayer
+ when the currently targeted player dies or teleports away.
+Desktop 1.4.0.1
+: 
+Changed music track from 
+Boss 1
+ to a new track exclusive to the boss fight, 
+Duke Fishron
+.
+Now drops 
+Pork of the Sea
+ and 
+Duke Fishron Relic
+ in 
+Master Mode
+.
+Now drops 
+25
+ Gold
+ instead of 
+1
+ Gold
+.
+Desktop 1.3.1
+: Highly increased "run away" distance.
+Desktop 1.3.0.1
+: 
+Now drops 
+Treasure Bag
+ in 
+Expert Mode
+.
+A third phase and attack type is also implemented when fighting him in Expert Mode.
+Now becomes enraged when leaving the 
+Ocean
+.
+The color of his gore sprites' blood is changed from red to blue.
+Desktop 1.2.4.1
+: 
+Now drops 
+Greater Healing Potions
+ instead of 
+Lesser Healing Potions
+.
+All of Duke Fishron's weapon now sells for 5 Gold Coins. This will fix the low reforge costs.
+Now only one Duke Fishron can be summoned at a time.
+Desktop 1.2.4
+: Introduced.
+ Console version
+Console 1.07
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.2.11212
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑ 
+1.0
+ 
+1.1
+ 
+1.2
+ 
+1.3
+ 
+1.4
+ 
+1.5
+ 
+1.6
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_069_DukeFishron()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+2.0
+ 
+2.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.5
+ source code, method 
+Kill()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+DropLocalPerClientAndResetsNPCMoneyTo0
+ in 
+Terraria.GameContent.ItemDropRules.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+See 
+Detonating Bubble
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_069_DukeFishron()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+this.ai[0] == 2f
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+6.0
+ 
+6.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+SetDefaults()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_069_DukeFishron()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+this.ai[0] == 7f
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, methods 
+FishingCheck()
+ in 
+Terraria.Projectile.cs
+ and 
+GetFishingPondState()
+ in 
+Terraria.Projectile.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+9.0
+ 
+9.1
+ 
+Duke Fishron and The Aquarian Horde!
+ 
+(archived from the 
+original
+ on 01 Apr 2014, 21:21:38 UTC)
+ 
+April 1, 2014
+↑
+ 
+Lazure
+ on the 
+forums
+: "Oh by the time April 1st came around, I had already done all the artwork for Duke Fishron. The drawing teased that day was my concept when we discussed the boss originally." 
+October 20, 2014
+(
+Comment
+ 
+(archived from the 
+original
+ on 11 Apr 2025, 23:45:52 UTC)
+on a 
+profile post
+ 
+(archived from the 
+original
+ on 11 Apr 2025, 23:10:32 UTC)
+)
+↑
+ 
+List of Great Old Ones
+ on Wikipedia (see Raandaii-B'nk section)
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.9
+ source code, method 
+AI_069_DukeFishron()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+this.ai[0] == 13f
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

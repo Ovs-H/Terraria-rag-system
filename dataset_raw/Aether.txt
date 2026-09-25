@@ -1,0 +1,791 @@
+Source URL: https://terraria.wiki.gg/wiki/Aether
+Title: Aether
+
+Desktop
+/
+Console
+/
+Mobile
+-Only Content
+: This  information applies 
+only
+ to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+ 
+The background effect of the Aether.
+The 
+Aether
+ is a 
+mini-biome
+ that can be found in the outer fifth of the world in the 
+Underground
+ or 
+Cavern
+ layers. It is generated once upon world creation and is always located on the same side of the world as the 
+Jungle
+ biome. The biome features a large pool of 
+Shimmer
+ in its center that is surrounded by a few 
+Gem Trees
+. 
+Faelings
+ occasionally fly above the pool.
+Players can also create artificial Aether biomes by placing Shimmer in the 
+Underground
+ or 
+Cavern
+ layers. An Aether biome requires at least 300 tiles of Shimmer.
+While in the Aether, a unique background effect shows the star-filled sky of 
+Space
+, with multicolored stars, blackening the entire background but the stars. This effect will also display over tiles that are in complete darkness.
+Contents
+[
+edit
+]
+Characters
+Enemies
+:
+Shimmer Slime
+(from most 
+slimes
+ entering 
+Shimmer
+)
+Critters
+:
+Faeling
+Music
+Aether
+Snow (Otherworldly)
+Notes
+[
+edit
+]
+The player is only considered to be in an Aether mini-biome if they are at least 50 tiles below the 
+surface
+ layer and at least 430 tiles above the true bottom 
+world edge
+ (i.e. most parts of the 
+underground
+ and 
+cavern
+ layers), as well as in the vicinity of at least 300 tiles of Shimmer.
+Since a 
+Terraria
+ world is not dynamically updated, worlds generated pre-
+1.4.4
+ will always lack an Aether mini-biome.
+Before defeating the 
+Moon Lord
+, the Aether is the only source of 
+Shimmer
+, meaning it is finite and cannot be replenished.
+However, once defeated, the 
+Bottomless Shimmer Bucket
+ becomes available and can be used to create unlimited Shimmer.
+The 
+Aether Monolith
+ can be used to suppress the background effect of the Aether, as well as replicate it outside of the mini-biome.
+For the purposes of the 
+Aether Pylon
+, the Aether biome will be counted even if it is on the 
+Surface
+ or 
+Underworld
+ layers, where Aether biomes normally cannot exist.
+Rain
+ particles (including those from the 
+Eyebrella
+) will not appear in the Aether.
+The music of the 
+Underground Corruption
+, 
+Underground Crimson
+, and 
+Underground Hallow
+ will not override the Aether's music or its visual effects.
+The 
+Dungeon
+ will suppress the Aether's visual effects.
+Generation
+[
+edit
+]
+ 
+Small world zones where the Aether can generate. The game will first try to generate in the green zone, then the yellow zone if that fails.
+This world was generated in 
+1.4.4.8.1
+ with the seed "1.1.2.436095035".
+ 
+Medium world zones where the Aether can generate. The game will first try to generate in the green zone, then the yellow zone if that fails.
+This world was generated in 
+1.4.4.8.1
+ with the seed "2.1.1.748851262".
+ 
+Large world zones where the Aether can generate. The game will first try to generate in the green zone, then the yellow zone if that fails.
+This world was generated in 
+1.4.4.8.1
+ with the seed "3.1.1.870771933".
+The Aether always generates on the same side of the world as the 
+Jungle
+.
+The game will generate the Aether by randomly selecting a tile in a zone (see below for technical info about this zone's size and the number of generation attempts in the zone)
+[
+1
+]
+; then check a 211×211 to 249×249 (size is determined randomly) rectangular area centered on the chosen tile for the following:
+[
+2
+]
+The borders of the area must be at least 50 tiles away from the world borders.
+The area must have no 
+Ebonstone
+ or 
+Crimstone Blocks
+ (unless in a 
+Remix
+ / 
+Zenith
+ world).
+Note that this is only a generation restriction. The Aether biome still retains all of its functionalities in 
+hybrid biomes
+ that include the 
+Corruption
+/
+Crimson
+.
+If the area passes the check, then the tile is considered valid, and the Aether biome will be generated centered on the tile. Otherwise, continue the process of selecting and checking random tiles. Internally, the Aether biome will be considered a 200×200 rectangular area centered on the valid tile (the bottom-right tile of the four center tiles is the center), and no other structures will overlap with it.
+[
+1
+]
+Zones
+[
+edit
+]
+To better describe the size of the zone, we first set a coordinate system to describe tile location in a world: (all values below are in tiles)
+The coordinates of the top-left tile in the world is (0,0), while the coordinates of the bottom-right tile is (
+mX
+,
+mY
+), where 
+mX
+ is the world width and 
+mY
+ is the world height (i.e. the positive direction of X and Y axis is "left to right" and "top to bottom", respectively).
+The height of the border between Surface and Underground layers is 
+S
+ (Y = 
+S
+).
+Similarly, the height of the border between Underground and Cavern layers is 
+C
+ (Y = 
+C
+).
+When selecting a random tile (X,Y), the respective coordinate will be a random number between these values: X = 
+[X1, X2)
+; Y = 
+[Y1, Y2)
+The size of the first zone is determined as following:
+Zone A
+Y axis:
+Minimum depth is Y1 = 
+(S + C) ÷ 2 + 50
+, and the maximum depth is Y2 = 
+[(mY - 250) × 2 + C] ÷ 3
+.
+If Y2 is more than 
+mY - 460
+, then Y2 is set to 
+mY - 460
+.
+If Y2 ≤ Y1, then Y2 is set to 
+Y1 + 50
+.
+X axis:
+The range is X1 = 
+200
+, X2 = 
+mX × 0.11
+; or X1 = 
+mX × 0.89
+, X2 = 
+mX - 200
+, depending on the side of the world.
+This effectively makes the selected tile in the outer 11% of the world, and at least 200 tiles away from the world borders.
+Then, randomly select a tile inside Zone A. If it failed to pass the check mentioned above, then the game will try 20000 times to find a valid tile inside another zone (Zone B):
+Zone B
+Y axis:
+Y1 is set to 
+(S + C) ÷ 2 + 20
+. Y2 is unchanged.
+X axis:
+X1 and X2 are unchanged.
+If those attempts all failed, then the game will continue to select random tiles in another zone (Zone C), until a valid tile is found:
+Zone C
+Y axis:
+Y1 is set to 
+S + 120
+. Y2 is unchanged.
+X axis:
+Range is set to X1 = 
+200
+, X2 = 
+mX × 0.2
+; or X1 = 
+mX × 0.8
+, X2 = 
+mX - 200
+, depending on the side of the world.
+Celebration Mk 10
+ Zones
+In 
+Celebration Mk 10
+ worlds, the first scanning zone is different from other worlds. Also, in addition to the Aether biome, most 
+water
+ pools in this zone are replaced with Shimmer pools.
+The size of the first zone (Zone A) in a Celebrationmk10 world is determined as following:
+Y axis:
+Minimum depth is Y1 = 
+S + 150
+, and the maximum depth is Y2 = 
+(C + S + 200) ÷ 2
+.
+If Y2 ≤ Y1, then Y2 is set to 
+Y1 + 50
+.
+X axis:
+Same as the range of Zone A in other worlds.
+Process generation
+After determining the zones, the game will first try 10,000 times in Zone A.
+If no valid tile is found, then try another 10,000 times in Zone B.
+If still no valid tile found, then continue to select random tiles in Zone C.
+Tips
+[
+edit
+]
+ 
+A detailed guide on finding The Aether. Note the disclaimers. 
+DDU
+ and 
+GFB
+ stand for 
+Remix
+ and 
+Zenith
+ respectively.
+The 
+Guide
+'s name can be used to find the Aether's horizontal location upon world creation.
+Note that this method may not always work, as it only calculates the position of the first generation zone (Zone A). Since the Aether cannot overlap with 
+Ebonstone
+ or 
+Crimstone Blocks
+ in regular worlds, if it fails to generate in Zone A, it will generate in another zone, rendering this method invalid.
+If the original Guide has died, a world with the same 
+World Seed
+ can be created to find the original Guide's name.
+This will never work on 
+For the Worthy
+ worlds, even when using the correct name order of the 
+Demolitionist
+ instead. 
+[
+3
+]
+First, find the number (
+n
+) corresponding to the Guide's name (the numbers are in the table 
+below
+).
+Then, substitute 
+n
+ into the equation in the table below to calculate the horizontal location of the Aether biome shown on the 
+Compass
+ (in feet, 1 tile = 2 feet). Note that the Aether is always on the same side of the world as the 
+Jungle
+.
+Small
+Medium
+Large
+Jungle on the left side of the world
+3800 - 524 × 
+n
+6000 - 1008 × 
+n
+8000 - 1448 × 
+n
+Jungle on the right side of the world
+3276 + 524 × 
+n
+4992 + 1008 × 
+n
+6552 + 1448 × 
+n
+The completed list of possible Aether's horizontal locations in the table below.
+Guide Name
+n
+Small
+Medium
+Large
+Left
+Right
+Left
+Right
+Left
+Right
+Joe
+0.0000
+3800
+3276
+6000
+4992
+8000
+6552
+Connor
+0.0278
+3785
+3291
+5972
+5020
+7960
+6592
+Tanner
+0.0566
+3770
+3306
+5943
+5049
+7918
+6634
+Wyatt
+0.0833
+3756
+3320
+5916
+5076
+7879
+6673
+Cody
+0.1111
+3742
+3334
+5888
+5104
+7839
+6713
+Levi
+0.1389
+3727
+3349
+5860
+5132
+7799
+6753
+Luke
+0.1667
+3713
+3363
+5832
+5160
+7759
+6793
+Jack
+0.1944
+3698
+3378
+5804
+5188
+7719
+6833
+Scott
+0.2222
+3684
+3392
+5776
+5216
+7678
+6874
+Logan
+0.2500
+3669
+3407
+5748
+5244
+7638
+6914
+Cole
+0.2778
+3654
+3422
+5720
+5272
+7598
+6954
+Asher
+0.3056
+3640
+3436
+5692
+5300
+7557
+6995
+Bradley
+0.3333
+3625
+3451
+5664
+5328
+7517
+7035
+Jacob
+0.3611
+3611
+3465
+5636
+5356
+7477
+7075
+Garrett
+0.3889
+3596
+3480
+5608
+5384
+7437
+7115
+Dylan
+0.4167
+3582
+3494
+5580
+5412
+7397
+7155
+Maxwell
+0.4444
+3567
+3509
+5552
+5440
+7357
+7195
+Steve
+0.4722
+3553
+3523
+5524
+5468
+7316
+7236
+Brett
+0.5000
+3538
+3538
+5496
+5496
+7276
+7276
+Andrew
+0.5278
+3523
+3553
+5468
+5524
+7236
+7316
+Harley
+0.5556
+3509
+3567
+5440
+5552
+7195
+7357
+Kyle
+0.5833
+3494
+3582
+5412
+5580
+7155
+7397
+Jake
+0.6111
+3480
+3596
+5384
+5608
+7115
+7437
+Ryan
+0.6389
+3465
+3611
+5356
+5636
+7075
+7477
+Jeffrey
+0.6667
+3451
+3625
+5328
+5664
+7035
+7517
+Seth
+0.6944
+3436
+3640
+5300
+5692
+6995
+7557
+Marty
+0.7222
+3422
+3654
+5272
+5720
+6954
+7598
+Brandon
+0.7500
+3407
+3669
+5244
+5748
+6914
+7638
+Zach
+0.7778
+3392
+3684
+5216
+5776
+6874
+7678
+Jeff
+0.8056
+3378
+3698
+5188
+5804
+6833
+7719
+Daniel
+0.8333
+3363
+3713
+5160
+5832
+6793
+7759
+Trent
+0.8611
+3349
+3727
+5132
+5860
+6753
+7799
+Kevin
+0.8889
+3334
+3742
+5104
+5888
+6713
+7839
+Brian
+0.9167
+3320
+3756
+5076
+5916
+6673
+7879
+Colin
+0.9444
+3305
+3771
+5048
+5944
+6633
+7919
+Jan
+0.9722
+3291
+3785
+5020
+5972
+6592
+7960
+Building a 
+town
+ in the Aether can prove worthwhile to passively collect 
+gems
+ in moderate amounts. 
+Gem critters
+ spawn aplenty near 
+town NPCs
+ in the 
+Cavern
+ layer and are 
+transmuted
+ into 
+gems
+ when they walk into the 
+Shimmer
+. A 
+Water Candle
+ and 
+Battle Potion
+ can help increase critter 
+spawn rates
+.
+Trivia
+[
+edit
+]
+In 
+Greek mythology
+, 
+Aether
+ is the personification of the bright upper sky.
+The Aether's name uses the archaic spelling of the word 
+æther
+, with the Latin letter 
+æ
+ separated. In modern English, 
+aether
+ is normally spelled 
+ether
+.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.7
+: Fixed the Aether biome sometimes generating without 
+Shimmer
+.
+Desktop 1.4.5.0
+: 
+The Aether's visual effects are now suppressed when in the 
+Dungeon
+.
+Gem Trees
+ now generate in the Aether biome.
+Desktop 1.4.4.4
+: Fixed it being possible for the Aether to spawn too high up in worldgen to properly form its visual effects.
+Desktop 1.4.4
+: Introduced.
+ Console version
+Console 1.4.4
+: Introduced.
+ Nintendo Switch version
+Switch 1.4.4
+: Introduced.
+ Mobile version
+Mobile 1.4.4
+: Introduced.
+References
+[
+edit
+]
+↑ 
+1.0
+ 
+1.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.5
+ source code, method 
+GenerateWorld()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.5
+ source code, method 
+ShimmerMakeBiome()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, method 
+NewNPC()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Biomes
+ and Structures
+Surface Layers
+Pure biomes
+Forest
+Space
+Desert
+Ocean
+Snow
+Jungle
+Glowing Mushroom
+Evil biome
+The Corruption
+The Crimson
+The Hallow
+Underground Layers
+Pure biomes
+Underground
+Cavern
+Dungeon
+Ice
+Underground Desert
+Underground Jungle
+Underground Mushroom
+Underground Corruption
+Underground Crimson
+Underground Hallow
+The Underworld
+Mini-Biomes
+The Aether
+Bee Hive
+Granite Cave
+Graveyard
+Jungle Temple
+Marble Cave
+Meteorite
+Oasis
+Spider Nest
+Structures and 
+Other Biomes
+Chasm
+Enchanted Sword Shrine
+Floating Island
+Jungle Shrine
+Living Tree
+Living Mahogany Tree
+Pyramid
+Ruined House
+Underground Cabin

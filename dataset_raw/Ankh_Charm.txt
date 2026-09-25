@@ -1,0 +1,1124 @@
+Source URL: https://terraria.wiki.gg/wiki/Ankh_Charm
+Title: Ankh_Charm
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Ankh Charm
+.
+Ankh Charm
+Statistics
+Type
+Accessory
+Crafting material
+Tooltip
+Grants immunity to most debuffs
+Rarity
+Sell
+3
+ Gold
+Research
+1 required
+Internal 
+Item ID
+: 
+1612
+ 
+The 
+Ankh Charm
+ is a 
+Hardmode
+ 
+immunity accessory
+ that grants the player immunity to the following 
+debuffs
+:
+Bleeding
+Broken Armor
+Confused
+Cursed
+Darkness
+Poisoned
+Silenced
+Slow
+Stoned
+Weak
+Crafting
+[
+edit
+]
+Recipes
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Ankh Charm
+Armor Bracing
+Medicated Bandage
+The Plan
+Countercurse Mantra
+Reflective Shades
+(Desktop, Console and Mobile versions)
+Tinkerer's Workshop
+Crafting tree
+[
+edit
+]
+ 
+Blindfold
+( 
+ 
+ 
+ 
+ 
+ )
+Vitamins
+( 
+ 
+ )
+Adhesive Bandage
+( 
+ 
+ 
+ )
+Nazar
+( 
+ 
+ 
+ 
+ 
+ )
+Trifold Map
+( 
+ 
+ 
+ )
+ 
+ 
+Pocket Mirror
+( 
+ )
+Armor Polish
+( 
+ 
+ )
+Bezoar
+( 
+ 
+ 
+ )
+Megaphone
+( 
+ 
+ 
+ 
+ )
+Fast Clock
+( 
+ 
+ 
+ )
+ 
+ 
+ 
+Reflective Shades
+Armor Bracing
+Medicated Bandage
+Countercurse Mantra
+The Plan
+ 
+ 
+ 
+Ankh Charm
+Used in
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Ankh Shield
+Obsidian Shield
+Ankh Charm
+Tinkerer's Workshop
+Tips
+[
+edit
+]
+Since the Ankh Charm removes existing debuffs immediately when equipped, to save up an accessory slot for other accessories, the player can equip the Ankh Charm in another 
+loadout
+ and switch to it when necessary. Vanity slots will also work.
+Trivia
+[
+edit
+]
+A real ankh
+The 
+Ankh
+, the 
+ancient Egyptian
+ 
+hieroglyphic symbol
+ that is depicted on the item, was most commonly used in writing and in art to represent the word for "life" and, by extension, as a symbol of life itself. The Ankh symbol is seen in many depictions of Egyptian deities, where it symbolized eternal life. These deities were depicted as holding the Ankh by the loop at the top.
+This symbol also appears on the 
+Ruinous Staff
+.
+This item appears to be an 
+omamori
+, a Japanese 
+Shinto
+ charm made of decorative paper, designed to bring good luck and protection to its wearer. Omamori commonly have a pentagonal shape and feature a written prayer in the center, similar to how the Ankh symbol appears in the center of the Ankh Charm. The hole at the top of an omamori would be used to put a string through, so that the charm could be worn like a necklace or hung off of an outfit or on one's home.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.4
+: 
+Now provides immunity to the 
+Stoned
+ debuff.
+Now crafted with the 
+Reflective Shades
+ instead of the 
+Blindfold
+.
+Desktop 1.3.0.1
+: Sprite updated.
+Desktop 1.2.2
+: Fixed so that it no longer drops when trying to record the 
+Pumpkin Moon
+ theme.
+Desktop 1.2
+: Introduced.
+ Console version
+Console 1.02
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.2.6508
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+View or edit this template
+Hardmode Accessories
+Black Belt
+Tabi
+Master Ninja Gear
+Wings
+Neptune's Shell
+Moon Charm
+Moon Shell
+Warrior Emblem
+Ranger Emblem
+Sorcerer Emblem
+Summoner Emblem
+Avenger Emblem
+Destroyer Emblem
+Celestial Emblem
+Sun Stone
+Moon Stone
+Celestial Stone
+Celestial Shell
+Eye of the Golem
+Titan Glove
+Power Glove
+Berserker's Glove
+Mechanical Glove
+Fire Gauntlet
+Philosopher's Stone
+Charm of Myths
+Putrid Scent
+Magic Quiver
+Stalker's Quiver
+Molten Quiver
+Rifle Scope
+Sniper Scope
+Recon Scope
+Hercules Beetle
+Papyrus Scarab
+Necromantic Scroll
+Arcane Flower
+Star Cloak
+Bee Cloak
+Chromatic Cloak
+Mana Cloak
+Armor Polish
+Blindfold
+Fast Clock
+Pocket Mirror
+Trifold Map
+Armor Bracing
+Reflective Shades
+The Plan
+Vitamins
+Ankh Charm
+Ankh Shield
+Cross Necklace
+Star Veil
+Flesh Knuckles
+Frozen Turtle Shell
+Paladin's Shield
+Hero Shield
+Frozen Shield
+Discount Card
+Lucky Coin
+Gold Ring
+Coin Ring
+Greedy Ring
+Music Box
+View or edit this template
+Equipable Items:
+Armor
+Accessories
+ 
+(
+Combat
+)
+Vanity
+ 
+(
+Accessories
+Dyes
+)
+Armor
+Pre-Hardmode
+Wood
+Wood
+Boreal
+Palm
+Rich Mahogany
+Ebonwood
+Shadewood
+Ash
+Ore
+Copper
+Tin
+Iron
+Ancient Helmet
+Lead
+Silver
+Tungsten
+Gold
+Ancient Helmet
+Platinum
+Meteor
+Shadow
+Ancient
+Crimson
+Molten
+Wizard Set
+Robes
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Amber
+Mystic
+Hats
+Magic
+Wizard
+Single Pieces
+Empty Bucket
+Dead Man's Sweater
+Diving Helmet
+Flinx Fur Coat
+Gi
+Goggles
+Moon Lord Legs
+Night Vision Helmet
+Ultrabright Helmet
+Viking Helmet
+Other
+Angler
+Bee
+Cactus
+Snow
+Pink
+Fossil
+Gladiator
+Jungle
+Ancient Cobalt
+Mining
+Necro
+Ancient Helmet
+Ninja
+Obsidian
+Pumpkin
+Rain
+Hardmode
+Wood
+Pearlwood
+Ore
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Hallowed
+Ancient
+Chlorophyte
+Single Pieces
+Djinn's Curse
+Pre-
+Plantera
+Captain
+Crystal Assassin
+Frost
+Forbidden
+Prospector
+Spider
+Turtle
+Apprentice
+Huntress
+Monk
+Squire
+Post-
+Plantera
+Beetle
+Tiki
+Shroomite
+Spectre
+Spooky
+Dark Artist
+Red Riding
+Shinobi Infiltrator
+Valhalla Knight
+Vortex
+Nebula
+Stardust
+Solar Flare
+Accessories
+Movement
+Speed
+Aglet
+Anklet of the Wind
+Magiluminescence
+Footwear
+Amphibian
+Dunerider
+Fairy
+Flurry
+Frostspark
+Hellfire
+Hermes
+Lightning
+Sailfish
+Spectre
+Tabi
+Terraspark
+Panic Necklace
+Sweetheart Necklace
+Air
+Balloons
+Amber Horseshoe
+Pufferfish
+Blizzard
+Blue Horseshoe
+Bundle
+Bundle of Horseshoe
+Cloud
+Fart
+Green Horseshoe
+Honey
+Pink Horseshoe
+Sandstorm
+Sharkron
+Shiny Red
+White Horseshoe
+Yellow Horseshoe
+Boots
+Amphibian
+Fairy
+Frostspark
+Hellfire
+Lightning
+Rocket
+Spectre
+Terraspark
+Bottles
+Blizzard
+Cloud
+Fart
+Sandstorm
+Tsunami
+Flying Carpet
+Frog Leg
+Soaring Insignia
+Wings (All Types)
+Hoverboard
+Celestial Starboard
+Chippy's Cloak
+Water
+Diving Gear
+Arctic
+Jellyfish
+Flipper
+Frog
+Inner Tube
+Neptune's Shell
+Water Walking Boots
+Obsidian
+Lava Waders
+Other
+Climbing Claws
+Gravity Globe
+Ice Skates
+Lucky Horseshoe
+Obsidian
+Master Ninja Gear
+Obsidian Rose
+Obsidian Skull Rose
+Molten Skull Rose
+Shoe Spikes
+Tiger Climbing Gear
+Frog Webbing
+Frog Gear
+Informational
+Watches
+Copper
+Tin
+Silver
+Tungsten
+Gold
+Platinum
+Compass
+Depth Meter
+GPS
+Fisherman's Pocket Guide
+Weather Radio
+Sextant
+Fish Finder
+Metal Detector
+Stopwatch
+DPS Meter
+Goblin Tech
+Tally Counter
+Lifeform Analyzer
+Radar
+R.E.K. 3000
+PDA
+Ruler
+Mechanical Ruler
+Mechanical Lens
+Construction
+Ancient Chisel
+Extendo Grip
+Toolbelt
+Toolbox
+Brick Layer
+Portable Cement Mixer
+Paint Sprayer
+Architect Gizmo Pack
+Presserator
+Spectre Goggles
+Hand Of Creation
+FPV Goggles
+Fishing
+Angler Earring
+Angler Tackle Bag
+Lavaproof
+Fishing Bobbers
+Regular
+Lava Moss
+Krypton Moss
+Xenon Moss
+Argon Moss
+Neon Moss
+Helium Moss
+High Test Fishing Line
+Lavaproof Fishing Hook
+Tackle Box
+Other
+Guide Voodoo Doll
+Clothier Voodoo Doll
+Discount Card
+Flame Waker Boots
+Flower Boots
+Gold Ring
+Coin
+Greedy
+Golf Balls
+Guide to Plant Fiber Cordage
+Jellyfish Necklace
+Lucky Coin
+Music Box
+Radio Thing
+Step Stool
+Stress Ball
+Treasure Magnet
+Developer
+ Accessories
+Arkhalis' Lightwings
+Cenx's Wings
+Chicken Bones' Robe
+Chicken Bones' Wings
+Crowno's Wings
+D-Town's Wings
+FoodBarbarian's Tattered Dragon Wings
+Ghostar's Infinity Eight
+Grox The Great's Wings
+Jim's Wings
+Kazzymodus' Wings
+Lazure's Barrier Platform
+Leinfors' Luxury Shampoo
+Leinfors' Prehensile Cloak
+Loki's Wings
+Luna's Runic Pixie Cloak
+Luna's Runic Pixie Wings
+Red's Wings
+Safeman's Blanket Cape
+Skiphs' Paws
+Will's Wings
+Yoraiz0r's Scowl
+Yoraiz0r's Spell
+Combat Accessories
+Offensiveness
+Melee
+General
+Magma Stone
+Warrior Emblem
+Gloves
+Feral Claws
+Power Glove
+Titan Glove
+Berserker's Glove
+Mechanical Glove
+Fire Gauntlet
+Yoyos
+Counterweight
+Strung
+String
+Magic
+Yoyo Bag
+Magic
+Yoyo Glove
+Ranged
+General
+Chaos Cylinder
+Ranger Emblem
+Snapping Stone
+Bows
+Magic Quiver
+Molten
+Phoenix
+Stalker's
+Harpy Charm
+Poison Barb
+Guns
+Rifle Scope
+Sniper
+Recon
+Magic
+General
+Celestial Emblem
+Sorcerer Emblem
+Mana
+Band of Starpower
+Celestial Magnet
+Magic Cuffs
+Celestial
+Mana Cloak
+Mana Flower
+Arcane
+Magnet
+Mana Regeneration Band
+Nature's Gift
+Summon
+General
+Summoner Emblem
+Hercules Beetle
+Minions
+Pygmy Necklace
+Necromantic Scroll
+Papyrus Scarab
+Whips
+Mobius Strip
+Snake Band
+Ouroboros Ring
+Druidic Serpent Cloak
+Wicked Armlet
+Armlet Of Ruin
+Wicked Claws
+Twilight Grasp
+Silver Bracer
+Silver Shield
+Sentries
+Old One's Army accessories
+Heavy Sling
+Royal Guard's Harness
+Scout's Sling
+Templar's Sling
+Other
+Avenger Emblem
+Bee Cloak
+Bone Glove
+Bone Helm
+Celestial Shell
+Celestial Stone
+Destroyer Emblem
+Eye of the Golem
+Hive Pack
+Honey Comb
+Moon Charm
+Moon Shell
+Moon Stone
+Putrid Scent
+Ram Rune
+Shark Tooth Necklace
+Shield of Cthulhu
+Star Cloak
+Stinger Necklace
+Sun Stone
+Volatile Gelatin
+Debuffs
+Catalyst Band
+Pyroclastic Stone
+Spore Sac
+Sweet Barb
+Survivability
+Debuff
+ Protection
+Adhesive Bandage
+Ankh Charm
+Ankh Shield
+Armor Bracing
+Armor Polish
+Bezoar
+Blindfold
+Countercurse Mantra
+Fast Clock
+Hand Warmer
+Medicated Bandage
+Megaphone
+Nazar
+Obsidian Skull
+Magma
+Pocket Mirror
+Reflective Shades
+The Plan
+Trifold Map
+Vitamins
+Shields
+Ankh
+Cobalt
+Frozen
+Hero
+Obsidian
+Paladin's
+Restoration
+Silver
+Healing
+Band of Regeneration
+Charm of Myths
+Philosopher's Stone
+Shiny Stone
+Other
+Black Belt
+Brain of Confusion
+Chromatic Cloak
+Cross Necklace
+Crossed Heart Necklace
+Seraph Necklace
+Flesh Knuckles
+Frozen Turtle Shell
+Lava Charm
+Molten
+Mystic Arts Sash
+Royal Gel
+Shackle
+Star Veil
+Worm Scarf
+Vanity
+Single Pieces
+Head
+Balla Hat
+Beanie
+Boss Mask
+Bunny Hood
+Demon Horns
+Devil Horns
+Engineering Helmet
+Eyebrella
+Fake Unicorn Horn
+Fedora
+Fez
+Fish Bowls
+Gangsta Hat
+Garland
+Giant Bow
+Goblorc Ears
+Crowns
+Gold
+Platinum
+Green Cap
+Guy Fawkes Mask
+Hallowed Crown
+Heart Hairpin
+HiTek Sunglasses
+Jack 'O Lantern Mask
+Jim's Cap
+Mime Mask
+Moon Mask
+Mushroom Cap
+Panda Ears
+Party Hat
+Peddler's Hat
+Rabbit Perch
+Reindeer Antlers
+Red Hat
+Robot Hat
+Rock Golem Head
+Skull
+Snow Hat
+Star Hairpin
+Summer Hat
+Sunglasses
+Sun Mask
+SWAT Helmet
+Tam O' Shanter
+Umbrella Hat
+Vulkelf Ears
+Body
+Kimono
+Moon Lord Torso
+Red Swimsuit
+Robe
+Ugly Sweater
+Legs
+Gray Swimshorts
+Green Swimshorts
+Sets
+Ancient
+Archaeologist's
+Bee
+Blue Bikini
+Bunny
+Chef
+Clown
+Country Club
+Cowboy
+Cultist
+Dog
+Familiar
+Firestarter's
+Fish Costume
+Fox
+Funeral
+Gentleman's
+Graduation
+Black
+Blue
+Maroon
+Gravedigger
+Hero's
+Heroicis'
+Lamia
+Lilac Dusk
+Lizard
+Maid
+Pink
+Master Gamer's
+Mermaid
+Mummy
+Mushroom
+Pal Metal
+Pharaoh's
+Plumber's
+Pretty Pink
+Prince
+Princess
+Raynbro's
+Royal
+Rune
+Star Princess
+Superhero
+Victorian Goth
+The Beheaded's
+The Doctor's
+NPC
+ set
+Clothier's
+Cyborg
+Dryad
+Dye Trader's
+Nurse
+Pirate
+Steampunk
+Goggles
+Tax Collector's
+Wizard's Hat
+Event Sets
+Party
+Silly Sunflower
+Blood Moon
+Tuxedo
+Fallen
+White
+Wedding
+Pirate Invasion
+Buccaneer
+Sailor
+Eye Patch
+Solar Eclipse
+Butcher's
+Dr. Man Fly
+Martian Madness
+Martian Costume
+Martian Uniform
+Halloween
+Bride of Frankenstein
+Cat
+Ears
+Creeper
+Fox
+Ghost
+Karate Tortoise
+Leprechaun
+Pixie
+Princess
+Pumpkin
+Reaper
+Robot
+Scarecrow
+Space Creature
+Treasure Hunter
+Unicorn
+Witch
+Wolf
+Vampire
+Christmas
+Elf
+Mrs. Claus
+Parka
+Santa
+Tree
+Streamer items
+Badger's Hat
+Pedguin's
+0x33's Aviators
+Dizzy's Rare Gecko Chester
+Chippy's
+Headband
+Vanity contest sets
+Plaguebringer's
+Wandering
+Timeless Traveler's
+Floret Protector
+Capricorn
+TV Head
+Developer Sets
+Aaron's
+Arkhalis's
+Cenx's
+Cenx's Dress
+Chicken Bones'
+Crowno's
+D-Town's
+FoodBarbarian's
+Ghostar's
+Grox The Great's
+Jim's
+Kazzymodus'
+Lazure's
+Leinfors'
+Loki's
+Luna's
+Red's
+Safeman's
+Skiphs'
+Will's
+Yoraiz0r's
+Vanity Accessories
+Visual
+Jungle Rose
+Winter Cape
+Mysterious Cape
+Red Cape
+Crimson Cloak
+Hunter Cloak
+Angel Halo
+Ginger Beard
+Diamond Ring
+Bundled Party Balloons
+Balloon Animal
+Critter Shampoo
+Rainbow Cursor
+Royal Scepter
+Glass Slipper
+Monoliths
+Echo Chamber
+Welding Mask
+Voice Accessories
+Balloony Beads
+Cat Chime
+Chicken Charm
+Cow Bell
+Crow's Beak
+Dog Collar
+Fairy Choker
+Froggy Neckband
+Goat's Tuft
+Grim Old Barb
+Mean Goblin's Spikes
+Old Companion Locket
+Turkey Wattle Necklace
+Vampire Pendant
+Whoopie Cushion
+Dyes
+Basic Dyes
+Red
+Orange
+Yellow
+Lime
+Green
+Teal
+Cyan
+Sky Blue
+Blue
+Purple
+Violet
+Pink
+Brown
+Silver
+Black
+Team
+Bloodbath
+Fogbound
+Prismatic
+Combined Dyes
+Bright
+Red
+Orange
+Yellow
+Lime
+Green
+Teal
+Cyan
+Sky Blue
+Blue
+Purple
+Violet
+Pink
+Brown
+Silver
+Multi-colored
+Black and White
+Flame
+Red
+Blue
+Green
+Gradient
+Yellow
+Cyan
+Violet
+Rainbow
+Compound Dyes
+Intense
+Red
+Blue
+Green
+Rainbow
+W/ Silver Dye
+Red
+Orange
+Yellow
+Lime
+Green
+Teal
+Cyan
+Sky Blue
+Blue
+Purple
+Violet
+Pink
+Brown
+Red Flame
+Blue Flame
+Green Flame
+W/ Black Dye
+Red
+Orange
+Yellow
+Lime
+Green
+Teal
+Cyan
+Sky Blue
+Blue
+Purple
+Violet
+Pink
+Brown
+Silver
+Red Flame
+Blue Flame
+Green Flame
+Strange Plant Dyes
+Acid
+Blue
+Red
+Chlorophyte
+Gel
+Gel
+Glowing Mushroom
+Grim
+Hades
+Burning
+Shadowflame
+Living
+Flame
+Ocean
+Rainbow
+Martian
+Midnight Rainbow
+Mirage
+Negative
+Phase
+Pixie
+Purple Ooze
+Reflective
+Reflective Copper
+Reflective Gold
+Reflective Metal
+Reflective Obsidian
+Reflective Silver
+Shadow
+Shifting Sands
+Shifting Pearlsands
+Twilight
+Wisp
+Infernal
+Unicorn
+Developer
+Loki's
+Skiphs' Blood
+Lunar Dyes
+Vortex
+Nebula
+Stardust
+Solar
+Void

@@ -1,0 +1,2409 @@
+Source URL: https://terraria.wiki.gg/wiki/Guide
+Title: Guide
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Guide
+.
+Guide
+Map icon
+Dialogue portrait
+ Classic
+ Expert
+ Master
+Statistics
+Type
+NPC
+Environment
+ Surface 
+ Valid house 
+ Forest 
+AI Type
+Passive AI
+Damage
+8
+12
+14
+ 
+(arrows)
+ 
+[
+1
+]
+Max Life
+250
+Defense
+30
+KB
+ Resist
+50%
+Drops
+Item 
+(Quantity)
+Rate
+Green Cap
+ 
+(Only if name is Andrew)
+100%
+Projectiles created
+Projectiles created
+Projectiles created
+Wooden Arrow (friendly)
+Fire Arrow
+Sounds
+Hurt
+Killed
+Internal 
+NPC ID
+: 
+22
+Internal 
+Projectile ID
+: 
+1
+, 
+2
+“
+I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.
+— 
+ The 
+Guide
+This article is about the NPC. For guide articles, see 
+Terraria Wiki:Projects/Guides
+. For other uses, see 
+Guide (disambiguation)
+. 
+The 
+Guide
+ is usually the first 
+NPC
+ a player encounters. He spawns near the player when the 
+world
+ is created. He provides tips mainly aimed at new players via the “
+Help
+” option and displays 
+crafting recipes
+ (including the 
+crafting station
+ required) of items shown to him via the “
+Crafting
+” option.
+Unlike most other NPCs, the Guide spawns upon world creation, before a 
+house
+ is available. He will, however, move into the first house built. If he is killed, a proper house will need to be built before he can respawn, but he has no additional requirements.
+The Guide will defend himself against nearby 
+enemies
+ using a 
+Wooden Bow
+, firing 
+Wooden Arrows
+ initially and then upgrading to 
+Flaming Arrows
+ during 
+Hardmode
+. He deals 8 / 
+12
+ / 
+14
+ damage at the start of the game, and gains 
+various stat boosts
+ as the player progresses.
+[
+1
+]
+Living preferences
+[
+edit
+]
+Biome
+Neighbor
+Loves
+n/a
+n/a
+Likes
+Forest
+Princess
+Clothier
+Zoologist
+Dislikes
+Ocean
+Steampunker
+Hates
+n/a
+Painter
+For more information, see 
+NPC happiness
+.
+Shimmered form
+[
+edit
+]
+Shimmered Guide
+Map icon
+Portrait
+When submerged in 
+Shimmer
+ or sprayed with the 
+Shimmer Gun
+, the Guide will transform into his Shimmered form. This has no impact on gameplay or dialogue and is only a visual change. He can be returned to his classic look by submerging him in Shimmer again or spraying him with the Shimmer Gun again.
+Notes
+[
+edit
+]
+(Desktop version)
+ When checking condition for name-based NPC drops, the game specifically requires the NPC's name to be using the corresponding localization string.
+[
+2
+]
+ The game's translation and 
+Resource Packs
+ will 
+not
+ affect name-based item drops: the Guide can only drop the 
+Green Cap
+ if he is originally named 
+Andrew
+. Using a Resource Pack that changes this name does not prevent it from dropping, and changing any other names of the Guide to 
+Andrew
+ does not qualify for item drop.
+While NPCs cannot usually be attacked directly by players, the 
+Guide Voodoo Doll
+ will allow players to attack the Guide.
+This trait is shared with the 
+Clothier
+ with the 
+Clothier Voodoo Doll
+.
+Killing the Guide in 
+The Underworld
+ via the use of a Guide Voodoo Doll, or allowing the Guide to die in the Underworld while he is in contact with 
+lava
+, will summon the 
+Wall of Flesh
+.
+[
+3
+]
+The Guide, like any other friendly NPC, will not respawn unless it is 
+daytime
+.
+The stats of 
+weapons
+ shown in the Guide's crafting recipe list use adjusted 
+damage
+ and 
+critical strike chance
+ based on any bonuses the player currently has equipped, such as the 
+Molten armor
+'s set bonus. Un-equipping items that adjust damage and critical strike chance while speaking to the Guide allows seeing the base values.
+Killing the Guide grants the player a minor, temporary 
+luck
+ boost 
+(see 
+Luck § Ladybug luck
+ for details)
+.
+The Guide does not provide information about 
+Shimmer transmutations
+ of items.
+The Guide provides hints on how to summon every boss, with the exception of 
+Queen Slime
+ and the 
+Empress of Light
+.
+The Guide is replaced as the starting NPC by various other NPCs in 
+special world seeds
+ and 
+secret world seeds
+:
+The 
+Demolitionist
+ is the starting NPC in 
+For the Worthy
+ worlds.
+The 
+Party Girl
+ is the starting NPC in 
+Drunk
+ worlds.
+The 
+Merchant
+ is the starting NPC in 
+Not the Bees
+ worlds.
+The 
+Tax Collector
+ is the starting NPC in 
+Remix
+ worlds.
+The 
+Zoologist
+ is the starting NPC in 
+Vampirism
+ worlds.
+Achievements
+[
+edit
+]
+ 
+Real Estate Agent
+ • 
+“Have all possible town NPCs living in your world.”
+House every 
+town NPC
+ in your world.
+Category: 
+ Challenger
+ 
+No Hobo
+ • 
+“Build a house suitable enough for your first town NPC, such as the guide, to move into.”
+Successfully get an 
+NPC
+ to move into your first 
+house
+.
+Category: 
+ Explorer
+Tips
+[
+edit
+]
+Considering there are no downsides to having the Guide 
+unhappy
+, the player could simply put the Guide anywhere in the world without any consequences. The best place for the Guide is the 
+Glowing Mushroom biome
+ with the 
+Truffle
+, who loves the Guide.
+Names
+[
+edit
+]
+The Guide may have any of the following names:
+Andrew
+Asher
+Bradley
+Brandon
+Brett
+Brian
+Cody
+Cole
+Colin
+Connor
+Daniel
+Dylan
+Garrett
+Harley
+Jack
+Jacob
+Jake
+Jan
+Jeff
+Jeffrey
+Joe
+Kevin
+Kyle
+Levi
+Logan
+Luke
+Marty
+Maxwell
+Ryan
+Scott
+Seth
+Steve
+Tanner
+Trent
+Wyatt
+Zach
+Advice
+[
+edit
+]
+The Guide displays one of the lines listed below when his “
+Help
+” option is selected. He cycles through the lines when the option is selected repeatedly. Much of his advice text depends on the player's current game progression.
+[
+4
+]
+Some lines may vary depending on what 
+game platform
+ 
+Terraria
+ is played on.
+If there are no tools
+[
+a
+]
+ in the player's inventory:
+“
+You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just place your cursor over the tile and click!
+”
+“
+If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.
+”
+“
+Press 
+Inventory
+ to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.
+”
+“
+You can build a shelter by placing wood or other blocks in the world. Don't forget to create and place walls.
+”
+“
+Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!
+”
+“
+To interact with backgrounds, use a hammer!
+”
+If there are no tools
+[
+a
+]
+, no 
+ore
+[
+b
+]
+, and no 
+bars
+[
+c
+]
+ in the player's inventory:
+“
+You should do some mining to find metal ore. You can craft very useful things with it.
+”
+If there are no tools
+[
+a
+]
+, at least one ore
+[
+b
+]
+, and no bars
+[
+c
+]
+ in the player's inventory:
+“
+Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!
+”
+“
+You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.
+”
+If there are no tools
+[
+a
+]
+ and at least one bar
+[
+c
+]
+ in the player's inventory:
+“
+You will need an anvil to make most things out of metal bars.
+”
+“
+Anvils can be crafted out of iron or lead, or purchased from a merchant.
+”
+At all times:
+“
+When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious.
+”
+If the player has no more than 100 maximum 
+health
+:
+“
+Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe.
+”
+If the player has no more than 20 
+mana
+:
+“
+If you gather 5 fallen stars, they can be combined to create an item that will increase your magic capacity.
+”
+If the player has no more than 20 mana and no 
+Fallen Stars
+ in their inventory:
+“
+Stars fall all over the world at night. They can be used for all sorts of useful things. If you see one, be sure to grab it because they disappear after sunrise.
+”
+If the 
+Tavernkeep
+ is present:
+“
+Normally I'd try to teach you all about the Old One's Army, but you should probably ask <name of Tavernkeep> about that.
+”
+If neither 
+Merchant
+ nor 
+Nurse
+ are present:
+“
+There are many different ways you can attract people to move in to our town. They will of course need a home to live in.
+”
+“
+In order for a room to be considered a home, it needs to have a door, a chair, a table, and a light source.  Make sure the house has walls as well.
+”
+“
+Two people will not live in the same home. Also, if their home is destroyed, they will look for a new place to live.
+”
+“
+You can use the housing interface to assign and view housing. Open your inventory and click the house icon.
+”
+“
+You can even remove people from their home from the housing interface! 
+⚷
+ Open / Activate
+ the banner hanging in their house. You can also 
+⚒
+ Use / Attack
+ to assign them to a new home.
+”
+If the Merchant is not present:
+“
+If you want a merchant to move in, you will need to gather plenty of money. 50 silver coins should do the trick!
+”
+If the Nurse is not present:
+“
+For a nurse to move in, you might want to increase your maximum life.
+”
+If the 
+Arms Dealer
+ is not present:
+“
+If you had a gun, I bet an arms dealer might show up to sell you some ammo!
+”
+If the 
+Dryad
+ is not present:
+“
+You should prove yourself by defeating a strong monster. That will get the attention of a dryad.
+”
+If the 
+Mechanic
+ is not present and 
+Skeletron
+ has been defeated:
+“
+Make sure to explore the dungeon thoroughly. There may be prisoners held deep within.
+”
+If the 
+Clothier
+ is not present and Skeletron has been defeated:
+“
+Perhaps the old man by the dungeon would like to join us now that his curse has been lifted.
+”
+If the 
+Demolitionist
+ is not present:
+“
+Hang on to any bombs you might find. A demolitionist may want to have a look at them.
+”
+If the 
+Goblin Tinkerer
+ is not present and the 
+Eater of Worlds
+/
+Brain of Cthulhu
+ has been defeated:
+“
+Are goblins really so different from us that we couldn't live together peacefully?
+”
+If the 
+Witch Doctor
+ is not present and the Eater of Worlds/Brain of Cthulhu has been defeated:
+“
+I hear a race of lizardmen live in the jungle. Maybe you can get the attention of one by felling a giant beast of the jungle?
+”
+If the 
+Stylist
+ is not present:
+“
+I once met a stylist in this region. She went off adventuring underground and that was the last I saw of her. Wonder what became of her?
+”
+If the 
+Angler
+ is not present:
+“
+Ever caught a strange fish and you aren't sure what to do with it? I hear a fishing master lives near the ocean who might have a use for those...
+”
+If the 
+Dye Trader
+ is not present:
+“
+There are some special plants and other ingredients that can be used to dye things. Maybe if you keep some with you, you'll find someone to show you how.
+”
+If the 
+Golfer
+ is not present: 
+“
+They say sand is terrible for golfing. No self-respecting golfer would ever be caught in a desert...right?
+”
+If the 
+Painter
+ is not present and at least 5 town NPCs are present: 
+“
+Artists like to practice their craft, and painters like to paint. If enough people move in, we'll have enough homes that a painter might show up to spruce up the place!
+”
+If the 
+Party Girl
+ is not present and at least 11 town NPCs are present: 
+“
+A lot of people have moved in lately, haven't they? If it gets much more busy around here, a party girl will surely move in!
+”
+If the 
+Tavernkeep
+ is not present and the Eater of Worlds/Brain of Cthulhu has been defeated: 
+“
+Always keep an eye out for strangers in need! You never know when you might meet someone new who is in need of help.
+”
+If the 
+Traveling Merchant
+ is not present and the Merchant is present: 
+“
+If <name of Merchant>'s wares don't interest you, a wandering merchant often visits with exotic merchandise you might prefer.
+”
+If the 
+Skeleton Merchant
+ is not present and the world is in 
+pre-Hardmode
+: 
+“
+Not all of the undead monsters are hostile. I hear one even sells merchandise deep underground.
+”
+If the 
+Zoologist
+ is not present and the world is in pre-Hardmode: 
+“
+This world is full of many exciting and dangerous creatures to discover. There are some experts who might reward you for sharing that knowledge with them!
+”
+If there is at least one 
+Lens
+ in the player's inventory:
+“
+If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
+” 
+(only in 
+Corrupt
+ worlds)
+“
+If you combine lenses at a crimson altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
+” 
+(only in 
+Crimson
+ worlds)
+If there is at least one 
+Rotten Chunk
+, 
+Vile Powder
+, or 
+Worm Food
+ (or 
+Vertebra
+, 
+Vicious Powder
+, or 
+Bloody Spine
+) in the player's inventory:
+“
+You can create worm bait with rotten chunks and vile powder. Make sure you are in a corrupt area before using it.
+” 
+(only in Corrupt worlds)
+“
+You can create a bloody spine with vertebrae. Make sure you are in a crimson area before using it.
+” 
+(only in Crimson worlds)
+If there is at least one Lens, Rotten Chunk, Vile Powder, or Worm Food (or Vertebra, Vicious Powder, or Bloody Spine) in the player's inventory:
+“
+Demonic altars can usually be found in the corruption. You will need to be near them to craft some items.
+” 
+(only in Corrupt worlds)
+“
+Crimson altars can usually be found in the crimson. You will need to be near them to craft some items.
+” 
+(only in Crimson worlds)
+If there is no 
+Grappling Hook
+[
+d
+]
+ in the player's inventory (and the player's hook slot in their 
+equipment menu
+ is empty), the world is in 
+pre-Hardmode
+, and neither the Eater of Worlds/Brain of Cthulhu nor Skeletron has been defeated:
+“
+You can make a grappling hook from a hook and 3 chains. Skeletons found deep underground usually carry hooks, and chains can be made from iron bars or lead bars.
+”
+If the player has at least 140 maximum 
+health
+ and the world is in pre-Hardmode:
+“
+If you thought rainy days were a drag, wait till you see it raining slime!
+”
+If the 
+Goblin Army
+ has not been defeated, the player has at least 200 maximum health, and at least one 
+Shadow Orb
+/
+Crimson Heart
+ has been destroyed:
+“
+Ever seen the Goblin Scouts in the outer regions of the world? I wonder if an invasion is imminent...
+”
+If the 
+Eye of Cthulhu
+, Eater of Worlds/Brain of Cthulhu, or Skeletron has been defeated:
+“
+Have you ever seen beautiful lanterns floating across the night sky? The people of this world celebrate your victories, wishing you good fortune.
+”
+If the world is in pre-Hardmode:
+“
+If you place an empty bottle on a table, you can use it to craft all sorts of neat potions!
+”
+“
+Hang up any banners you earn from defeating foes, as they will help you in future combat with that creature.
+”
+“
+It's pretty cold in the snow biome, but there are some unique treasures there as well. I'd check it out!
+”
+“
+There are antlion tunnels deep beneath the desert, full of rare fossils and many hazards!
+”
+“
+If you find a marble biome, be careful! They say that those locations are inhabited by some very dangerous creatures!
+”
+“
+In granite biomes, the very stone itself is a threat, frequently coming to life and attacking intruders!
+”
+“
+While you explore the underground, you may occasionally encounter helpful fairies. If you follow them, maybe they will lead you to treasure!
+”
+If there is any ore
+[
+b
+]
+ or bar
+[
+c
+]
+ in the player's inventory, and the world is in pre-Hardmode:
+“
+Need to craft something with ores you can't find on <name of world>? Try fishing for crates, or placing silt and slush into the Extractinator!
+”
+If the player has not completed any quests for the Angler:
+“
+If you ever need a break from all this adventuring, there's always time for some good old fashioned fishing.
+”
+If neither the Eye of Cthulhu nor the Eater of Worlds/Brain of Cthulhu has been defeated:
+“
+If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.
+”
+“
+There is treasure hidden all over the world. Some amazing things can be found deep underground!
+”
+If the Eater of Worlds/Brain of Cthulhu has not been defeated:
+“
+Shadow orbs can usually be found in the chasms around corrupt areas. Smashing too many will unleash the Eater of Worlds. Defeating this foe may cause meteors to fall out of the sky!
+” 
+(only in Corrupt worlds)
+“
+Crimson hearts can usually be found in the chasms around crimson areas. Smashing too many will unleash the Brain of Cthulhu. Defeating this foe may cause meteors to fall out of the sky!
+” 
+(only in Crimson worlds)
+If the Eye of Cthulhu has not been defeated and the player has less than 200 maximum health:
+“
+You should focus on gathering more life crystals to increase your maximum life.
+”
+If the Eye of Cthulhu has not been defeated and the player has at most 10 
+defense
+:
+“
+Your current equipment simply won't do. You need to make better armor.
+”
+If the Eye of Cthulhu has not been defeated and the player has at least 200 maximum health and more than 10 defense:
+“
+I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.
+” 
+(only in Corrupt worlds)
+“
+I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a crimson altar.
+” 
+(only in Crimson worlds)
+If the Eye of Cthulhu has been defeated, the Eater of Worlds/Brain of Cthulhu has not been defeated, and the player has less than 300 health:
+“
+You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.
+”
+If the Eye of Cthulhu has been defeated, the Eater of Worlds/Brain of Cthulhu has not been defeated, and the player at least 300 health:
+“
+The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.
+” 
+(only in Corrupt worlds)
+“
+Your next step should be to explore the corrupt chasms.  Destroy any shadow orb you find.
+” 
+(only in Corrupt worlds)
+“
+Your next step should be to explore the caverns of the Crimson. Find and destroy any Crimson Hearts that you come across.
+” 
+(only in Crimson worlds)
+“
+The Crimstone in the Crimson can be purified using some powder from a Dryad, or it can be destroyed with explosives.
+” 
+(only in Crimson worlds)
+If the Eye of Cthulhu and the Eater of Worlds/Brain of Cthulhu have been defeated, but Skeletron has not been defeated:
+“
+There is an old dungeon not far from here. Now would be a good time to go check it out.
+”
+If the Eye of Cthulhu, the Eater of Worlds/Brain of Cthulhu, and Skeletron have been defeated, the world is in pre-Hardmode, and the player has less than 400 maximum health:
+“
+You should make an attempt to max out your available life. Try to gather twenty hearts.
+”
+If the Eye of Cthulhu, the Eater of Worlds/Brain of Cthulhu, and Skeletron have been defeated, the world is in pre-Hardmode, and the player has at least 400 maximum health:
+“
+There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.
+”
+“
+The underworld is made of a material called hellstone. It's perfect for making weapons and armor.
+”
+“
+When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.
+”
+If the Eater of Worlds/Brain of Cthulhu has been defeated and the world is in pre-Hardmode:
+“
+Try to gather some obsidian, formed when water and lava meet. It can be used to protect against intense heat.
+”
+If the Eater of Worlds/Brain of Cthulhu has been defeated, 
+Queen Bee
+ has not been defeated, and the player at least 300 health:
+“
+Some say there are giant bee hives buried underground in the jungle. I could do with some honey myself.
+”
+If the Eater of Worlds/Brain of Cthulhu has been defeated and 
+Deerclops
+ has not been defeated:
+“
+In the middle of the night on snowy evenings, a terrifying roaring sound comes from the wilderness! Something is out there!
+”
+If there is at least one 
+Desert Fossil
+ in the player's inventory:
+“
+You found some old fossils in the desert? I wonder if there is a way to extract them from the rock.
+”
+If there is at least one 
+Hellstone
+ in the player's inventory and the world is in pre-Hardmode:
+“
+It's time to upgrade that old Furnace! Look for a Hellforge in the Underworld, it's the only way to craft Hellstone bars.
+”
+If the world is in 
+Hardmode
+ (and 
+Plantera
+ has not been defeated):
+“
+Make sure to smash any demon altar you can find. Something good is bound to happen if you do!
+” 
+(only in Corrupt worlds)
+“
+Make sure to smash any crimson altar you can find. Something good is bound to happen if you do!
+” 
+(only in Crimson worlds)
+“
+Souls can sometimes be gathered from fallen creatures in places of extreme light or dark.
+”
+If the 
+Wizard
+ is not present and the world is in Hardmode:
+“
+I heard there was a powerful wizard who lives in these parts.  Make sure to keep an eye out for him next time you go underground.
+”
+If the 
+Steampunker
+ is not present and the world is in Hardmode:
+“
+I hear there's a woman out there well-versed in fighting back the forces you just unleashed. Maybe if you prove yourself, you can get her attention.
+”
+If the 
+Cyborg
+ is not present and all three 
+mechanical bosses
+ have been defeated:
+“
+Machines aren't so bad. Maybe we can build one of our own, if we can just get some explosive weaponry from the jungle...
+”
+If the 
+Tax Collector
+ is not present and the world is in Hardmode:
+“
+The Tortured Soul down in the Underworld sure looks familiar...have you tried using Purification Powder on him?
+”
+If the 
+Pirate
+ is not present and the world is in Hardmode:
+“
+There have been some pirates sighted around lately. If we befriend one, you think he might show us where he buried his treasure?
+”
+If the 
+Truffle
+ is not present and the world is in Hardmode:
+“
+I've heard of glowing mushrooms growing big enough on the surface to gain sentience. Wonder if there's any truth to that...
+”
+If the world is in Hardmode, the 
+Pirate Invasion
+ has not been defeated, and the player has at least 200 maximum health:
+“
+I think I saw a treasure map floating around in the ocean once, but a shark ate it. Maybe you should go try and find one?
+”
+If the world is in Hardmode, the player has no 
+wings
+ equipped and is not currently riding a mount
+[
+e
+]
+, and Plantera has not been defeated:
+“
+Have you seen the Wyverns soaring high up in the clouds? If only I could fly like that...
+”
+If the world is in Hardmode, at least three 
+altars
+ have been destroyed
+[
+f
+]
+, and no mechanical boss has been defeated:
+“
+Try combining a Hellforge with some adamantite ore. I bet you could make some really powerful stuff with that!
+” 
+(only in 
+Adamantite
+ worlds)
+“
+Try combining a Hellforge with some titanium ore. I bet you could make some really powerful stuff with that!
+” 
+(only in 
+Titanium
+ worlds)
+If the world is in Hardmode and any mechanical boss has been defeated:
+“
+On rare occasions, the moon will blot out the sun, bringing out lots of scary monsters!
+”
+If the world is in Hardmode, any mechanical boss has been defeated, and the player has less than 500 maximum health:
+“
+Run into any rare fruit growing in the jungle lately? If you eat it, it will increase your max life!
+”
+If the world is in Hardmode, all three mechanical bosses have been defeated, and Plantera has not been defeated:
+“
+I've heard of glowing pink bulbs growing around the jungle recently. Be ready for anything if you decide to harvest one.
+”
+If the world is in Hardmode, Plantera has been defeated, 
+Golem
+ has not been defeated, and there is at least one 
+Temple Key
+ in the player's inventory:
+“
+That key you have can be used to unlock the Temple hidden in the jungle. Have you found it yet?
+”
+If the world is in Hardmode, Plantera has been defeated, Golem has not been defeated, and there are no Temple Keys in the player's inventory:
+“
+They say that there is a sealed Temple, hidden away in the jungle. I wonder how you could open it?
+”
+If the world is in Hardmode and there is at least one 
+Biome Key
+ of any kind in the player's inventory:
+“
+Wow, that key you have is pretty nifty! I heard keys like that can be used to get rare treasure in the Dungeon!
+”
+If the world is in Hardmode, Golem has been defeated, and 
+Martian Madness
+ has not been defeated:
+“
+I saw some flashing lights, high up in the sky and far away. The truth is out there, I'm telling you.
+”
+If the world is in Hardmode and 
+Duke Fishron
+ has not been defeated:
+“
+I've heard reports of a very strange worm in the underground mushroom fields. I wonder if it would be any good as bait?
+”
+If the world is in Hardmode, Golem has been defeated, and neither 
+Mourning Wood
+ nor the 
+Pumpking
+ have been defeated:
+“
+Ancient prophecies speak of a way to summon the monstrous hordes of Halloween through medallions crafted with pumpkins.
+”
+If the world is in Hardmode, Golem has been defeated, and neither 
+Everscream
+, 
+Santa-NK1
+, nor the 
+Ice Queen
+ have been defeated:
+“
+Legends tell of a cursed gift that can turn the most festive of nights into an invasion of horrors!
+”
+If the world is in Hardmode, Golem has been defeated, the 
+Mysterious Tablet
+ is present, and the 
+Moon Lord
+ has not been defeated:
+“
+There are some strange people in hoods loitering outside of the Dungeon. Maybe you should check it out?
+”
+If the world is in Hardmode, the 
+Lunar Events
+ are active, and the Moon Lord has not been defeated:
+“
+Where the heck did those Pillars come from?! You should clear out some of the monsters around them!
+”
+In the 
+Tutorial
+(Console and Mobile versions)
+, the Guide has some additional dialogue to teach the player how to progress.
+Upon entering the tutorial:
+"Welcome to Terraria! To start this tutorial, come talk to me! You can use 
+▲ Up
+◀ Left
+▼ Down
+▶ Right
+ to move, the Mouse to aim, and 
+↷
+ Jump
+ to Jump! To talk to me, use the Mouse to aim near me and press 
+⚷
+ Open / Activate
+ for your first lesson! Press Close to close this window."
+When talked to for the first time:
+"Hello, I'm Andrew your guide. To get started the most important thing we need is shelter. To get Wood 
+ we need to chop down a tree.
+Take this Copper Axe 
+. Use the Mouse to select the Copper Axe in your hotbar. Then press 
+⚒
+ Use / Attack
+ to chop down a tree and bring back 10 Wood."
+When talked to before bringing 10 
+Wood
+:
+"We need 10 Wood 
+. With a Copper Axe 
+ selected in your hotbar, press 
+⚒
+ Use / Attack
+ to chop down a tree and bring back 10 Wood."
+When talked to with 10 Wood:
+"Now we need to craft this Wood into a Work Bench 
+. Press 
+Inventory
+ to open your inventory and the Mouse to navigate to your crafting list panel. From the crafting list, highlight the Work Bench 
+ and press 
+⚒
+ Use / Attack
+ to craft it. When you have crafted a Work Bench, come talk to me."
+When talked to with a 
+Work Bench
+:
+"This Work Bench 
+ needs to be placed on the ground. Use the Mouse to highlight the Work Bench in your hotbar. then use the Mouse to aim at a place on the ground and press 
+⚒
+ Use / Attack
+ to place it."
+When a Work Bench is placed:
+"Excellent. I started this one here, but to be a valid house it needs a chair, a table or work bench, and a door. You can make these from the Crafting panel by standing near a Work Bench.
+Craft a Wooden Chair 
+, a Wooden Table 
+ and a Wooden Door 
+ and use 
+⚒
+ Use / Attack
+ to place them in the house for me. You may need to chop down more trees!"
+When the 
+Wooden Chair
+, 
+Wooden Table
+, and 
+Wooden Door
+ are placed in the world:
+"This is looking better, now we need lights! To craft Torches 
+ we need to combine Gel 
+ and Wood 
+. Gel is dropped by Slimes when they are defeated.
+Take this Copper Shortsword 
+ and select it in the hotbar with the Mouse. Press 
+⚒
+ Use / Attack
+ to defeat a Slime and collect its Gel."
+When the player has collected 
+Gel
+:
+"If you take damage from an enemy, try eating a Mushroom 
+ or you can find Healing Potions 
+ in pots and chests hidden in the world.
+Craft the Gel 
+ and Wood 
+ to make Torches 
+ and then use 
+⚒
+ Use / Attack
+ to place them on the walls to light up the house."
+When a 
+Torch
+ is placed in the world:
+"Great, now this place feels like home. It's time to do some digging. Use this Copper Pickaxe 
+ and dig up some Iron Ore 
+. There should be Iron Ore in the nearby caves. We need 15 Iron Ore 
+.
+Remember to carry some Torches 
+ to light your way and if you get stuck, I also gave you Rope 
+ to place to climb out!"
+When interacted with again:
+"Use your Copper Pickaxe 
+ and dig up some Iron Ore 
+. There should be Iron Ore in the nearby caves. We need 15 Iron Ore 
+."
+When the player has collected 15 
+Iron Ore
+:
+"While you were digging I made this Furnace 
+, Find it in your inventory and place it on the ground. Then craft the Iron Ore 
+ into 5 Iron Bars 
+!"
+When interacted with again:
+"Using your placed Furnace 
+, craft the Iron Ore 
+ into 5 Iron Bars 
+!"
+When the player has collected 5 
+Iron Bars
+:
+"Once you start smelting bars, you'll need an anvil to make even more items. Craft an Iron Anvil 
+ at the Work Bench 
+ and place it by your Furnace 
+."
+When the player places an 
+Anvil
+ in the world:
+"Now the world out there gets dangerous the further out you get from home. You'll need some armor to keep you safe while you're exploring. Here are enough Copper Bars 
+ to make some shiny new armor.
+Craft a Copper Helmet 
+, Copper Chainmail 
+ and Copper Greaves 
+ while standing near the Anvil 
+."
+When interacted with again:
+"Craft a Copper Helmet 
+, Copper Chainmail 
+ and Copper Greaves 
+ while standing near the Anvil 
+."
+When the player has obtained 
+Copper armor
+:
+"When you have an item that can be equipped from your inventory, press 
+⚷
+ Open / Activate
+ to equip it. Alternatively you can press 
+⚒
+ Use / Attack
+ and Drag to pick it up and navigate with the Mouse to the Equipment Menu and place it into the appropriate slot."
+When the player equips a full set of Copper armor:
+"Now you look ready to take on a few more challenges. It's gotten dark out, and at night some terrible creatures come to bang at the door. If you feel brave you can take this Iron Bow 
+ and these Wooden Arrows 
+ and kill a few Zombies and Demon eyes if you dare."
+When interacted with again:
+"Keep an eye out for items dropped by enemies. You can find out which enemies drop what loot by opening the Bestiary from either the 
+Inventory
+ or the 
+Pause
+ Pause Menu. Open it to see all the People, Animals, and Monsters you've met in the world!"
+When the 
+Bestiary
+ has been opened:
+"The 
+Pause
+ menu has an array of options that allow you to customize the game especially for your playstyle. If you find it hard to see the Inventory, you can Edit the Layout from the Interface tab and adjust nearly everything about the interface. You can also change the binding is the Controller tab and Edit Controller Bindings."
+When interacted with again:"
+"This world is just a temporary place that resets when you Exit. Now go create your own unique Character and World to explore. Press 
+Pause
+ and Exit to your own world!"
+Quotes
+[
+edit
+]
+Interaction quotes
+[
+edit
+]
+“
+Greetings, <name of player>. Is there something I can help you with?
+”
+“
+I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.
+”
+“
+They say there is a person who will tell you how to survive in this land... oh wait. That's me.
+”
+At 
+night
+:
+“
+You should stay indoors at night. It is very dangerous to be wandering around in the dark.
+”
+During 
+Rain
+:
+“
+Be advised that certain creatures only come out during rain.
+”
+“
+Don't be alarmed, it is just water. I hear certain species of fish can fly when it rains!
+”
+During a 
+Windy Day
+:
+“
+Don't get blown away by the strong gusts going on, and be wary of monsters which take advantage of them!
+”
+“
+It's windy out there! Now is the best time to fly a kite.
+”
+During a 
+Thunderstorm
+:
+“
+It's dangerous to be out in a thunderstorm. Take cover, kid.
+”
+“
+Lightning is no joke, very powerful fiends come out in this weather.
+”
+During a 
+Blood Moon
+:
+“
+Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.
+”
+“
+If you were to look up, you'd see that the moon is red right now.
+”
+“
+You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.
+”
+During a 
+Party
+:
+“
+Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.
+”
+During a 
+Lantern Night
+:
+“
+What a beautiful night! With your recent victory, the world seems more at peace, and these lanterns are in celebration of that.
+” 
+(if the 
+Moon Lord
+ has not been defeated)
+“
+Do you see the lanterns? Now that you've saved our world, there are regular celebrations of your victory. Always such a beautiful sight!
+” 
+(if the Moon Lord has been defeated)
+During a 
+Solar Eclipse
+:
+“
+Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!
+”
+During a 
+Slime Rain
+:
+“
+If you defeat enough of these slimes, you might invoke the wrath of their king. Be careful!
+”
+If the 
+Tavernkeep
+ is present:
+“
+Normally I'd try to teach you all about the Old One's Army, but you should probably ask <name of Tavernkeep> about that.
+”
+If the 
+Wall of Flesh
+ has been defeated:
+“
+I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me...
+”
+If the 
+Tax Collector
+ is present, in Hardmode:
+“
+I thought you said you purified <name of Tax Collector>? He's just as greedy as ever!
+”
+When in a 
+Graveyard
+ biome:
+“
+Graveyards are spooky and very dangerous. I'd watch your step, kid.
+”
+“
+It's cold and ominous around here. I feel something very evil calling out to me.
+”
+Happiness quotes
+[
+edit
+]
+When homeless:
+“
+I'm quite used to not having a home, but I wouldn't mind one.
+”
+When far from home:
+“
+I'm far from my home, it seems.
+”
+When in a sparse area:
+“
+Getting this place to myself... I greatly appreciate it.
+”
+When overcrowded:
+“
+I'm a free spirit. I dislike so many people being close to me.
+”
+“
+I hate overcrowding. I prefer the open world!
+”
+When in the 
+Forest
+:
+“
+I'm quite fond of wandering through the Forest. I like it here.
+”
+When in the 
+Ocean
+:
+“
+I don't really like the Ocean. There's little to accomplish.
+”
+When in an 
+Evil Biome
+ or the 
+Dungeon
+:
+“
+I hate the Corruption/Crimson/Dungeon, the terrors here can tear a person apart in moments.
+”
+When near the 
+Princess
+:
+“
+Having <Name of Princess> around makes me feel at ease, as though a curse was finally lifted from me.
+”
+When near the 
+Clothier
+:
+“
+I'm quite fond of <Name of Clothier>, we have a lot in common.
+”
+When near the 
+Zoologist
+:
+“
+I'm quite fond of <Name of Zoologist>, we have a lot in common.
+”
+When near the 
+Steampunker
+:
+“
+<Name of Steampunker> rubs me the wrong way. Maybe it's the weird clothing?
+”
+When near the 
+Painter
+:
+“
+I hate that <Name of Painter> is around. The world is fine the way it was made!
+”
+When neutral:
+“
+I'm feeling quite alright.
+”
+Trivia
+[
+edit
+]
+One of the Guide's names is Andrew, named after Andrew Spinks (aka 
+Redigit
+), the lead developer of 
+Terraria
+.
+The Green Cap is dropped if a Guide with that name is killed.
+The Guide's Shimmered form is a reference to Redigit's avatar.
+[
+5
+]
+For players who use help from other sources rather than the Guide, his role is usually minimal. Otherwise, he lives up to his name, as a primary source of in-game hints and information.
+ 
+The credits cutscene about the Guide.
+Redigit said during an 
+AMA
+ on Reddit that he created the Guide Voodoo Doll so players could get revenge on him for always opening the door.
+[
+6
+]
+The Guide opening doors for 
+enemies
+ at 
+night
+ is a recurring joke among the fanbase, which is also referenced during the 
+credits
+.
+The Guide is depicted in two 
+paintings
+, 
+Guide Picasso
+ and 
+The Creation of the Guide
+.
+ – According to the 
+Terraria
+ lore pages
+, there is an organization called "Order of the Guide", whose purpose is to preserve old legends and knowledge. The Guide is most likely a member of this order.
+This is referenced in-game after beating the Wall of Flesh, with any new Guides that spawn in afterward referencing their predecessor suddenly bursting into flames.
+The Guide and the 
+Arms Dealer
+ appear to not get along. This is evidenced by them frequently arguing through 
+emotes
+, along with the Arms Dealer's quote “
+I heard there is a doll that looks very similar to <name of Guide> somewhere in the underworld.  I'd like to put a few rounds in it.
+”. Despite this, they do not have any effect on each other's 
+happiness
+.
+The 
+Goblin Tinkerer
+ and the 
+Mechanic
+ will similarly flirt through emotes. These are the only four NPCs to have unique interactions when talking to a specific NPC.
+In the past, Redigit has said the Guide is the Wall of Flesh,
+[
+7
+]
+ the brother of the ninja seen inside 
+King Slime
+,
+[
+8
+]
+ the great-grandson of the 
+Nymph
+,
+[
+9
+]
+ and the son of the 
+Moon Lord
+.
+[
+10
+]
+ These statements were most likely jokes
+[
+11
+]
+ and are not considered official lore.
+[
+12
+]
+The Guide says that he has much in common with the Zoologist and the Clothier. This may be referring to the fact that they are all cursed with some sort of transformation that is out of their control (if the Guide is indeed the Wall of Flesh).
+According to the 
+Voodoo Demon's Bestiary entry
+, the Guide is said to be the "chosen one whose soul is linked with the world's guardian himself", most likely referring to the Wall of Flesh.
+The Guide has the first 
+Bestiary
+ entry.
+ The 
+Bestiary
+ entry for the Guide: 
+"
+The Guide always offers useful advice and crafting recipes. His origins and unusual connections to this world remain a mystery.
+"
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.0
+: 
+Increased defense from 15 to 30.
+Increased health regeneration by 500%.
+Increased arrow damage from 8 to 12.
+Fixed the 
+Green Cap
+'s drop condition affected by game translation and 
+Resource Packs
+.
+Desktop 1.4.4.8
+: Added the following advice: "You can even remove people from their home from the housing interface! 
+⚷
+ Open / Activate
+ the banner hanging in their house. You can also 
+⚒
+ Use / Attack
+ to assign them to a new home."
+Desktop 1.4.4
+: 
+Changed two advice texts:
+"Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas." to "Shadow orbs can usually be found in the chasms around corrupt areas. Smashing too many will unleash the Eater of Worlds. Defeating this foe may cause meteors to fall out of the sky!"
+"Smashing a crimson heart will sometimes cause a meteor to fall out of the sky. Crimson hearts can usually be found in the chasms around crimtane areas." to "Crimson hearts can usually be found in the chasms around crimson areas. Smashing too many will unleash the Brain of Cthulhu. Defeating this foe may cause meteors to fall out of the sky!"
+Added "Jan" as a possible name.
+Desktop 1.4.3.3
+: The Guide now has a hint about how to find 
+Deerclops
+ if the player has not yet defeated it.
+Desktop 1.4.0.1
+: 
+Massively overhauled the Guide's help dialogue, adding hints and tips for content all the way up to the 
+Lunar Events
+, addressing all new NPCs since 1.1, replacing outdated information, and bringing some previously bugged lines back into circulation.
+Fixed a typo in the quote help text on Fallen Stars ("usefull" to "useful").
+The 
+Wall of Flesh
+ can now also be summoned if the Guide dies in the 
+Underworld
+ while in contact with 
+lava
+.
+Desktop 1.3.1.1
+: Fixed the Guide's help tips not detecting the 
+Demolitionist
+ nor the 
+Goblin Tinkerer
+ properly.
+Desktop 1.3.0.1
+: 
+Now shoots 
+arrows
+ at nearby enemies.
+Sprite updated. Old sprite was: 
+Desktop 1.2.4
+: 
+Changed two advice texts:
+"Underground are crystal hearts that can be used to increase your max life. You can smash them with a pickaxe." to "Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe." ("that" to "which")
+"In order for a room to be considered a home, it needs to have a door, chair, table, and a light source.  Make sure the house has walls as well." to "In order for a room to be considered a home, it needs to have a door, a chair, a table, and a light source.  Make sure the house has walls as well."
+Desktop 1.2.3
+: 
+Fixed bug where Guide would tell the player to press Escape to open inventory even if the key mapping was changed.
+Fixed bug where Guide would talk about crafting 
+Lenses
+ when the player does not have any.
+Fixed bug where Guide would talk about 
+Shadow Orbs
+ and 
+Corruption
+ in a 
+Crimson
+ world.
+Fixed bug where Guide would keep talking about 
+Shadow Orbs
+ until the player beats 
+Skeletron
+ rather than 
+Eater of Worlds
+ / 
+Brain of Cthulhu
+.
+Desktop 1.2.0.2
+: 
+The Guide will no longer say the player needs a 
+hammer
+ to break 
+Life Crystals
+.
+The Guide will no longer say the player needs 10 
+Fallen Stars
+ to make a 
+Mana Crystal
+.
+Desktop 1.2
+: Drops the 
+Green Cap
+ upon death if named Andrew.
+Desktop 1.1
+: Now has random name given to him on spawn. His death will be reported with this name, and other NPCs will use it in their quotes.
+Desktop 1.0.5
+: 
+When shown an 
+item
+, the Guide can tell the player what can be 
+crafted
+ with it.
+Players can now attack the Guide when they have a 
+Guide Voodoo Doll
+ equipped.
+Desktop 1.0.3
+: Like all other 
+NPCs
+, he can now be killed by 
+enemies
+.
+Desktop 1.0.1
+: Guide now explains the use of a 
+hammer
+ and its interactions with 
+walls
+ and placed objects.
+Desktop-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced with changes up to Desktop 1.3.0.1.
+ Console version
+Console 1.0.933.1
+: Made changes from PS4's 1.0.750.0 update. (
+)
+Console 1.0.750.0
+: (
+)
+Now shoots Arrows at nearby enemies.
+Now only Guides named Andrew will drop the Green Cap.
+Console 1.07
+: Improved readability of two of the Guide's tips as per complaints.
+Console 1.02
+: 
+Drops the Green Cap upon death.
+The Guide will no longer say the player needs a hammer to break Life Crystals.
+The Guide will no longer say the player needs 10 Fallen Stars to make a Mana Crystal.
+Console-Release
+: Introduced with changes up to Desktop 1.1.
+ Mobile version
+Mobile 1.3.0.7
+: Now shoots Arrows at nearby enemies.
+Mobile 1.2.11212
+: Improved readability of two of the Guide's tips as per complaints.
+Mobile 1.2.6508
+: 
+Drops the Green Cap upon death if named Andrew.
+The Guide will no longer say the player needs a hammer to break Life Crystals.
+The Guide will no longer say the player needs 10 Fallen Stars to make a Mana Crystal.
+Mobile 1.1.5536
+: The Guide's name will be reported on death, and other NPCs will reference it.
+Mobile-Release
+: Introduced with changes up to Desktop 1.0.5 and a random name on spawn
+Verify
+.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced with changes up to Desktop 1.2
+Verify
+.
+References
+[
+edit
+]
+↑ 
+1.0
+ 
+1.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.5
+ source code, method 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+RegisterTownNPCDrops()
+ in 
+Terraria.GameContent.ItemDropRules.ItemDropDatabase.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.5
+ source code, method 
+DoDeathEvents()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.0.5
+ source code, method 
+HelpText()
+ in 
+Terraria.Main.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+https://forums.terraria.org/index.php?threads/shimmered-npcs-i-dont-get-all-references.116054/post-2807538
+↑
+ 
+I am Redigit - Creator of Terraria. Ask Me Anything!
+ 
+September 27, 2013
+↑
+ 
+Redigit's message
+ in #journeys-end-chat on the 
+official Terraria Discord server
+ (
+link to message
+)
+↑
+ 
+Redigit's message
+ on the 
+official Terraria Discord server
+↑
+ 
+Redigit's message on the 
+official Terraria Discord server
+ (
+link to message
+)
+↑
+ 
+Redigit's message in #journeys-end-chat on the 
+official Terraria Discord server
+ (
+link to message
+) 
+May 08, 2020
+↑
+ 
+Redigit 
+(
+July 24, 2022
+)
+: 
+Never take anything I say about lore seriously XD
+ 
+(archived from the 
+original
+ on 11 Jan 2024, 08:32:06 UTC)
+↑
+ 
+Redigit 
+(
+July 24, 2022
+)
+: 
+The only concrete lore is what you see in the game. The rest is up for the player to interpret how they wish.
+ 
+(archived from the 
+original
+ on 11 Jan 2024, 08:34:53 UTC)
+↑ 
+1.0
+ 
+1.1
+ 
+1.2
+ 
+1.3
+ 
+Any item with a 
+pickaxe
+, 
+axe
+, or 
+hammer
+ power greater than 0 is considered a tool for this purpose. The 
+Copper Pickaxe
+ and 
+Copper Axe
+ are 
+not
+ considered tools, as they are part of the player's starting equipment.
+↑ 
+2.0
+ 
+2.1
+ 
+2.2
+ 
+Only the following types of ore are considered for this: 
+Copper
+/
+Tin
+, 
+Iron
+/
+Lead
+, 
+Silver
+/
+Tungsten
+, and 
+Gold
+/
+Platinum Ore
+.
+↑ 
+3.0
+ 
+3.1
+ 
+3.2
+ 
+3.3
+ 
+Only the following types of bars are considered for this: 
+Copper
+/
+Tin
+, 
+Iron
+/
+Lead
+, 
+Silver
+/
+Tungsten
+, and 
+Gold
+/
+Platinum Bars
+.
+↑
+ 
+Any 
+hook
+ obtainable in 
+pre-Hardmode
+ is considered for this, except for the 
+Squirrel Hook
+ and 
+Amber Hook
+. Hardmode-exclusive hooks are not considered for this.
+↑
+ 
+Only actively 
+riding
+ a mount is checked for. The player can have a mount anywhere in their inventory (including in their mount slot in their 
+equipment menu
+), as long as they are not actively riding it.
+↑
+ 
+This condition can only be met once the 
+type
+ of third-tier Hardmode ore has been determined for the world – which happens once the third (or, in 
+Drunk
+ worlds, the first) 
+altar
+ is destroyed. Opening Hardmode 
+crates
+ to obtain 
+Adamantite
+ or 
+Titanium Ore
+ does 
+not
+ set the world's Hardmode ore type flag(s), and thus does not satisfy this condition.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

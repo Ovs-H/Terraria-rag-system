@@ -1,0 +1,1555 @@
+Source URL: https://terraria.wiki.gg/wiki/Steampunker
+Title: Steampunker
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Steampunker
+.
+Steampunker
+Hardmode exclusive
+Map icon
+Dialogue portrait
+Statistics
+Type
+NPC
+Environment
+ Valid house 
+AI Type
+Passive AI
+Damage
+10
+Max Life
+250
+Defense
+15
+KB
+ Resist
+50%
+Drops
+Item 
+(Quantity)
+Rate
+Ivy
+(Only if name is Whitney)
+100%
+Projectile created
+High Velocity Bullet
+Sounds
+Hurt
+Killed
+Internal 
+NPC ID
+: 
+178
+Internal 
+Projectile ID
+: 
+242
+“
+Should I become an air pirate? I've considered becoming an air pirate.
+— 
+ The 
+Steampunker
+The 
+Steampunker
+ is a 
+Hardmode
+ 
+NPC
+ vendor who sells the 
+Clentaminator
+, various 
+furniture crafting stations
+, and other steampunk-themed items. She will move in once the following criteria have been met:
+There is an available vacant 
+house
+.
+One of the 
+mechanical bosses
+ (
+The Twins
+, 
+The Destroyer
+, or 
+Skeletron Prime
+) have been defeated.
+The Steampunker will attack nearby enemies using a 
+Clockwork Assault Rifle
+ and 
+High Velocity Bullets
+ for defense.
+Items sold
+[
+edit
+]
+Note:
+ All item prices can be decreased by equipping a 
+Discount Card
+ or 
+Greedy Ring
+. Prices can also be higher or lower based on the NPC's 
+happiness level
+.
+Inventory
+Item
+Cost
+Availability
+Clentaminator
+2
+ Platinum
+Always available.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Steampunk Hat
+1
+ Gold 
+50
+ Silver
+Anytime in 
+pre-Hardmode
+. Only during a 
+full moon
+, waning gibbous, third quarter, or a waning crescent in 
+Hardmode
+: 
+ 
+ 
+ 
+Steampunk Shirt
+1
+ Gold 
+50
+ Silver
+Anytime in 
+pre-Hardmode
+. Only during a 
+full moon
+, waning gibbous, third quarter, or a waning crescent in  
+Hardmode
+: 
+ 
+ 
+ 
+Steampunk Pants
+1
+ Gold 
+50
+ Silver
+Anytime in 
+pre-Hardmode
+. Only during a 
+full moon
+, waning gibbous, third quarter, or a waning crescent in 
+Hardmode
+: 
+ 
+ 
+ 
+Jetpack
+40
+ Gold
+In 
+Hardmode
+, during a 
+new moon
+, waxing crescent, first quarter, or a waxing gibbous: 
+ 
+ 
+ 
+Steampunk Wings
+3
+ Platinum
+When 
+Golem
+ has been defeated.
+Static Hook
+50
+ Gold
+In 
+Hardmode
+.
+Logic Gate (AND)
+2
+ Gold
+Always available.
+Logic Gate (OR)
+2
+ Gold
+Always available.
+Logic Gate (NAND)
+2
+ Gold
+Always available.
+Logic Gate (NOR)
+2
+ Gold
+Always available.
+Logic Gate (XOR)
+2
+ Gold
+Always available.
+Logic Gate (XNOR)
+2
+ Gold
+Always available.
+Logic Gate Lamp (On)
+10
+ Silver
+Always available.
+Logic Gate Lamp (Off)
+10
+ Silver
+Always available.
+Logic Gate Lamp (Faulty)
+2
+ Gold
+Always available.
+Conveyor Belt (Clockwise)
+5
+ Silver
+Always available.
+Conveyor Belt (Counter Clockwise)
+5
+ Silver
+Always available.
+Blend-O-Matic
+10
+ Gold
+Always available.
+Only available in 
+Hardmode
+ in worlds with 
+For the Worthy
+.
+Steampunk Boiler
+10
+ Gold
+When the 
+Eye of Cthulhu
+, 
+Eater of Worlds
+/
+Brain of Cthulhu
+, and 
+Skeletron
+ have been defeated.
+Flesh Cloning Vat
+10
+ Gold
+In 
+Crimson
+ worlds.
+Decay Chamber
+10
+ Gold
+In 
+Corruption
+ worlds.
+Bone Welder
+10
+ Gold
+In a 
+Graveyard
+.
+Honey Dispenser
+10
+ Gold
+In a 
+Jungle
+.
+Lihzahrd Furnace
+10
+ Gold
+In a 
+Jungle
+, when 
+Golem
+ has been defeated.
+Ice Machine
+10
+ Gold
+In a 
+Snow biome
+.
+Sky Mill
+10
+ Gold
+In 
+Space
+ (above 
+65% altitude
+ of the surface).
+Purple Solution
+15
+ Silver
+During a 
+Blood Moon
+ or 
+Solar Eclipse
+ in 
+Corruption
+ worlds.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Red Solution
+15
+ Silver
+During a 
+Blood Moon
+ or 
+Solar Eclipse
+ in 
+Crimson
+ worlds.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Blue Solution
+15
+ Silver
+In 
+The Hallow
+ or 
+Underground Hallow
+, outside of a 
+Blood Moon
+ and 
+Solar Eclipse
+.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Green Solution
+15
+ Silver
+In any other biome, outside of a 
+Blood Moon
+ and 
+Solar Eclipse
+.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Yellow Solution
+15
+ Silver
+When the 
+Moon Lord
+ has been defeated.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+White Solution
+15
+ Silver
+When the 
+Moon Lord
+ has been defeated.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Brown Solution
+15
+ Silver
+When the 
+Moon Lord
+ has been defeated.
+Not available in worlds with 
+Remix
+, except for worlds with both Remix and 
+Celebration Mk 10
+ and not 
+For the Worthy
+.
+Cog
+7
+ Silver
+In 
+Hardmode
+.
+Steampunk Minecart
+10
+ Gold
+In 
+Hardmode
+.
+Steampunk Goggles
+3
+ Gold
+During 
+Halloween
+.
+Any Pylon
+10
+ Gold
+When in a specific 
+biome
+ and near another NPC.
+Living preferences
+[
+edit
+]
+Biome
+Neighbor
+Loves
+n/a
+Cyborg
+Likes
+Desert
+Princess
+Painter
+Dislikes
+Jungle
+Party Girl
+Wizard
+Dryad
+Hates
+n/a
+n/a
+For more information, see 
+NPC happiness
+.
+Shimmered form
+[
+edit
+]
+Shimmered Steampunker
+Map icon
+Portrait
+When submerged in 
+Shimmer
+ or sprayed with the 
+Shimmer Gun
+, the Steampunker will transform into her Shimmered form. This has no impact on gameplay or dialogue and is only a visual change. She can be returned to her classic look by submerging her in Shimmer again or spraying her with the Shimmer Gun again.
+Notes
+[
+edit
+]
+(Desktop version)
+ When checking condition for name-based NPC drops, the game specifically requires the NPC's name to be using the corresponding localization string.
+[
+1
+]
+ The game's translation and 
+Resource Packs
+ will 
+not
+ affect name-based item drops: the Steampunker can only drop 
+Ivy
+ if she is originally named 
+Whitney
+. Using a Resource Pack that changes this name does not prevent it from dropping, and changing any other names of the Steampunker to 
+Whitney
+ does not qualify for item drop.
+The Steampunker's move-in requirements do not expressly require a world to be in 
+Hardmode
+. Summoning and defeating a 
+mechanical boss
+ in a 
+pre-Hardmode
+ world will allow the Steampunker to move in, though this can only be legitimately achieved by carrying over resources from an existing Hardmode world.
+If summoned into a pre-Hardmode world this way, the Steampunker will not sell 
+Cogs
+, the 
+Steampunk Minecart
+, or the 
+Static Hook
+ until the given world enters Hardmode.
+The Steampunker is one of the starting NPC in 
+Celebration Mk 10
+ and 
+Zenith
+ worlds. This means that it is possible to get most of her items legitimately in a pre-Hardmode world without transferring them from a Hardmode world (e.g. 
+Asphalt Blocks
+ for arenas).
+Re-defeating the Eye of Cthulhu and Eater of Worlds/Brain of Cthulhu may be necessary to buy the 
+Steampunk Boiler
+ after the Steampunker arrives.
+The Steampunker does not sell 
+Dark Blue Solution
+ if moved to the 
+Glowing Mushroom biome
+. It is sold by the 
+Truffle
+ instead.
+Names
+[
+edit
+]
+The Steampunker may have any of the following names:
+Ada
+Cornelia
+Cynthia
+Emeline
+Fidelia
+Hope
+Isabella
+Judith
+Leila
+Lilly
+Lydia
+Minerva
+Phoebe
+Savannah
+Selina
+Verity
+Vivian
+Whitney
+Zelda
+Zylphia
+Quotes
+[
+edit
+]
+Interaction quotes
+[
+edit
+]
+“
+Oy, whatchu got in you jiminy fluffer?
+”
+“
+Should I become an air pirate? I've considered becoming an air pirate.
+”
+“
+Be it what it would, a jetpack would suit you nicely!
+”
+“
+Show me some gears!
+”
+“
+I like your... gear. Does it come in brass?
+”
+When 
+Cyborg
+ is present:
+“
+I'm mighty curious about that <name of Cyborg> fellow. By what manner of consumption does he maintain such locomotion?
+”
+When 
+Pirate
+ is present:
+“
+That captain fellow seems to me to be 'pretty well over the bay' if you know what I mean!
+”
+During a 
+Blood Moon
+:
+“
+I'm feeling a bit peevish as of late, so enough with your palaver you ragamuffin!
+”
+During a 
+Party
+:
+“
+Everyone said they like stacked cakes, so I installed smokestacks in mine.
+”
+During 
+Rain
+:
+“
+The rain is a double edged sword you see... It provides us water for steam, but it also rusts our equipment.
+”
+“
+This bloody downpour! I can't get a lick of anything done when it's all wet!
+”
+During a 
+Thunderstorm
+:
+“
+Electricity? Don't be ludicrous! Nothing beats the power of steam!
+”
+“
+Everything I tinker up is made of metal. This current situation surely is a cause for rethinking that!
+”
+During a 
+Windy Day
+:
+“
+Ahh... a sip of tea to enjoy the breeze.
+”
+“
+Why, this windy phenomena has inspired me ideas for a new jetpack engine!
+”
+When in a 
+Graveyard
+:
+“
+Golly! What uncultured swine decided to break ground here?
+”
+“
+Neither blood nor steam pumps in this miserable locale.
+”
+Happiness quotes
+[
+edit
+]
+When homeless:
+“
+I could use a flat to bide in.
+”
+When far from home:
+“
+I'm wee far from home, an' I forgot my bloody motor!
+”
+When in a sparse area:
+“
+Plenty o' room just for me and some good steam engines!
+”
+When overcrowded:
+“
+I dinnae like being surrounded by folk, much.
+”
+“
+Oi, I absolutely hate crowded quarters!
+”
+When in the 
+Desert
+:
+“
+I prefer the wide open spaces here in the Desert, great for jetpack joyrides!
+”
+When in the 
+Jungle
+:
+“
+The shrubbery and mess of the Jungle really grinds my gears!
+”
+When in an 
+Evil Biome
+ or the 
+Dungeon
+:
+“
+Truly, the Corruption/Crimson/Dungeon is uncultured and unsightly - nevermind perilous!
+”
+When near the 
+Cyborg
+:
+“
+I love how unique and interesting <Name of Cyborg> truly is, remarkable!
+”
+When near the 
+Princess
+:
+“
+The jolly <Name of Princess> volunteered to try my new teleporter, I love an enthusiastic assistant!
+”
+When near the 
+Painter
+:
+“
+<Name of Painter> is a likeable sort who helps me spruce up my inventions.
+”
+When near the 
+Party Girl
+:
+“
+<Name of Party Girl> is too otherworldly! I dinnae like them much.
+”
+When near the 
+Wizard
+:
+“
+<Name of Wizard> is too otherworldly! I dinnae like them much.
+”
+When near the 
+Dryad
+:
+“
+<Name of Dryad> is too otherworldly! I dinnae like them much.
+”
+When neutral:
+“
+I am jolly good.
+”
+Trivia
+[
+edit
+]
+Steampunk
+ is a sci-fi/fantasy term used to describe a subculture that incorporates technology and aesthetic designs inspired by 19th-century industrial steam-powered machinery.
+The Steampunker occasionally talks about becoming an 
+air pirate
+. Air pirates are a staple of the steampunk genre.
+ 
+The 
+credits
+ cutscene about the Steampunker and the 
+Cyborg
+.
+The Steampunker getting electrocuted in the cutscene.
+The 
+Steampunk Wings
+ and 
+Clentaminator
+ sold by the Steampunker are the third and fourth most expensive items to be sold by NPCs, respectively. The only items that are more expensive are the 
+Parrot Cracker
+ (
+3
+ Platinum 
+75
+ Gold
+) and the 
+Companion Cube
+ (
+5
+ Platinum
+)
+The Steampunker can be seen working on the 
+Cyborg
+ in the 
+credits
+.
+The Steampunker was sprited by former artist 
+Sarah "Waffles" Data
+.
+One of the Steampunker's possible names, Whitney, is also the name of 
+Cenx
+, one of the lead developers of 
+Terraria
+ and Redigit's wife.
+If the Steampunker is killed, she will drop the 
+Ivy
+ if her name was Whitney.
+The Steampunker’s Shimmered form has green hair, another nod to Cenx.
+[
+2
+]
+The name 
+Minerva
+ is a reference to the Roman goddess of handicrafts and wisdom.
+The name Zelda may be a reference to the Nintendo game series 
+The Legend of Zelda
+.
+The name Ada is a reference to the 19th-century English mathematician and writer 
+Ada Lovelace
+, who pioneered work on 
+Charles Babbage
+'s "computer."
+One of the Steampunker's quotes regarding the 
+Pirate
+ comments states that he seems to be "pretty well over the bay," which is a 19th-century Celtic phrase meaning drunk.
+[
+3
+]
+The Steampunker is the only 
+Hardmode
+ 
+NPC
+ that can also be obtained in a regular 
+pre-Hardmode
+ world that is not a 
+secret world seed
+.
+The quote “
+I prefer the wide open spaces here in the Desert, great for jetpack joyrides!
+” is a reference to the mobile game 
+Jetpack Joyride
+.
+She most likely has a 
+Cockney
+ accent, judging by the way she speaks. The accent is typically associated with steampunk themes.
+However, when talking about NPCs she dislikes, she uses the word 
+dinnae
+, which is a Scottish word meaning 
+did not
+ or 
+do not
+.
+Her quote, “
+I'm mighty curious about that <name of Cyborg> fellow. By what manner of consumption does he maintain such locomotion?
+” implies that she does not know the Cyborg very well, despite the 
+Bestiary
+ entry for the Cyborg stating that he was built with the combined efforts of the Mechanic and the Steampunker.
+ The 
+Bestiary
+ entry for the Steampunker: 
+"
+The Steampunker has a particular taste for steam-fueled machinery and gadgets. She sells her gizmos with an endearing accent.
+"
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.0
+: 
+Now sells the 
+Lihzahrd Furnace
+ in the Jungle after 
+Golem
+ has been defeated.
+No longer sells the 
+Living Loom
+.
+Fixed 
+Ivy
+'s drop condition affected by game translation and 
+Resource Packs
+.
+Desktop 1.4.4
+: 
+No longer sells the 
+Teleporter
+, instead it is now sold by the 
+Mechanic
+.
+Some items have been changed to have sell conditions: 
+Jetpack
+, 
+Blend-O-Matic
+, 
+Cog
+, 
+Steampunk Minecart
+, and 
+Static Hook
+.
+Desktop 1.4.1
+: 
+Now sells various biome crafting stations in respective biomes:
+Bone Welder
+ in the 
+Graveyard
+.
+Honey Dispenser
+ in the 
+Jungle
+.
+Sky Mill
+ in 
+Space
+.
+Ice Machine
+ in the 
+Snow biome
+.
+Now sells the 
+Living Loom
+ if the player has a 
+Living Wood Wand
+.
+Desktop 1.4.0.1
+: 
+Now sells 
+Decay Chamber
+, 
+Steampunk Minecart
+, and 
+Pylons
+.
+Now drops 
+Ivy
+ upon death if named Whitney.
+Removed the period in the Party quote.
+Desktop 1.3.1
+: Now sells 
+Static Hook
+, 
+Conveyor Belt
+, 
+Logic Gates
+ and 
+Logic Gate Lamps
+.
+Desktop 1.3.0.1
+: 
+Now sells 
+Steampunk Wings
+.
+No longer sells 
+Solidifier
+.
+Sprite updated.
+Desktop 1.2.3.1
+: Fixed bug where 
+Cogs
+ could be overwritten by another item in the Steampunker's shop.
+Desktop 1.2.3
+: 
+Now sells the 
+Steampunk Boiler
+ and 
+Flesh Cloning Vat
+.
+Fixed a typo in the Steampunker dialog about the 
+Pirate
+ (it used to read "if you know what mean" without the "I").
+Fixed a typo that caused the Steampunker to rarely drop the 
+Bezoar
+ upon death.
+Desktop 1.2.1
+: Now sells 
+Steampunk Goggles
+ during 
+Halloween
+ season.
+Desktop 1.2
+: Introduced.
+ Console version
+Console 1.0.933.1
+: Now sells Steampunk Wings, no longer sells Solidifier. (
+)
+Console 1.0.750.0
+: Now sells Steampunk Wings, no longer sells Solidifier. (
+)
+Console 1.06
+: Now sells the Steampunk Boiler and Flesh Cloning Vat.
+Console 1.02
+: Introduced, sells Steampunk Goggles during the Halloween season.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.3.0.7
+: Now sells Steampunk Wings, no longer sells Solidifier.
+Mobile 1.2.11212
+: Now sells the Steampunk Boiler and Flesh Cloning Vat.
+Mobile 1.2.6508
+: Introduced, sells Steampunk Goggles during the Halloween season.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced, sells Steampunk Goggles during the Halloween season.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+RegisterTownNPCDrops()
+ in 
+Terraria.GameContent.ItemDropRules.ItemDropDatabase.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+https://forums.terraria.org/index.php?threads/shimmered-npcs-i-dont-get-all-references.116054/post-2807538
+↑
+ 
+Private Yankee Doodle, by Joseph Plumb Martin, edited by George F. Scheer. Originally published in 1830. Little, Brown & Co, 1962. Eastern Acorn Press, 1988. Page 145
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

@@ -1,0 +1,1568 @@
+Source URL: https://terraria.wiki.gg/wiki/Skeletron
+Title: Skeletron
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:Skeletron
+.
+Skeletron
+Skeletron Head
+Map icon
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss
+Environment
+ Dungeon entrance 
+ + 
+ Night 
+AI Type
+Head AI
+Damage
+32
+/
+70
+/
+106
+(contact)
+68
+ 
+(
+Skull
+)
+[
+1
+]
+91
+ 
+(while spinning)
+[
+1
+]
+102
+ 
+(
+Skull
+)
+[
+1
+]
+137
+ 
+(while spinning)
+[
+1
+]
+9999 
+(during 
+day
+)
+Max Life
+4400
+/
+8800
+/
+11220
+Defense
+10
+10+25 per hand alive
+0
+0+25 per hand alive
+ 
+(while spinning)
+9999 
+(during day)
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Debuff
+Bleeding
+Debuff tooltip
+Cannot regenerate life
+Chance
+100%
+Duration
+6–10 seconds
+7.5–12.5 seconds
+Drops
+Coins
+5
+ Gold
+(Dropped by Treasure Bag
+[
+2
+]
+)
+Item 
+(Quantity)
+Rate
+Healing Potion
+ 
+(5–15)
+100%
+One of the following 3 items may be dropped
+Skeletron Mask
+14.29%
+Skeletron Hand
+12.24%
+Book of Skulls
+10.5%
+Skeletron Trophy
+10%
+Chippy's Couch
+14.29%
+Treasure Bag
+(Skeletron)
+100%
+Bone Glove
+100%
+One of the following three items will be dropped
+Skeletron Mask
+33%
+Skeletron Hand
+33%
+Book of Skulls
+33%
+Coins
+ (
+12
+ Gold 
+50
+ Silver
+)
+100%
+Possessed Skull
+25%
+Skeletron Relic
+100%
+When 
+Hellforge is not present
+Hellforge
+100%
+Projectile created
+Projectile created
+Skull
+Sounds
+Hurt
+Killed
+Spawn
+or
+Entering spinning phase
+Internal 
+NPC ID
+: 
+35
+Internal 
+Buff ID
+: 
+30
+Internal 
+Projectile ID
+: 
+270
+Skeletron
+Skeletron Hand
+ Classic
+ Expert
+ Master
+Statistics
+Type
+Boss Part
+Environment
+ Dungeon entrance 
+ + 
+ Night 
+AI Type
+Skeletron Hand AI
+Damage
+20
+/
+44
+/
+66
+Max Life
+600
+/
+1560
+/
+1989
+Defense
+14
+KB
+ Resist
+100%
+Immune to
+Inflicts 
+ debuff 
+Inflicts 
+ debuff 
+Debuff
+Slow
+Debuff tooltip
+Movement speed is reduced
+Chance
+50%
+Duration
+1−2 seconds
+1.5–2.5 seconds
+Sounds
+Hurt
+Killed
+Internal 
+NPC ID
+: 
+36
+Internal 
+Buff ID
+: 
+32
+ 
+“The cursed guardian of the dungeon.”
+ 
+Not to be confused with the 
+Skeleton
+, an enemy found underground, or 
+Skeletron Prime
+, the Hardmode version of Skeletron.
+Skeletron
+ is a 
+pre-Hardmode
+ 
+boss
+. Defeating Skeletron for the first time grants unlimited access to all 
+Dungeon
+ areas for players within the current world and allows the 
+Clothier
+ 
+NPC
+ to move into an available vacant 
+house
+.
+If attempting to enter the Dungeon before killing Skeletron, 
+Dungeon Guardians
+ spawn once a player reaches 0 
+depth
+.
+[
+3
+]
+ These 
+enemies
+ deal 9,999 damage and generally kill any player in a single hit. Managing to defeat a Dungeon Guardian does not grant access to the Dungeon, thus defeating Skeletron is mandatory for accessing the Dungeon safely.
+While Skeletron is alive, its exclusive music 
+Skeletron
+ will play. When 
+Otherworldly music
+ is enabled, the track 
+Boss 1 (Otherworldly)
+ will play instead.
+Summoning
+[
+edit
+]
+Summoning Skeletron requires the player to speak to the 
+Old Man
+ at the Dungeon's entrance at 
+night
+. Upon selecting the 
+"
+Curse
+"
+ option, he will turn into Skeletron. Skeletron can only be summoned once per night, as the Old Man will not respawn until dawn.
+Once Skeletron is defeated, the Old Man's curse will be lifted and he will no longer appear. Skeletron will thereafter only be summonable with the 
+Clothier Voodoo Doll
+. Killing the 
+Clothier
+ at night with this accessory equipped will summon Skeletron.
+A special variant of Skeletron can be summoned via 
+Chippy's Couch
+. 
+See 
+Red Hat variant
+ below.
+Behavior
+[
+edit
+]
+Skeletron is a large floating skull with two independent floating hands. All parts can travel through 
+blocks
+, and will attempt to make contact with the player to inflict damage. Each part can be killed independently, but killing the head is all that is required to defeat Skeletron.
+Skeletron alternates between two attack phases:
+The head remains above while the hands slash at the player.
+The head spins and begins chasing the player, dealing significant damage if touched, but dropping its defense by 10 (to 0 in Classic Mode) for the duration of the attack.
+Skeletron switches between these two phases in a regular cycle during the entire fight, with the first phase lasting for roughly 13.33 seconds and the second phase lasting for roughly 6.67 seconds. It lets out a 
+roar
+ every time it enters the second phase.
+If the player takes too long to kill Skeletron and 
+dawn
+ (4:30 AM) arrives, it will enrage and begin acting exactly as a faster 
+Dungeon Guardian
+, permanently performing its spinning attack as well increasing its damage and defense to 9,999, usually killing any players remaining in the vicinity quickly upon contact. Skeletron remains in this form until it dies or despawns, even if players manage to avoid dying until the following dusk. Killing Skeletron in this form still counts as defeating it and it will drop its items normally.
+Expert Mode
+[
+edit
+]
+Skeletron has additional properties in 
+Expert Mode
+:
+The defense of its head is increased by 25 for each of its hands, resulting in a total defense of 60, initially. Once one hand is defeated, it drops to 35 and finally to 10 when both hands are defeated.
+During the spinning attack, Skeletron's defense is therefore also only reduced to 50 / 25. Only when both hands are defeated, it will be reduced to 0 like in Classic Mode.
+While spinning, the head gets a 30% damage boost, making it deal 
+91
+ / 
+137
+ damage.
+Skeletron will inflict 
+debuffs
+ upon contact with the player: its hands are able to inflict 
+Slow
+ for 
+1–2
+ / 
+1.5–2.5
+ seconds, and the head is able to inflict 
+Bleeding
+ for 
+6–10
+ / 
+7.5–12.5
+ seconds.
+Hand slashes are 50% more frequent and receive a 16% speed increase.
+Additionally, the hands return to the head faster after their attack.
+Verify
+The head accelerates and moves faster when not spinning.
+The spin attack has its speed increased by 233%. Additionally, it gets further increases under certain circumstances:
+5% increased when one hand is defeated, and 10% when both are defeated.
+If the player is 9.375 tiles away or more, its speed gets multiplied by 1.1 for every 3.125 tiles above this threshold, up to 2.6× speed when at 37.5 tiles away.
+Once either of the hands are destroyed or the head's health is reduced to below 75% (
+6,600
+ / 
+8,415
+), the head begins to shoot 
+homing skulls
+ at the player that despawn on contact with a solid block. It shoots one skull roughly every 1.33 seconds, and doubles the frequency to one skull roughly every 0.67 seconds once both hands are defeated. It pauses firing during its spin attack.
+Skeletron moves faster and has better 
+AI
+ when targeting multiple players. With this, it is able to "stun-lock" the player while spinning, able to almost instantly kill them if they are not able to escape (e.g. by using a 
+hook
+).
+Red Hat variant
+[
+edit
+]
+Skeletron
+Red Hat Skeletron
+ Classic
+ Expert
+ Master
+Statistics
+Damage
+41
+91
+137
+ 
+(contact)
+[
+1
+]
+118
+ 
+(while spinning)
+[
+1
+]
+179
+ 
+(while spinning)
+[
+1
+]
+Drops
+Item 
+(Quantity)
+Rate
+These items are dropped in addition to Skeletron's regular loot
+Chippy's Helmet
+100%
+Chippy's Chestplate
+100%
+Chippy's Greaves
+100%
+Chippy's Headband
+100%
+Chippy's Cloak (Inactive)
+100%
+Skeletron Hand
+Red Hat Skeletron
+ Classic
+ Expert
+ Master
+Statistics
+Damage
+26
+57
+85
+[
+4
+]
+Dark Caster
+Red Hat Dark Caster
+Skeletron has a variant called the 
+Red Hat Skeletron
+ dedicated to 
+Terraria
+ YouTuber and streamer James/ChippyGaming.
+[
+a
+]
+ It can be summoned during 
+night
+ by having the 
+Clothier Voodoo Doll
+ equipped and sitting in 
+Chippy's Couch
+ while the 
+Clothier
+ is nearby. It always drops 
+Chippy's set
+ upon death, in addition to its regular loot.
+The Red Hat Skeletron has the following additional abilities:
+Contact damage is increased by 30%.
+Time between spinning phase decreased by 
+1/3 (33.33%)
+.
+Acceleration increased by 35% when not spinning.
+Speed increased by 40% when spinning.
+Can reflect player's 
+projectiles
+ when spinning if any Skeletron Hand is alive.
+When spinning, it occasionally spawns 1–2 Red Hat variant of 
+Dark Casters
+.
+These Dark Casters teleport and fire 
+Water Spheres
+ faster.
+Up to 4 Dark Casters can exist at the same time.
+These Dark Casters do not drop any loot; killing them does not increase their kill count either.
+[
+5
+]
+One of the following 
+status messages
+ will be displayed when the Red Hat Skeletron begins spinning:
+"
+<Skeletron> Please do consider clicking that subscribe button
+"
+"
+<Skeletron> You can save 15% using code: CHIPPY
+"
+"
+<Skeletron> Heeellllllo Terraria enthusiasts!
+"
+"
+<Skeletron> 66.2% of people that watch these videos are not actually subscribed
+"
+Another status message will be displayed when it is defeated: 
+"
+<Skeletron> That's it for today. I'll see you in the next one. Peace
+"
+[
+6
+]
+Aftermath
+[
+edit
+]
+Defeating Skeletron for the first time grants unlimited access to all 
+Dungeon
+ areas for players within the current world, furthermore preventing 
+Dungeon Guardians
+ from spawning.
+The 
+Clothier
+ will be able to move in.
+Items that require 
+Bones
+ in their crafting recipes can now be decrafted via 
+Shimmer
+.
+Enemies in 
+the Underworld
+ gain a 
+1/400 (0.25%)
+ chance of dropping the 
+Cascade
+ 
+yoyo
+ as long as 
+Hardmode
+ has not been activated.
+Lava Slimes
+ can now rarely be replaced by 
+Hell Slimes
+.
+The 
+Golfer
+ will begin selling the 
+Golf Cart Keys
+ once the player also has a 
+golf score
+ above 1999.
+The 
+Merchant
+ will begin selling 
+Safes
+, and will begin selling the 
+Drum Set
+ and 
+Drumstick
+ if he was not already.
+The 
+Arms Dealer
+ will begin selling the 
+Quad-Barrel Shotgun
+ when spoken to in a 
+Graveyard
+.
+The 
+Dryad
+ will be able to move in if she could not already.
+The 
+Angler
+ will be able to ask for 
+Angelfish
+ and 
+Cloudfish
+ if he could not already.
+The 
+Traveling Merchant
+ will be able to sell the 
+Gray Zapinator
+ if he could not already, and be able to sell the 
+Sitting Duck's Fishing Pole
+.
+Old Shaking Chests
+ begin to rarely spawn in the 
+Cavern
+ layer. Unlocking the chest with 
+⚷
+ Open / Activate
+ while the player has a 
+Golden Key
+ in their 
+inventory
+ releases the 
+Elder Slime
+.
+The Skeletron 
+emote
+ 
+ is unlocked.
+Notes
+[
+edit
+]
+ 
+The Old Man at the Dungeon.
+Defeating Skeletron will also fully unlock the 
+Bestiary
+ entry for the 
+Dungeon Guardian
+.
+The Old Man can be killed. However, this does not count as defeating Skeletron, and he will respawn.
+The Old Man will respawn at the following dawn if the player fails to defeat Skeletron.
+Killing Skeletron after the night ends will still count as defeating it, and will allow entering the Dungeon safely.
+Skeletron's defense and damage will revert to their normal figures if the player dies during the day.
+ The conditions of whether a 
+Hellforge
+ can be dropped is checked upon entering the world, or occasionally during gameplay.
+[
+b
+]
+ If no Hellforges and no 
+Hardmode Forges
+ were found (i.e. no tiles with 
+ID
+ 77, 133, nor 133(1)), Skeletron will drop a Hellforge upon its defeat and reset the drop condition (i.e. it cannot drop them again until another check is performed and passed).
+[
+7
+]
+Achievements
+[
+edit
+]
+ 
+Boned
+ • 
+“Defeat Skeletron, the cursed guardian of the dungeon.”
+Defeat 
+Skeletron
+ for the first time.
+Category: 
+ Slayer
+ 
+Slayer of Worlds
+ • 
+“Defeat every boss in Terraria.”
+Defeat every 
+boss
+ in the game.
+Category: 
+ Challenger
+Tips
+[
+edit
+]
+For more elaborate strategies on defeating Skeletron, including 
+weapon
+ and 
+arena
+ recommendations, see 
+Guide:Skeletron strategies
+.
+Defeating Skeletron is not necessary for game progression until 
+Golem
+ has been defeated. The 
+Cultists
+, required for initiating the 
+Lunar Events
+, will only spawn once both Golem and Skeletron have been defeated. However, skipping Skeletron in pre-Hardmode results in a lack of valuable Dungeon loot, keeps 
+Shadow Chests
+ from being opened (due to the inaccessible 
+Shadow Key
+), blocks access to the 
+Mechanic
+, as well as renders the 
+Safe
+ and 
+Void Vault
+ unobtainable.
+Try to avoid staying above or far to one side of Skeletron for a long time. It will accelerate to move back above the player during this time, and it can be hard to avoid both the head and hands as they rebound into position.
+The 
+Slime Mount
+ can help the player escape Skeletron's head-spin attack.
+Using a 
+grappling hook
+ can also help evade Skeletron's attacks and is an especially useful tool to escape its head-spin attack.
+With 
+multiple players
+, it is a good idea to set the 
+spawn point
+ near the Dungeon, so that players can simply rejoin the fight if they die.
+Attacking the hands first is advised, as destroying them both will make it very easy to dodge Skeletron for the rest of the battle.
+This is pretty much mandatory in 
+Expert Mode
+, as Skeletron gains 25 defense for each hand it has alive.
+Moving quickly enough on a 
+minecart
+ can cause the hands to despawn.
+In Expert Mode, if the player keeps moving in different directions, most of the homing skulls will miss.
+The player can also jump in a circle around Skeletron's head, aided by a 
+Shield of Cthulhu
+ or 
+Featherfall Potion
+.
+Skulls are blocked by solid blocks, so a barrier between the player and Skeletron can let the player attack Skeletron using a 
+yoyo
+ with impunity.
+Shimmering
+ a 
+Bezoar
+ lets the player use a 
+Adhesive Bandage
+ for the fight, blocking the 
+Bleeding
+ debuff for more value out of 
+health regeneration
+ buffs.
+Trivia
+[
+edit
+]
+ 
+Skeletron's head and arms.
+ 
+The Skeletron-shaped cloud.
+ 
+Chippy's Skeletron's Hair.
+Because the 
+Compass
+ and 
+Depth Meter
+ reveal each tile to be 2 feet in length, Skeletron's head would be about 12′ 9″ (4.65 m) tall and 10′ (3.65 m) wide. The hands would be 6′ 6″ (2.37 m) tall and 6′ 6″ (2.37 m) across.
+Prior to 
+1.0.5
+, Skeletron Heads protected the 
+Dungeon
+, but when one was killed, it would count as killing Skeletron, so the Dungeon Guardians were introduced to protect the Dungeon instead.
+Skeletron's pre-
+1.3.5
+ head appears identical to the Dungeon Guardian.
+Skeletron is the only 
+boss
+ not to have any guaranteed drops (with the exception of 
+healing potions
+, a 
+Treasure Bag
+ if in Expert Mode and a 
+relic
+ if in 
+Master Mode
+).
+In the 
+Terraria
+ and 
+Edge of Space
+ crossover teaser, Skeletron turns into a boss called Omegatron.
+A 
+cloud
+ in the shape of Skeletron can occasionally be seen in the background.
+On the 
+initial release
+ of 
+Terraria
+, Skeletron was the final boss of the game.
+It is one of the two bosses that needs a town 
+NPC
+ to be alive in order to be summoned. The other is the Wall of Flesh.
+The sprite file for Skeletron's arms is named 
+Arm_Bone
+. Similarly, the sprite file for 
+Skeletron Prime
+'s arms is named 
+Arm_Bone_2
+.
+In older versions of the game, all parts of Skeletron took increased damage from ranged weapons.
+Verify
+The Red Hat variant loses its hat on death, revealing a skull with curly hair. This is in reference to ChippyGaming's signature hair style.
+Blood emits from the joints between Skeletron's arms and head, possibly implying that they are severed. This aligns with the 
+lore
+ pages.
+If the 
+Blood and Gore
+ setting in the menu is turned off, the blood emitted from Skeletron's joints is replaced by puffs of smoke.
+ – According to the 
+Terraria
+ lore pages
+, the 
+Dryads
+ ripped out part of 
+Cthulhu
+'s skeleton, and a curse caused all the inhabitants of the Dungeon to become undead.
+ The 
+Bestiary
+ entry for  Skeletron: 
+"
+The disembodied bones of a former tyrant pulsed with a hatred so strong, it left behind a mighty curse which guards the Dungeon.
+"
+The "former tyrant" refers to 
+Cthulhu
+.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.0
+: 
+Added a Red Hat variant that can drop 
+Chippy's set
+.
+Daytime damage increased from 1000 to 9999.
+Can no longer be dodged via accessories when enraged during daytime.
+Adjusted hand movement when slamming, fixing an issue where it could fly off-screen.
+The 
+Paladin's Shield
+ can no longer deflect any instant-kill damage from Skeletron.
+Changed music track from 
+Boss 1
+ to a new track exclusive to the boss fight, 
+Skeletron
+.
+Desktop 1.4.3.3
+: Now drops 
+Healing Potions
+ instead of 
+Lesser Healing Potions
+.
+Desktop 1.4.1
+: No longer immune to 
+On Fire!
+, 
+Cursed Inferno
+, 
+Venom
+, 
+Shadowflame
+, 
+Celled
+, or 
+Daybroken
+.
+Desktop 1.4.0.1
+: 
+Added 
+Skeletron Relic
+, a Master Mode exclusive drop that acts as a 
+trophy
+-like item.
+Added 
+Possessed Skull
+, a Master Mode exclusive drop that summons a miniature Skeletron pet.
+Added 
+Chippy's Couch
+, a reference to the YouTuber/streamer of the same name.
+Desktop 1.3.5
+: Sprite updated.
+Desktop 1.3.4.3
+: Fixed incorrect 
+status message
+ when summoned (was "Skeleton has awoken" instead of "Skeletron has awoken").
+Desktop 1.3.0.1
+: New AI and Treasure Bag added for Expert Mode.
+Desktop 1.2.1.2
+: Skeletron now spawns on the Clothier when using a Clothier Voodoo Doll.
+Desktop 1.2
+: 
+Can now be re-summoned with the 
+Clothier Voodoo Doll
+.
+Has additional item drops. (Previously only dropped Lesser Healing Potions and money.)
+Desktop 1.0.6
+: 
+Head health decreased from 5000 to 4400, but damage increased from 30 to 32.
+Hands health decreased from 800 to 600, defense decreased from 18 to 14, and damage decreased from 25 to 20.
+Desktop 1.0.5
+: 
+Head health decreased from 6000 to 5000, defense decreased from 12 to 10, and damage decreased from 35 to 30.
+Hands health decreased from 1200 to 800, and damage decreased from 30 to 25.
+Desktop-Release
+: Introduced.
+ Console version
+Console-Release
+: Introduced.
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile-Release
+: Introduced.
+Nintendo 
+3DS
+ version
+3DS-Release
+: Introduced.
+References
+[
+edit
+]
+↑ 
+1.0
+ 
+1.1
+ 
+1.2
+ 
+1.3
+ 
+1.4
+ 
+1.5
+ 
+1.6
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+AI()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+aiStyle == 11
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, class 
+DropLocalPerClientAndResetsNPCMoneyTo0
+ in 
+Terraria.GameContent.ItemDropRules.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Note that the player's center needs to be below 0 depth. The player's center is determined by the center of their hitbox, which is 42 pixels high and 20 pixels wide. If we consider the player takes up a 2-tile-wide×3-tile-high area, the player's center will be located at the middle tile in the left column of the 2×3 area when the player is standing exactly at the center of 2 tiles. Since the 
+Depth Meter
+ measures depth at the level of the player's feet, Dungeon Guardians will only start spawning once the Depth Meter displays "
+3'
+ 
+Underground
+" or more.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+AI()
+ in 
+Terraria.NPC.cs
+. The relevant part is the 
+aiStyle == 12
+ block. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+NPCLoot()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.5
+ source code, method 
+checkDead()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.6
+ source code, methods 
+NPCLoot()
+ in 
+Terraria.NPC.cs
+, 
+NPCLoot_DropHellforge
+, and 
+Skyblock.Calculate()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑
+ 
+https://www.youtube.com/@ChippyGaming
+↑
+ 
+Intervals depend on 
+world size
+: once per 35 / 53.3 / 70 real-life minutes in small world / medium world / large world respectively. Information taken from the 
+ Desktop
+ 
+1.4.5.3
+ source code, method 
+UpdateWorld()
+ in 
+Terraria.WorldGen.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+View or edit this template
+Characters 
+(List)
+:
+Pre-Hardmode Enemies
+Hardmode Enemies
+Event Enemies
+Bosses
+Critters
+Friendly NPCs
+Pre-Hardmode Enemies
+Common
+ Enemies
+Anomura Fungus
+Antlion
+Charger
+Larva
+Swarmer
+Bats
+Cave
+Ice
+Jungle
+Spore
+Bee
+Blood Crawler
+Crab
+Crimera
+Demon Eye
+Devourer
+Eater of Souls
+Face Monster
+Fungi Bulb
+Ghost
+Giant Worm
+Granite Elemental
+Granite Golem
+Harpy
+Hoplite
+Hornet
+Jellyfish
+Blue
+Pink
+Man Eater
+Meteor Head
+Mushi Ladybug
+Piranha
+Raven
+Skeleton
+Spore
+Shark
+Slimes
+Green
+Blue
+Red
+Purple
+Yellow
+Black
+Mother
+Baby
+Sand
+Ice
+Spiked Ice
+Jungle
+Spiked Jungle
+Shimmer
+Snatcher
+Snow Flinx
+Tomb Crawler
+Undead Viking
+Vulture
+Wall Creeper
+Zombie
+Frozen
+Maggot
+Moss
+Spore
+Uncommon
+ Enemies
+Beetles
+Cochineal
+Cyan
+Lac
+Crawdad
+Doctor Bones
+Giant Shelly
+Goblin Scout
+Golden Slime
+Gnome
+Nymph
+Pinky
+Salamander
+Sea Snail
+Squid
+Statue
+Tim
+Chaos Ball
+Undead Miner
+Underworld
+Bone Serpent
+Demon
+Fire Imp
+Burning Sphere
+Hellbat
+Lava Slime
+Voodoo Demon
+Dungeon
+Angry Bones
+Blazing Wheel
+Cursed Skull
+Dark Caster
+Water Sphere
+Dungeon Guardian
+Dungeon Slime
+Librarian Skeleton
+Spike Ball
+Water Bolt Mimic
+Hardmode Enemies
+Common
+ Enemies
+Angler Fish
+Angry Trapper
+Arapaima
+Armored Skeleton
+Armored Viking
+Bats
+Giant
+Illuminant
+Giant Flying Fox
+Black Recluse
+Blood Feeder
+Chaos Elemental
+Clinger
+Corruptor
+Vile Spit
+Derpling
+Digger
+Floaty Gross
+Gastropod
+Giant Fungi Bulb
+Fungi Spore
+Giant Tortoise
+Ice
+Herpling
+Hoppin' Jack
+Ice Elemental
+Ichor Sticker
+Icy Merman
+Jellyfish
+Blood Jelly
+Fungo Fish
+Green
+Jungle Creeper
+Moss Hornet
+Orca
+Pigron
+Pixie
+Possessed Armor
+Skeleton Archer
+Slimes
+Corrupt
+Crimslime
+Illuminant
+Slimeling
+Slimer
+Toxic Sludge
+Unicorn
+Wandering Eye
+Werewolf
+Wraith
+Wolf
+Uncommon
+ Enemies
+Crimson Axe
+Cursed Hammer
+Dune Splicer
+Enchanted Sword
+Martian Probe
+Medusa
+Mimic
+Corrupt
+Crimson
+Hallowed
+Jungle
+Moth
+Rock Golem
+Rune Wizard
+World Feeder
+Wyvern
+Desert
+Basilisk
+Desert Spirit
+Dune Splicer
+Ghoul
+Dreamer
+Vile
+Tainted
+Lamia
+Mummy
+Blood
+Dark
+Light
+Sand Poacher
+Underworld
+Lava Bat
+Red Devil
+Tortured Soul
+Dungeon
+Armored Bones
+Blue
+Hell
+Rusty
+Bone Lee
+Cultist Archer
+White
+Diabolist
+Dungeon Spirit
+Giant Cursed Skull
+Lunatic Devotee
+Mysterious Tablet
+Necromancer
+Paladin
+Ragged Caster
+Skeleton Commando
+Skeleton Sniper
+Tactical Skeleton
+Jungle Temple
+Flying Snake
+Lihzahrd
+Event Enemies
+Windy Day
+Angry Dandelion
+Windy Balloon
+Rain
+Angry Nimbus
+Flying Fish
+Ice Golem
+Raincoat Zombie
+Slimes
+Rainbow
+Umbrella
+Blood Moon
+Blood Eel
+Blood Zombie
+Clown
+Chattering Teeth Bomb
+Corrupt Bunny
+Vicious
+Corrupt Goldfish
+Vicious
+Corrupt Penguin
+Vicious
+Dreadnautilus
+Blood Squid
+Drippler
+Hemogoblin Shark
+The Bride
+The Groom
+Wandering Eye Fish
+Zombie Merman
+Sandstorm
+Angry Tumbler
+Sand Elemental
+Sand Shark
+Crystal Thresher
+Bone Biter
+Flesh Reaver
+Solar Eclipse
+Butcher
+Creature from the Deep
+Deadly Sphere
+Dr. Man Fly
+Fritz
+Eyezor
+Frankenstein
+Mothron
+Baby
+Egg
+Nailhead
+Psycho
+Reaper
+Swamp Thing
+The Possessed
+Vampire
+Halloween
+Ghost
+Hoppin' Jack
+Raven
+Goblin Army
+Archer
+Peon
+Thief
+Warrior
+Warlock
+Shadowflame Apparition
+Sorcerer
+Chaos Ball
+Frost Legion
+Mister Stabby
+Snow Balla
+Snowman Gangsta
+Old One's Army
+Drakin
+Etherian Goblin
+Etherian Goblin Bomber
+Etherian Javelin Thrower
+Etherian Lightning Bug
+Etherian Wyvern
+Kobold
+Kobold Glider
+Mysterious Portal
+Wither Beast
+Pirate Invasion
+Parrot
+Captain
+Pirate's Curse
+Corsair
+Crossbower
+Deadeye
+Deckhand
+Martian Madness
+Brain Scrambler
+Drone
+Engineer
+Gigazapper
+Gray Grunt
+Officer
+Ray Gunner
+Scutlix
+Gunner
+Tesla Turret
+Walker
+Pumpkin Moon
+Headless Horseman
+Hellhound
+Scarecrow
+Splinterling
+Poltergeist
+Frost Moon
+Elf Archer
+Elf Copter
+Flocko
+Gingerbread Man
+Krampus
+Nutcracker
+Present Mimic
+Yeti
+Zombie Elf
+Lunar Events
+Solar
+Corite
+Crawltipede
+Drakanian
+Drakomire
+Rider
+Solar Flare
+Selenian
+Sroller
+Solar Fragment
+Vortex
+Alien Queen
+Hornet
+Larva
+Storm Diver
+Vortexian
+Nebula
+Brain Suckler
+Evolution Beast
+Nebula Floater
+Predictor
+Stardust
+Flow Invader
+Milkyway Weaver
+Star Cell
+Stargazer
+Twinkle Popper
+Twinkle
+Bosses
+Pre-Hardmode
+King Slime
+Spiked Slime
+Eye of Cthulhu
+Servant of Cthulhu
+Eater of Worlds
+Vile Spit
+Brain of Cthulhu
+Creeper
+Queen Bee
+Bee
+Deerclops
+Skeletron
+Red Hat
+Dark Caster
+Wall of Flesh
+Leech
+Hardmode
+Queen Slime
+Bouncy Slime
+Crystal Slime
+Heavenly Slime
+The Twins
+The Destroyer
+Probe
+Skeletron Prime
+Plantera
+Spore
+Golem
+Empress of Light
+Duke Fishron
+Sharkron
+Detonating Bubble
+Lunatic Cultist
+Ancient Vision
+Phantasm Dragon
+Ancient Light
+Ancient Doom
+Moon Lord
+True Eye of Cthulhu
+Moon Leech Clot
+Mechdusa
+Event
+Flying Dutchman
+Dark Mage
+Old One's Skeleton
+Ogre
+Betsy
+Martian Saucer
+Mourning Wood
+Pumpking
+Everscream
+Santa-NK1
+Ice Queen
+Celestial Pillars
+Solar
+Vortex
+Nebula
+Stardust
+Critters
+Terrestrial
+Buggy
+Bunny
+Gem
+Gold
+Frog
+Gold
+Mystic
+Grasshopper
+Gold
+Grubby
+Maggot
+Mouse
+Gold
+Penguin
+Rat
+Scorpion
+Black
+Sea Turtle
+Sluggy
+Snail
+Glowing
+Magma
+Squirrel
+Red
+Gem
+Gold
+Stinkbug
+Turtle
+Jungle
+Water Strider
+Gold
+Worm
+Enchanted Nightcrawler
+Gold
+Truffle
+Aquatic
+Dolphin
+Goldfish
+Gold
+Pufferfish
+Pupfish
+Seahorse
+Gold
+Sea Turtle
+Aerial
+Bird
+Blue Jay
+Cardinal
+Gold
+Cockatiels
+Duck
+Mallard
+Dragonflies
+Gold
+Faeling
+Fairies
+Firefly
+Lavafly
+Lightning Bug
+Grebe
+Ladybug
+Gold
+Macaws
+Owl
+Seagull
+Toucan
+Butterflies
+Gold
+Hell
+Julia
+Monarch
+Prismatic Lacewing
+Purple Emperor
+Red Admiral
+Sulphur
+Tree Nymph
+Ulysses
+Zebra Swallowtail
+Friendly NPCs
+Pre-Hardmode
+Guide
+Merchant
+Nurse
+Demolitionist
+Dye Trader
+Angler
+Zoologist
+Dryad
+Painter
+Golfer
+Arms Dealer
+Tavernkeep
+Stylist
+Goblin Tinkerer
+Witch Doctor
+Clothier
+Mechanic
+Party Girl
+Hardmode
+Wizard
+Tax Collector
+Truffle
+Pirate
+Steampunker
+Cyborg
+Santa Claus
+Princess
+Town pets
+Bunny
+Cat
+Dog
+Slime
+Nerdy
+Cool
+Elder
+Clumsy
+Diva
+Surly
+Mystic
+Squire
+Other NPCs
+Traveling Merchant
+Skeleton Merchant
+Old Man
+Friendly NPCs
+ waiting for rescue
+Sleeping Angler
+Bound Goblin
+Webbed Stylist
+Bound Mechanic
+Unconscious Man
+Golfer Rescue
+Bound Wizard
+Old Shaking Chest
+Clumsy Balloon Slime
+Old One's Army
+Eternia Crystal

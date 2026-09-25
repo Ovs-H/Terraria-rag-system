@@ -1,0 +1,1237 @@
+Source URL: https://terraria.wiki.gg/wiki/Housing
+Title: Housing
+
+This is the 
+main
+ page whose information applies to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+For the differences of this information on 
+Old-gen console
+ and 
+3DS
+, see 
+Legacy:House
+.
+ 
+A basic house with the dimensions of 9 (exterior width) × 7 (exterior height).
+A 
+house
+ (or 
+home
+) is a structure built by the player that 
+town NPCs
+ require in order to spawn, with one house required per NPC. A structure must meet several requirements in order to function as a house (see details 
+below
+). The player can check if a structure meets the requirements, or assign NPCs to existing houses by using the 
+housing menu
+. If a house occupied by an NPC is damaged in a way that makes it invalid, the NPC will move out and walk around the area until a suitable house is restored. If there are vacant houses available in the world, the NPC may move into one of them. If the NPC gets killed and does not have a home, they will not respawn until a new house becomes available.
+If both a town NPC and their house is offscreen, they will teleport to their house during 
+night
+, 
+rain
+, 
+Solar Eclipse
+, or 
+Slime Rain
+. The 
+Old Man
+ will also teleport to his house if he is standing on 
+Dungeon Bricks
+, regardless of time. The Old Man will consider the 
+Dungeon
+ point (the spawn point of the Old Man, i.e. the left of the two tiles on which he stands during night) as his home.
+[
+1
+]
+The 
+Guide
+ will appear upon starting a regular new world, and if killed, he will require a house in order to respawn. The 
+Old Man
+, the 
+Traveling Merchant
+, and the 
+Skeleton Merchant
+ do not require houses.
+Similarly, the Guide, 
+Angler
+, 
+Goblin Tinkerer
+, 
+Tavernkeep
+, 
+Mechanic
+, 
+Stylist
+, 
+Wizard
+, 
+Tax Collector
+, and 
+Golfer
+ will each make their initial appearances regardless of available housing. Once initially found, each will require a suitable house before respawning.
+Certain naturally-generated structures can serve as houses and may inadvertently attract NPCs if players have placed 
+light sources
+ within them, such as 
+Floating Island
+ structures. NPCs can be moved from these to the player's structures using the housing menu.
+The requirements for a player-selected 
+Bed
+ to work as a 
+spawn point
+ are similar to those for NPC housing, but weaker; players do not need furniture beyond the Bed. See the 
+Beds
+ page for full details.
+Housing menu
+[
+edit
+]
+Housing menu
+The housing menu allows managing the placement of NPCs. It is accessed by pressing the small house button above the armor slots in the 
+inventory
+. The player can check whether a given house is suitable for 
+NPC
+ use or not, as well as manually assign a house to a specific NPC.
+To check whether a house is suitable for use, select the 
+ housing query mark in the housing menu and then press 
+⚒
+ Use / Attack
+ at anywhere inside the house. The check will also be performed when manually assigning an NPC to a house. A status message indicating whether the house is suitable or not will be displayed. 
+See the 
+Status messages
+ section for all possible status messages.
+   
+NPC flag
+   
+Pet flag
+Once a house is determined to be suitable, the player may assign an NPC to it by placing the corresponding 
+NPC flag
+ in it. Only the flags of existing NPCs will appear in the housing menu. For example, when first entering a new world, only the Guide's NPC flag is shown, and the NPC flags for other NPCs will only be shown when they have spawned in the world. NPC flags have two different appearances: regular and with golden frame. NPCs that move in by their own will have a regular flag (red flag for town NPCs and purple flag for 
+town pets
+). If they are assigned to a house, the flag will have a golden frame. This indicates that if the NPC currently inhabiting the home were to die, the replacement for that NPC would move into that specified home.
+When the player first meet the spawn conditions for an NPC, a random house from existing empty 
+suitable
+ houses will be assigned to them when they move in.
+Status messages
+[
+edit
+]
+Various 
+status messages
+ will be displayed when a house is queried or assigning an NPC to a house, indicating whether the house is valid, and what made it invalid.
+[
+2
+]
+ All possible status messages are listed below.
+Condition
+Status message
+The selected tile is a solid block.
+“
+This is a solid block!
+”
+Frame
+The house has at least 5 consecutive empty tiles in horizontal or vertical direction.
+“
+This room is missing a wall
+”
+The house has at least 5 consecutive unsafe walls in horizontal or vertical direction.
+“
+Natural walls in this room need replacing!
+”
+The house is less than 60 tiles in size.
+“
+This room is too small
+”
+The house is more than 750 tiles in size, or more than 100 tiles in width or height.
+“
+This room is too big
+”
+The house contains a 
+Stinkbug Blocker
+.
+“
+This room is infested by a stinkbug!
+”
+The house contains a 
+Ghostly Stinkbug Blocker
+.
+“
+This room is infested by a ghostly stinkbug!
+”
+Furniture
+The house is missing 
+furniture
+.
+“
+This house is missing 
+a light source
+, 
+a door
+, 
+a table
+, and 
+a chair
+.
+”
+Properties
+The house is already occupied by another NPC.
+“
+This housing is already occupied.
+”
+Evil score
+The house has too much 
+evil biome
+ tiles nearby.
+“
+This housing is corrupted.
+”
+Home tile score
+The house has no valid home tile.
+“
+This room has no space to stand in!
+”
+Truffle
+Attempts to assign 
+Truffle
+ to a house not in the 
+Glowing Mushroom biome
+.
+“
+This housing does not meet the requirements for a
+ Truffle”
+Others
+The house is somehow invalid if none of the above conditions are met.
+“
+This is not valid housing.
+”
+The house is valid.
+“
+This housing is suitable.
+”
+House validity evaluation
+[
+edit
+]
+When NPCs are about to move in, the player assigns NPCs to houses via the housing menu, or the player uses the housing query on a house, a house validity evaluation is performed on the chosen house.
+Liquids
+ will not affect the validity of a house.
+If the house validity evaluation is initiated by housing menu, the evaluation starts from the tile at the cursor, and certain 
+status messages
+ will appear to inform the player whether the house is suitable, or what made the house invalid.
+The house validity evaluation can be divided into 3 phases: Frame, furniture, and properties.
+Frame
+[
+edit
+]
+In this phase, the game will try to determine the frame and the internal area of a house, and complete several checks to its structure.
+[
+3
+]
+The range of a house includes a "connected" internal area and the "frame" surrounding it, in details:
+A tile can be "connected" in 8 directions, which means that tiles in the internal area have to be connected with each other in horizontal, vertical, or diagonal directions.
+"Frame" refers to the tiles surrounding the internal tiles. The frame must be completely closed (i.e. the internal area is completely unconnected to any tiles outside). The frame can only be made up of solid tiles (solid 
+blocks
+ or 
+platforms
+ that are not 
+actuated
+), 
+Trap Doors
+, 
+doors
+, or 
+Tall Gates
+ (only the tiles occupied when the doors are closed will count into the frame).
+All tiles within the range of a house (both the frame and the internal area) have to meet the following requirements:
+[
+4
+]
+All tiles must be at least 10 tiles away from the true 
+world edges
+.
+[
+a
+]
+There must be at least one tile occupied by a solid tile or a 
+safe wall
+ within the two tiles directly above/below/at the left side/at the right side of each tile (a cross with an arm length of 5 tiles centered on each tile).
+As a result, each house can contain portions of 
+unsafe walls
+ or tiles without safe walls that are no more than 4×4-tile in size.
+A house must have at least 60 but fewer than 750 total tiles, including the frame around it.
+A house's width and height must not exceed 100 tiles, including the frame around it.
+There are no 
+Stinkbug Blockers
+ within these tiles.
+After determining the frame of the house, the game will save two areas for subsequent checks:
+[
+5
+]
+The house area, which contains all internal tiles and the frame. This is used for checking 
+valid furniture
+ and 
+valid home tiles
+.
+The coordinates of the house, which contains the X coordinates of the left- and rightmost tile (X1 for left, X2 for right), and Y coordinates of the highest and lowest tile (Y1 for top, Y2 for bottom), including all frame tiles. This is used for checking 
+evil score
+ and 
+valid home tiles
+.
+For rectangular houses, this is the same as the house area's borders' coordinates.
+ 
+The house area (
+ red area) and a rectangle created with house coordinates (
+ yellow area).
+Minimal house sizes
+[
+edit
+]
+ 
+A miniature 3×10 house.
+ 
+A simple, valid house.
+Given the minimum size of 60 tiles including the frame, a rectangular house must have at least one of the following dimensions:
+Excluding ceiling, floor and walls
+Including ceiling, floor and walls
+3 tiles wide × 10 tiles high
+[
+b
+]
+5 tiles wide × 12 tiles high
+4 tiles wide × 8 tiles high
+6 tiles wide × 10 tiles high
+5 tiles wide × 7 tiles high
+7 tiles wide × 9 tiles high
+6 tiles wide × 6 tiles high
+8 tiles wide × 8 tiles high
+7 tiles wide × 5 tiles high
+9 tiles wide × 7 tiles high
+8 tiles wide × 4 tiles high
+10 tiles wide × 6 tiles high
+10 tiles wide × 3 tiles high
+12 tiles wide × 5 tiles high
+Note that a house does not need to be rectangular. The dimensions above are merely examples.
+Furniture
+[
+edit
+]
+In this phase, the game will check for pieces of 
+furniture
+ in the 
+house area
+.
+A valid house has to contain at least one piece of furniture from each of these four categories: 
+light source
+, 
+table
+, 
+chair
+, and 
+door
+.
+[
+6
+]
+ See below for the list of all eligible items.
+[
+7
+]
+The smallest and most easily obtainable objects that meet the requirements are a 
+Torch
+, a 
+Work Bench
+, a 
+Chair
+, and a 
+Wood Platform
+.
+Not every item that provides light will fulfill a house's light source requirement; in particular, no solid blocks, platforms, or walls qualify.
+The entrance does not need to be 
+usable
+ by the NPC (e.g. NPCs cannot use Trap Doors) nor does it have to lead "outdoors" (e.g. an indoor platform also works).
+Any type of each item listed below will fulfill the requirement. For example, a Torch of any color will work, as will any type of chair.
+If a house is missing any required furniture, it will be mentioned in the 
+status message
+.
+[
+2
+]
+For example, a house without any furniture will produce 
+“
+This house is missing 
+a light source
+, 
+a door
+, 
+a table
+, and 
+a chair
+.
+”
+Light source
+Light source
+Any item with a 
+Tile ID
+ of 4, 33, 34, 35, 42, 49, 92, 93, 95, 98, 100, 149, 173, 174, 270, 271, 316, 317, 318, 372, 405, 572, 581, 592, 646, or 660:
+Torches
+Tiki Torch
+Candles
+Skull Lantern
+Candelabras
+Lamps
+Lanterns
+Chandeliers
+Fireplace
+Jack 'O Lantern
+Christmas lights
+Jellyfish jars
+Lamp Post
+Hanging Brazier
+Table
+Table
+Any item with a 
+Tile ID
+ of 14, 18, 87, 88, 90, 101, 354, 355, 464, 469, 487, or 699:
+Tables
+Dressers
+Work Benches
+Bathtubs
+Bookcases
+Pianos
+Alchemy Table
+Bewitching Table
+War Table
+Alchemy Flask
+Chair
+Chair
+Any item with a 
+Tile ID
+ of 15, 79, 89, 102, 487, or 497:
+Chairs
+Toilets
+Beds
+Benches
+Sofas
+Chippy's Couch
+Throne
+Picnic Tables
+Door
+Door
+Any item with a 
+Tile ID
+ of 10, 11, 19, 386, 387, 388, 389, 427, 435, 436, 437, 438, or 439:
+Platforms
+Doors
+Tall Gate
+Trap Door
+Properties
+[
+edit
+]
+In this phase, the house looks structurally valid, but there are three reasons it can still be rejected: If it is already occupied, if it is too close to or inside an 
+evil biome
+, or if there is no place inside for the NPC to stand at night.
+First, the game checks if the house is already occupied by another NPC. If it is, then the house is invalid and the 
+status message
+ 
+“
+This housing is already occupied.
+”
+ will be displayed.
+Otherwise, two properties of the house are checked to determine whether it is a valid house: one is the "evil score", the other is the "home tile score".
+[
+8
+]
+Evil score
+[
+edit
+]
+The evil score is calculated as follows.
+Example of the evil score area (
+ orange area).
+The area checked will be an area based on the 
+coordinates of the house
+, extended outwards. The extended distances are:
+[
+9
+]
+Horizontal: Start from the leftmost/rightmost tiles within the range of a house, extend 45 tiles in both directions (from X1-45 to X2+45).
+Vertical: Start from the highest/lowest tiles within the range of a house, extend 42 tiles upwards and 45 tiles downwards (from Y1-42 to Y2+45).
+If any of the four borders of the area checked is less than 5 tiles from the true 
+world edge
+, then draw back the area to 5 tiles away from the edge.
+[
+c
+]
+Calculate the total evil score of all valid tiles (including the 
+actuated
+ ones) within the area, see the table below for details:
+[
+10
+]
+Valid tiles
+Tiles
+Impact to the score
+Corrupt grass
+Internal 
+Tile ID
+: 23
++1 point for each tile
+Ebonstone Block
+Internal 
+Tile ID
+: 25
+Purple Ice Block
+Internal 
+Tile ID
+: 163
+Ebonsand Block
+Internal 
+Tile ID
+: 112
+Ebonsandstone Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 400
+Hardened Ebonsand Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 398
+Corruption thorny bushes
+Internal 
+Tile ID
+: 32
+Wild Corrupt plants
+Internal 
+Tile ID
+: 24
+Vile Mushroom
+Internal 
+Tile ID
+: 24
+Crimson grass
+Internal 
+Tile ID
+: 199
+Crimstone Block
+Internal 
+Tile ID
+: 203
+Red Ice Block
+Internal 
+Tile ID
+: 200
+Crimsand Block
+Internal 
+Tile ID
+: 234
+Crimsandstone Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 401
+Hardened Crimsand Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 399
+Crimson thorny bushes
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 352
+Hallowed grass
+Internal 
+Tile ID
+: 109
+−1 point for each tile
+Pearlstone Block
+Internal 
+Tile ID
+: 117
+Pink Ice Block
+Internal 
+Tile ID
+: 164
+Pearlsand Block
+Internal 
+Tile ID
+: 116
+Pearlsandstone Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 403
+Hardened Pearlsand Block
+(Desktop, Console and Mobile versions)
+Internal 
+Tile ID
+: 402
+Short wild Hallowed plants
+Internal 
+Tile ID
+: 110
+Mushroom
+Internal 
+Tile ID
+: 110
+(Only Mushrooms on Hallowed grass count.)
+Tall wild Hallowed plants
+Internal 
+Tile ID
+: 113
+(Each plant only counts as one tile, despite their sprites being two tiles in height.)
+Sunflower
+Internal 
+Tile ID
+: 27
+−40 points each
+[
+d
+]
+Final calculation: Evil score = Corruption tile score + Crimson tile score + Hallowed tile score + Sunflower score
+If the evil score is at least 300, then the house is invalid, and the 
+status message
+ 
+“
+This housing is corrupted.
+”
+ will be displayed. If an occupied house becomes Corrupted/Crimson'd, the 
+NPC
+ living there may move out and wander around until a new house becomes available.
+If the evil score is at least 50 but less than 300, then the base "home tile score" will be reduced by the evil score when finding valid home tiles.
+If the evil score is less than 50, it will be treated as 0.
+Home tile score
+[
+edit
+]
+Then, start to check whether there is a valid "home tile" within the house. A home tile will be chosen from tiles within a rectangular area based on the 
+coordinates of the house
+. The area starts at 1 tile from the left and rightmost tile, 2 tiles from the top, and extends 1 tile from the bottom (from X1+1 to X2-1, and from Y1+2 to Y2+1).
+[
+8
+]
+Part of the home tile area is outside of the house coordinates area. However, the home tile has to be within the 
+house area
+, so the actual vertical range is equivalent to Y1+2 to Y2.
+The rectangle created with coordinates (
+ yellow area), and the area in which a home tile is chosen (
+ magenta area).
+ 
+★
+ 
+★
+ 
+★
+ 
+★
+ 
+Home tile
+Example of tiles to be checked.
+Assume the 
+ purple tile is the tile to be checked, it has to fulfill the following requirements to become a possible home tile:
+It is not a 
+Bubble
+.
+Itself and the tiles to the left and right to it (
+ blue tiles) must be solid, unactuated tiles.
+There are no objects that block entities from passing (actuated solid blocks are not allowed, but platforms are) in the 3×3 area directly above it (
+ yellow tiles).
+There are no solid tiles among the 3 tiles directly above it (
+ yellow tiles marked with a ★ star), and these 3 tiles are all in the 
+house area
+.
+If there is a tile that meets the above requirements, calculate the "home tile score" using the objects in the 5×4 area directly above it (
+ red and 
+ yellow tiles). The "home tile score" starts at 50, minus the evil score if the evil score is at least 50 but less than 300. There are two parts of calculation: the first calculation tries to find tiles that are suitable for standing (a suitable home tile), while the second calculation reduces the score of tiles with acceptable background objects behind to find a home tile at open spaces.
+Most types of solid tiles (blocks, furnitures, etc.) in the area will affect the home tile score. Below is a list of excluded tiles:
+[
+11
+]
+Excluded tiles
+Any tile with a 
+Tile ID
+ of 3, 4, 73, 82, 83, 84, or 386:
+Regular grass and tall grass plants
+Mushroom
+Torches
+Herbs
+(any stage)
+Trap Door
+(Desktop, Console and Mobile versions)
+(opened)
+For the first calculation, only 
+ red and 
+ yellow tiles without ★ star (16 tiles) will be checked. The 4 tiles in the middle column (the 1×4 area directly above the tile; tiles marked with a ★ star) will not be used, they only participate in the second calculation (see below). 
+Chests
+ are also ignored until the second calculation. During the first calculation:
+−20 points for each tile occupied by a closed 
+door
+, the hinge of an opened door
+[
+e
+]
+, closed 
+Tall Gate
+, or open Tall Gate.
+−5 points for each unactuated solid tile.
++5 points for each tile occupied by other objects, or unoccupied at all.
+After the first calculation, if the home tile score is 0 or lower, then the tile is invalid; if the home tile score is greater than 0, then continue to the second calculation:
+If assigning a second NPC into the house, resulting in them sharing the house (a town NPC and a 
+town pet
+(Desktop, Console and Mobile versions)
+), and the current tile is less than 3 tiles horizontally away
+[
+f
+]
+ from the existing NPC's home tile, then the score is set to 1.
+If there are any type of 
+chests
+ (Tiles with 
+ID
+ 21 and 467
+[
+12
+]
+) within the 5×4 area above excluding the middle column (
+ red and 
+ yellow tiles without ★ star), then −30 points for each tile occupied by chests. If the score is below 1 after this calculation, set it to 1.
+If there are unactuated blocks within the 1×4 area above (
+ yellow tiles), then −15 points for each tile. If the score is below 1 after this calculation, set it to 1.
+After these two calculations, the tiles with a "home tile score" greater than 0 will become valid home tiles. There has to be at least one valid home tile in a house to serve as the standing point of NPCs, otherwise the 
+status message
+ 
+“
+This room has no space to stand in!
+”
+ will be displayed. The 
+NPC flag
+ will hang directly above the standing point. If there are multiple valid home tiles, then the tile with highest score and being nearest to the top left corner of the house will be selected
+[
+g
+]
+.
+Any valid house can always settle both a town NPC and a town pet. But if the house is very small, they will share the single home tile.
+Truffle
+[
+edit
+]
+The 
+Truffle
+ NPC has extra requirements for his house:
+It must have at least 100 tiles of 
+Glowing Mushroom biome
+ tiles in the area around it. The area is the same size as 
+the area used for calculating the evil score
+.
+[
+13
+]
+If the Truffle is not unlocked 
+(see 
+Truffle
+ article for details)
+, the 
+lowest tile (Y2)
+ of the house also has to be above surface.
+Glowing Mushroom biome tiles
+Any tile with a 
+Tile ID
+ of 70, 71, 72, or 528:
+Mushroom grass
+Glowing Mushroom
+Giant Glowing Mushroom
+Mushroom Vine
+(Desktop, Console and Mobile versions)
+If attempting to move Truffle to a house that does not fulfill this requirement, the 
+status message
+ 
+“
+This housing does not meet the requirements for a
+ Truffle”
+ will be displayed.
+Achievements
+[
+edit
+]
+ 
+No Hobo
+ • 
+“Build a house suitable enough for your first town NPC, such as the guide, to move into.”
+Successfully get an 
+NPC
+ to move into your first 
+house
+.
+Category: 
+ Explorer
+ 
+Real Estate Agent
+ • 
+“Have all possible town NPCs living in your world.”
+House every 
+town NPC
+ in your world.
+Category: 
+ Challenger
+Notes
+[
+edit
+]
+ 
+Two examples of houses with no empty wall. NPCs cannot move into these houses on their own, and must be assigned by a player.
+Increasing the empty wall area (i.e. tiles with only background walls and without other 
+solid blocks/background objects
+) of empty houses in the worlds allows NPCs to move in faster. Also, using 
+Sandstone Brick Walls
+ for houses will increase the time for NPCs to move in.
+[
+14
+]
+This means that a house with no empty wall area can only be assigned by a player.
+Houses may be attached together and share common walls, floors, ceilings, and doors. What looks to the player like a multi-room house or apartment complex looks to the NPCs like a collection of independent houses.
+Nearly any NPC house will qualify for a player to place and use a Bed as their spawn point, so long as the tiles immediately above the bed are clear (see the 
+Beds
+ page for full details). The Bed also counts as a comfort item.
+If a house with an assigned NPC is destroyed or any of its requirements are invalidated, the NPC will wander the area until a valid house becomes available again. If killed, the NPC will respawn once a valid house is available.
+An NPC will not spawn within its house if that house is on the visible screen at the time, and may walk around the area outside instead. At night, when it 
+rains
+, and during any 
+event
+, NPCs will be automatically placed inside their houses if the player travels several screens away, or if the player uses any 
+Magic Mirror
+ or the 
+Teleporter
+.
+The edges of the world do not count as part of the frame of a house.
+If a background wall has been converted by 
+biome spread
+ (e.g. 
+Stone Wall
+ to 
+Pearlstone Wall
+), the house will become invalid as the converted wall is considered 
+unsafe
+.
+Tips
+[
+edit
+]
+ 
+ An infinite house. It no longer works as of 
+1.3.1
+(Desktop, Console and Mobile versions)
+.
+Leaving tiles without walls or with unsafe walls within the house may sometimes allow enemies to spawn. Transparent walls like 
+Glass Walls
+ can be used for safer windows.
+Houses in the 
+Corruption
+ or 
+Crimson
+ 
+biomes
+ are usually invalid. This could make purchasing items with biome requirements (most notably for the 
+Painter
+) harder. For these circumstances, one can use a 
+King Statue
+ or a 
+Queen Statue
+ to teleport the NPCs and purchase these items.
+If one does not have access to King or Queen Statues, building a house just outside of the evil score detection range but still within the evil biome (the evil biome's background should be visible) will create a valid house within said biome.
+Actuators
+ can be used with 
+Weighted Pressure Plates
+ to allow players entry but prevent 
+enemies
+ from entering or NPCs from leaving. Weighted Pressure Plates have an advantage over other Pressure Plates, since stepping off one closes the door behind the player.
+Trap Doors
+ can also be used, as neither enemies nor NPCs can open them.
+One may also use a 
+"Player Above" sensor
+ to save space on the floor for furniture. Note that the sensor must go under the floor, as it is not a valid tile for the floor itself.
+As long as the house meets the size criteria, it can be any shape, not just rectangles and squares (e.g. a dome-shaped house would still be viable).
+It is a wise decision to build "spare" houses beyond the current number of NPCs:
+Any new NPCs can move in as soon as they are spawned or found (perhaps unexpectedly).
+Especially when entering Hardmode, some houses may be invalidated by Corruption or Crimson; having spares will help avoid NPCs being left homeless.
+Having extras at each base will help with shuffling NPCs around to manage 
+happiness
+, and/or make sure 
+pylons
+ remain usable.
+When building homes underground, 
+Sticky Bombs
+ or 
+Scarab Bombs
+ are a good choice, as they are accurate and break 
+background walls
+ for easier wall placement.
+While it may be tempting to tuck all the NPCs into small houses, this will leave little room for decoration or even equipment. Many 
+crafting stations
+ are 3 tiles wide by 3 high, and as the game progresses, a player can obtain 
+paintings
+ and 
+animal skins
+ up to 6 tiles wide by 4 high, and potted plants that are 3 tiles wide and up to 6 high that they may wish to place inside their NPC's houses.
+Also, as said 
+above
+, NPCs will move in faster if there are more empty wall areas in the house.
+Houses are good places for players to indulge their creativity. It can be entertaining to provide NPCs with decorated and themed homes, even if they would be satisfied with empty cells. The 
+NPC happiness system
+ builds on this source of entertainment, by giving NPCs preferences for their house's location and proximity to houses of other NPCs. That said, NPC happiness is 
+not
+ affected by a house's appearance or decoration, leaving the player with a free hand.
+Trivia
+[
+edit
+]
+A house that has tiles within 10 tiles from the true edge of the world is considered invalid with the status message 
+“
+We need better text for this!!!
+”
+[
+15
+]
+ However, it is impossible to achieve the condition without editing the world externally, as the distance between the visible 
+world edge
+ and true world edge is 40 tiles.
+See also
+[
+edit
+]
+Guide:Bases
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.5.0
+: 
+The requirements for a home tile were relaxed:
+Home tile can be a 
+platform
+.
+The coordinate of the house is now determined by the external frame, rather than the internal tiles.
+[
+16
+]
+The second calculation of a home tile's score will not fail.
+[
+17
+]
+The maximum width or height of houses are now capped at 100 tiles.
+The housing query now gives visual feedback on the suitability of any queried space.
+The housing query now indicates when a house is invalid because it does not have a spot to stand on.
+NPCs now wait a minute to look for a new house after being evicted.
+Homeless NPCs now have a Housing dialogue option instead of Happiness, containing instructions on how to build a suitable house.
+Reordered the NPCs in the Housing menu so they now appear in their approximate unlock order.
+Desktop 1.4.0.1
+: 
+Chippy's Couch
+ may now be used as a comfort item in houses.
+Desktop 1.3.5.3
+: Fixed an error when trying to use the room query on an unfit room in certain languages.
+Desktop 1.3.5
+: 
+NPCs
+ who are manually assigned to a room will have their successor attempt to move in when the original is killed.
+Desktop 1.3.2
+: Fixed 
+Team Platforms
+ not acting as viable doors for housing.
+Desktop 1.3.1
+: Removed the "infinite house" glitch.
+Desktop 1.3.0.5
+: 
+Living Leaf Walls
+ can now be used as a 
+background
+ for houses.
+Desktop 1.3.0.1
+: 
+Blue Slab Walls
+ from the 
+Dungeon
+ are now detected as valid for houses.
+Desktop 1.2.4.1
+: Opening 
+doors
+ will once again cause a house to be unsuitable, but only if two doors are opened into the same house (depends on the size of the house).
+Desktop 1.2
+: Fixed a bug that would cause a suitable house to be unsuitable.
+Desktop 1.1
+: There is now a housing menu (a built-in interface) for checking if a house is valid for being moved into, and for assigning NPCs to specific houses.
+Desktop 1.0.6
+: Requirements modified; may now use a 
+Bed
+, 
+Toilet
+, 
+Throne
+, or 
+Bench
+ instead of a 
+chair
+, and may use a 
+Dresser
+, 
+Bathtub
+, or 
+Bookcase
+ instead of a 
+table
+ or 
+Work Bench
+.
+References
+[
+edit
+]
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.4.7
+ source code, method 
+AI_007_TownEntities()
+ in 
+Terraria.NPC.cs
+. There may be inaccuracies, as the current Desktop version is 1.4.5.8.
+↑ 
+2.0
+ 
+2.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+MoveTownNPC()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+StartRoomCheck()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, methods 
+StartRoomCheck()
+ in 
+Terraria.WorldGen.cs
+ and 
+CheckRoom()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+CheckRoom()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+RoomNeeds()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, class 
+RoomNeeds
+ in 
+Terraria.ID.Sets.cs
+.
+↑ 
+8.0
+ 
+8.1
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+ScoreRoom()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+Housing_GetTestedRoomBounds()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+GetTileTypeCountByCategory()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, field 
+Sets.IgnoredInHouseScore
+ in 
+Terraria.ID.TileID.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, field 
+BasicChest
+ in 
+Terraria.ID.TileID.Sets.cs
+. As a result, 
+Trapped Chests
+ do not count, but 
+Locked Chests
+ do.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+CheckSpecialTownNPCSpawningConditions()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, methods 
+TrySpawningTownNPC()
+ in 
+Terraria.WorldGen.cs
+ and 
+SpawnTownNPC()
+ in 
+Terraria.WorldGen.cs
+. For any other valid housing walls, the move in chance is 
+1/1 (100%)
+, while Sandstone Brick Walls have a chance of 
+1/4 (25%)
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+StartRoomCheck()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.0
+ source code, method 
+CheckRoom()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Information taken from the 
+ Desktop
+ 
+1.4.5.0
+ source code, method 
+ScoreRoom()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+The distance between the visible in-game world edge and the true world edge is 40 tiles, so this should not be triggered during normal gameplay.
+↑
+ 
+Only possible when using a 
+Work Bench
+ instead of a table.
+↑
+ 
+Note that this is possible during a normal gameplay, as the extended distance is farther than the distance between the visible world edge and the true world edge (40 tiles).
+↑
+ 
+Each tile counts as −5 points, while each Sunflower takes up 8 tiles.
+↑
+ 
+The tiles that a closed door occupies. Information taken from the 
+ Desktop
+ 
+1.4.5.8
+ source code, method 
+IsOpenDoorAnchorFrame()
+ in 
+Terraria.WorldGen.cs
+.
+↑
+ 
+Only checks the horizontal coordinates, i.e. the difference between the X coordinates.
+↑
+ 
+The game will check the tiles from top to bottom, and left to right. If detected a tile with higher score than any checked tiles, then it will be reserved as the home tile; if a tile's score is lower than or equal to the previous score, then it will be skipped. So, when multiple tiles are tied with each other, the topmost and leftmost tile will be selected as the home tile.

@@ -1,0 +1,701 @@
+Source URL: https://terraria.wiki.gg/wiki/Cell_Phone
+Title: Cell_Phone
+
+Desktop
+/
+Console
+/
+Mobile
+-Only Content
+: This  information applies 
+only
+ to the 
+Desktop
+, 
+Console
+, and 
+Mobile
+ versions of 
+Terraria
+.
+Cell Phone
+Statistics
+Type
+Tool
+Crafting material
+Use time
+90 
+(Snail)
+Tooltip
+Displays everything
+Allows you to return home at will
+Rarity
+Sell
+8
+ Gold
+Research
+1 required
+Sounds
+Use
+Internal 
+Item ID
+: 
+3124
+ 
+See also: 
+Guide:Crafting a Shellphone
+ 
+“You'll never leave home without it again.”
+ 
+The 
+Cell Phone
+ is a post-
+Skeletron
+ 
+informational item
+ and 
+tool
+ that combines the functions of the 
+PDA
+ and the 
+Magic Mirrors
+, displaying all information and allowing the player to teleport to their 
+spawn point
+. Unlike most informational items, the Cell Phone does not double as an 
+accessory
+. It instead functions solely from the player's main 
+inventory
+.
+Crafting
+[
+edit
+]
+Recipes
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Cell Phone
+(Desktop, Console and Mobile versions)
+PDA
+(Desktop, Console and Mobile versions)
+Magic Mirror
+Tinkerer's Workshop
+PDA
+(Desktop, Console and Mobile versions)
+Ice Mirror
+(Desktop, Console and Mobile versions)
+Crafting tree
+[
+edit
+]
+ 
+Platinum Bar
+ × 10
+Chain
+Gold Bar
+ × 10
+The following three are interchangable with 
+Shimmer
+.
+ 
+Radar
+( 
+ 
+ 
+ 
+ )
+DPS Meter
+( 
+ )
+Fisherman's Pocket Guide
+( 
+ )
+ 
+ 
+ 
+Platinum Watch
+or
+Gold Watch
+Tally Counter
+( 
+ 
+ 
+ 
+ )
+Stopwatch
+( 
+ )
+Weather Radio
+( 
+ )
+ 
+ 
+Depth Meter
+( 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+Compass
+( 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+Lifeform Analyzer
+( 
+ )
+Metal Detector
+( 
+ )
+Sextant
+( 
+ )
+ 
+ 
+ 
+ 
+GPS
+R.E.K. 3000
+Goblin Tech
+Fish Finder
+ 
+ 
+ 
+Platinum Bar
+ × 8
+or
+Gold Bar
+ × 8
+Glass
+ × 10
+Diamond
+ × 3
+PDA
+ 
+ 
+ 
+ 
+Magic Mirror
+( 
+ )
+or
+Ice Mirror
+( 
+ )
+ 
+ 
+ 
+ 
+Cell Phone
+Used in
+[
+edit
+]
+Result
+Ingredients
+Crafting station
+Shellphone
+(Desktop, Console and Mobile versions)
+Cell Phone
+(Desktop, Console and Mobile versions)
+Magic Conch
+(Desktop, Console and Mobile versions)
+Demon Conch
+(Desktop, Console and Mobile versions)
+Tinkerer's Workshop
+Notes
+[
+edit
+]
+ 
+Example information displayed by a Cell Phone.
+In a 
+Drunk
+ world, it is possible to get the Cell Phone before defeating 
+Skeletron
+.
+The info it provides will be shared with players of the same team in 
+multiplayer
+ that are within 50 tiles.
+Achievements
+[
+edit
+]
+ 
+Black Mirror
+ • 
+“Obtain the Cell Phone. You'll never leave home without it again.”
+Obtain the 
+Cell Phone
+.
+Category: 
+ Collector
+Trivia
+[
+edit
+]
+The Cell Phone has one of the most complex crafting trees in 
+Terraria
+,
+ using 14 base items (and 7 crafting operations), beaten by its upgrade, the 
+Shellphone
+, which uses 16, and beaten again by the 
+Zenith
+, which uses 22.
+The Cell Phone's nature as a single "catch-all" device parallels the multi-functionality of real modern 
+smartphones
+, which have largely rendered once-common appliances like watches, compasses, timers, radios, and atlases for the most part obsolete. The usage of a mirror in the recipe could likewise be a reference how a smartphone's 
+selfie
+ camera may be used as a mirror. The mirror could also be because of the mirror-like touchscreen, which is vastly different from the older model phones which used buttons, or the "home" button found on many cell phones, due to the mirror being used to take the player "home."
+It does not seem to be based on any particular real-life smartphone models.
+The Cell Phone is one of four non-
+accessories
+ that is crafted at a 
+Tinkerer's Workshop
+, the others being the 
+Ultrabright Helmet
+, 
+Multicolor Wrench
+, and 
+The Grand Design
+.
+Despite its 
+rarity
+ of 
+, the Cell Phone can be acquired 
+pre-Hardmode
+.
+It has one of the slowest 
+use times
+ in the game, tied with the 
+Magic Conch
+, 
+Demon Conch
+, 
+Magic Mirrors
+, 
+Shellphone
+, and 
+Snake Charmer's Flute
+.
+History
+[
+edit
+]
+ Desktop version
+Desktop 1.4.4
+: 
+Added an achievement for crafting the Cell Phone.
+Now used to craft the 
+Shellphone
+.
+Desktop 1.3.0.1
+: Introduced.
+ Console version
+Console 1.0.933.1
+: Introduced. (
+)
+Console 1.0.750.0
+: Introduced. (
+)
+ Nintendo Switch version
+Switch 1.0.711.6
+: Introduced.
+ Mobile version
+Mobile 1.3.0.7
+: Introduced.
+View or edit this template
+Tools:
+Usual Tools
+Grappling Hooks
+Summoning Tools
+Other Tools
+Usual Tools
+Digging Tools
+Pickaxes
+Copper
+Tin
+Cactus
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Candy Cane
+Platinum
+Fossil
+Reaver Shark
+Bone
+Nightmare
+Deathbringer
+Molten
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Spectre
+Luminite
+Drills
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Laser Drill
+Luminite
+Other
+Gravedigger's Shovel
+Cutting Tools
+Axes
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+War Axe of the Night
+Blood Lust Cluster
+Axe of Regrowth
+Lucy the Axe
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Chainsaws
+Sawtooth Shark
+Cobalt
+Palladium
+Mythril
+Orichalcum
+Adamantite
+Titanium
+Chlorophyte
+Butcher's
+Other
+Axearang
+Hammers
+Wooden
+Boreal
+Palm
+Rich Mahogany
+Ebonwood
+Shadewood
+Ash Wood
+Pearlwood
+Copper
+Tin
+Iron
+Lead
+Silver
+Tungsten
+Gold
+Platinum
+The Breaker
+Flesh Grinder
+Rockfish
+Pwnhammer
+Hammush
+Chlorophyte
+Warhammer
+Jackhammer
+Multi-use Tools
+Pickaxe and Axe
+Pickaxe Axe
+Drax
+Shroomite Digging Claw
+Picksaw
+Hammer and Axe
+Meteor
+Molten
+Haemorrhaxe
+Spectre
+Luminite
+The Axe
+Grappling Hooks
+Single Hooks
+Grappling
+Squirrel
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Candy Cane
+Bat
+Dissonance
+Multi Hooks
+Web Slinger
+Slime
+Skeletron Hand
+Fish
+Ivy Whip
+Dual
+Thorn
+Illuminant
+Worm
+Tendon
+Anti-Gravity
+Spooky
+Christmas
+Lunar
+Static
+Summoning Tools
+Pets
+Amber Mosquito
+Baby Grinch's Mischief Whistle
+Ball O' Fuse Wire
+Bamboo Leaf
+Bedazzled Nectar
+Beguiling Lyre
+Bernie's Button
+Betsy's Egg
+Birdie Rattle
+Blue Chicken Egg
+Bone Key
+Bone Rattle
+Brain in a Jar
+Carrot
+ 
+(Desktop and Mobile versions)
+Celestial Wand
+Companion Cube
+Cosmic Skateboard
+Cursed Sapling
+Deactivated Probe
+Deerclops Eyeball
+Digtoise
+Dog Whistle
+Dragon Egg
+Eater's Bone
+Eucalyptus Sap
+Exotic Chew Toy
+Eye Bone
+Eye Spring
+Faecorn
+Fish
+Friendly Boulder
+Friendly Rainbow Boulder
+Frozen Crown
+Full Moon Squeaky Toy
+Gato Egg
+Glommer's Flower
+Glow Tulip
+Lightning Carrot
+Lizard Egg
+Magical Pumpkin Seed
+Monster Meat
+Mud Bud
+Nectar
+Ogre's Club
+Ornate Shadow Key
+Pair of Eyeballs
+Parrot Cracker
+Piece of Moon Squid
+Plantera Seedling
+Pork of the Sea
+Possessed Skull
+Puffer Shrimp
+Regal Delicacy
+Resplendent Dessert
+Robotic Skull
+Royal Delight
+Seaweed
+Seedling
+Shark Bait
+Shrub Star
+Slice of Hell Cake
+Sparkling Honey
+Spider Egg
+Spiffo Plush
+Stardrop
+Strange Glowing Mushroom
+Suspicious Grinning Eye
+Swarm Grenade
+Tablet Fragment
+The Dirtiest Block
+Tiki Totem
+Toy Sled
+Unlucky Yarn
+Writhing Remains
+Zephyr Fish
+Mounts
+Amulet of the Night
+Ancient Horn
+Black Studded Saddle
+Blessed Apple
+Brain Scrambler
+Chillet
+Cosmic Car Key
+Cursed Piper Flute
+Dark Mage's Tome
+Drill Containment Unit
+Dusty Rawhide Saddle
+Enchanted Pixie Dust
+Fuzzy Carrot
+Gelatinous Pillion
+Goat Skull
+Golf Cart Keys
+Hardy Saddle
+Hexxed Branch
+Honeyed Goggles
+Lilith's Necklace
+Mollusk Whistle
+Pogo Stick
+Reindeer Bells
+Roller Skates
+Royal Gilded Saddle
+Scaly Truffle
+Shrimpy Truffle
+Slasher's Mysterious Skull
+Slimy Saddle
+Superheated Blood
+The Black Spot
+Toy Tank
+Witch's Broom
+Minecarts
+Wooden
+Minecart
+Mechanical
+Desert
+Minecarp
+Bee
+Ladybug
+Pigron
+Sunflower
+Demonic Hellcart
+Shroom
+Amethyst
+Topaz
+Sapphire
+Emerald
+Ruby
+Diamond
+Amber
+Beetle
+Meowmere
+Party Wagon
+The Dutchman
+Steampunk
+Coffin
+Digging Molecart
+Fart Kart
+Terra Fart Kart
+Light Pets
+Shadow Orb
+Crimson Heart
+Magic Lantern
+Fairy Bell
+Creeper Egg
+Guardian Golem
+Jewel of Light
+Pumpkin Scented Candle
+Wisp in a Bottle
+Suspicious Looking Tentacle
+Portable storage
+Money Trough
+Void Bag
+Other Tools
+Exploration
+Binoculars
+Breathing Reed
+Magic Mirror
+Ice Mirror
+Cell Phone
+Shellphone
+Trident
+Portal Gun
+Rod of Discord
+Rod of Harmony
+Umbrella
+Tragic Umbrella
+Magic Conch
+Demon Conch
+Terrain affecting
+Block-placing wands
+Dirt Rod
+Sandcastle Bucket
+Staff of Regrowth
+Axe of Regrowth
+Clentaminator
+Terraformer
+Lawn Mower
+Rubblemaker
+Mitey-Titey
+Portable Kiln
+Wiring
+Wrench
+Blue
+Green
+Yellow
+Multicolor
+Wire Cutter
+The Grand Design
+Actuation Rod
+Painting
+(Desktop, Console, Old-gen console and Mobile versions)
+Paintbrush
+Spectre
+Paint Roller
+Spectre
+Paint Scraper
+Spectre
+Other
+Bucket
+Bottomless Buckets
+Sponges
+Dirt Bomb
+Sticky
+Dry Bomb
+Honey
+Lava
+Wet
+Freeze Bomb
+Bug Net
+Lavaproof
+Golden
+Sickle
+Fishing poles
+Golf Clubs
+Golf Whistle
+Snake Charmer's Flute
+Water Gun
+Slime Gun
+Shimmer Gun
+Scrying Orb
+Encumbering Stone
+Inactive
+Lucky Clover
+Wilted Clover
+Raven Feather
+Guide to Critter Companionship
+Inactive
+Guide to Environmental Preservation
+Inactive
+Guide to Peaceful Coexistence
+Inactive
+Guide to Old World Parkour
+Inactive
