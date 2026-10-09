@@ -7,10 +7,10 @@ import json
 import argparse
 from pathlib import Path
 
-import faiss
 import numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
+from qdrant_store import get_client, upload_records
 
 try:
     from pypdf import PdfReader
@@ -116,11 +116,15 @@ def main():
         normalize_embeddings=True, 
     ).astype("float32")
 
-    dim = embeddings.shape[1]
-    index = faiss.IndexFlatIP(dim)  
-    index.add(embeddings)
+    client = get_client()
 
-    faiss.write_index(index, str(out_dir / "faiss.index"))
+    print("[+] Загружаю эмбеддинги в Qdrant...")
+    upload_records(
+        client=client,
+        records=records,
+        embeddings=embeddings,
+        batch_size=args.batch_size,
+    )
     
     with open(out_dir / "metadata.jsonl", "w", encoding="utf-8") as f:
         for r in records:
@@ -132,7 +136,6 @@ def main():
             "chunk_size_words": args.chunk_size,
             "overlap_words": args.overlap,
             "count": len(records),
-            "dim": dim,
         }, f, ensure_ascii=False, indent=2)
 
     print(f"[+] Готово. Индекс сохранён в {out_dir}/")

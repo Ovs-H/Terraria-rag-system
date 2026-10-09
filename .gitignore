@@ -1,2 +1,5 @@
 .venv
 index_store
+*/__pycache__
+qdrant_storage
+

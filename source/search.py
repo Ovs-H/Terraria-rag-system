@@ -1,70 +1,91 @@
 """
-Загружает индекс и ищет релевантные чанки по запросу.
-Использует префикс "query: " для моделей E5.
+Поиск релевантных чанков через Qdrant.
 """
 
-import json
 import sys
-from pathlib import Path
 
-import faiss
 from sentence_transformers import SentenceTransformer
 
-# КРИТИЧЕСКИ ВАЖНО: Для моделей E5 добавляем префикс "query: " к запросам.
-# (Если смените модель на не-E5, например bge-m3 или rubert, поставьте "")
+from qdrant_store import (
+    COLLECTION_NAME,
+    get_client,
+)
+
+
 QUERY_PREFIX = "query: "
+MODEL_NAME = "intfloat/multilingual-e5-small"
 
-def load(out_dir: str = "index_store"):
-    out = Path(out_dir)
-    cfg = json.loads((out / "config.json").read_text(encoding="utf-8"))
-    index = faiss.read_index(str(out / "faiss.index"))
-    records = [json.loads(line) for line in
-               (out / "metadata.jsonl").read_text(encoding="utf-8").splitlines()]
-    model = SentenceTransformer(cfg["model"])
-    return index, records, model, cfg
 
-def search(query: str, index, records, model, top_k: int = 5):
-    # Добавляем префикс к запросу
-    q = model.encode(
+def search(
+    query: str,
+    client,
+    model: SentenceTransformer,
+    top_k: int = 5,
+):
+    query_vector = model.encode(
         [QUERY_PREFIX + query],
         normalize_embeddings=True,
         convert_to_numpy=True,
-    ).astype("float32")
+    )[0].astype("float32").tolist()
 
-    scores, idxs = index.search(q, top_k)
+    response = client.query_points(
+        collection_name=COLLECTION_NAME,
+        query=query_vector,
+        limit=top_k,
+        with_payload=True,
+    )
+
     results = []
-    for score, i in zip(scores[0], idxs[0]):
-        if i == -1:
-            continue
-        results.append((float(score), records[i]))
+
+    for point in response.points:
+        payload = point.payload or {}
+
+        results.append(
+            {
+                "score": float(point.score),
+                "source": payload.get("source"),
+                "chunk_id": payload.get("chunk_id"),
+                "text": payload.get("text", ""),
+            }
+        )
+
     return results
+
 
 def main():
     if len(sys.argv) > 1:
         query = " ".join(sys.argv[1:]).strip()
     else:
         query = input("Введите запрос: ").strip()
-        
+
     if not query:
         raise SystemExit("Пустой запрос")
 
-    index, records, model, cfg = load()
-    print(f"\n[Модель: {cfg['model']} | Чанков: {cfg['count']} | Размерность: {cfg['dim']}]\n")
-    print("-" * 60)
+    client = get_client()
+    model = SentenceTransformer(MODEL_NAME)
 
-    results = search(query, index, records, model)
-    
+    results = search(
+        query=query,
+        client=client,
+        model=model,
+        top_k=5,
+    )
+
     if not results:
         print("Ничего не найдено.")
         return
 
-    for rank, (score, r) in enumerate(results, 1):
-        print(f"\n[{rank}] Score: {score:.4f} | Файл: {r['source']} | Чанк #{r['chunk_id']}")
-        # Выводим превью текста, заменяя переносы строк на пробелы для красоты
-        text_preview = r["text"].replace("\n", " ").strip()
-        print(f"Текст: {text_preview}...")
-        
-    print("\n" + "-" * 60)
+    for rank, result in enumerate(results, start=1):
+        text = result["text"].replace("\n", " ").strip()
+
+        print(
+            f"\n[{rank}] "
+            f"Score: {result['score']:.4f} | "
+            f"Файл: {result['source']} | "
+            f"Чанк #{result['chunk_id']}"
+        )
+        print(f"Текст: {text}...")
+
 
 if __name__ == "__main__":
     main()
