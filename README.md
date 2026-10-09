@@ -40,13 +40,10 @@
 
 ```text
 .
-├── parser.py            # Парсинг страниц Terraria Wiki
-├── indexer.py           # Чанкинг, эмбеддинги, построение FAISS-индекса
-├── search.py            # Поиск по индексу
-├── requirements.txt     # Зависимости
+├── requirements.txt
 ├── README.md
-├── dataset_raw/         # Сырые тексты после парсинга
-└── index_store/         # FAISS-индекс и метаданные
-    ├── faiss.index
-    ├── metadata.jsonl
-    └── config.json
+├── dataset_raw/
+└── source/
+    ├── parser.py 
+    ├── indexer.py 
+    └── search.py 
